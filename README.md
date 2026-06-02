@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [fsniper/ReBook](https://github.com/fsniper/ReBook) - The missing book store for remarkable.
 - [timower/rM2-stuff](https://github.com/timower/rM2-stuff) - Collection of reMarkable related apps, utilities and libraries.
 - [matteodelabre/vnsee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen
@@ -323,7 +324,7 @@
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots) - Wayfire is a 3D Wayland compositor
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
-- [j5onrf/dots](https://github.com/j5onrf/dots) - Hyprdots Hyprland Dotfiles Quickshell Local-Ai Minimal
+- [j5onrf/dots](https://github.com/j5onrf/dots) - Hyprdots, Hyprland Omarchy, Quickshell, Agentic Local-Ai, Custom Integrated, Minimal
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
 - [garuda-linux/firedragon](https://github.com/garuda-linux/firedragon) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
@@ -642,6 +643,7 @@
 
 ## JavaScript 
 
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [JeHwanYoo/cmux-aoc](https://github.com/JeHwanYoo/cmux-aoc) - cmux Always On Claude — pin your cmux context to the Claude Code status line.
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
@@ -1256,6 +1258,7 @@
 
 ## Python 
 
+- [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [mattpetters/worker-comfyui](https://github.com/mattpetters/worker-comfyui) - ComfyUI as a serverless API on RunPod
@@ -1682,6 +1685,7 @@
 
 ## Rust 
 
+- [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [LinusCDE/plato](https://github.com/LinusCDE/plato) - Document reader
 - [yara-blue/Book-safe](https://github.com/yara-blue/Book-safe) - A tool for the Remarkable Table to hide books or documents between a given time period.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -1803,6 +1807,7 @@
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [makepad/makepad.github.io](https://github.com/makepad/makepad.github.io) - Github pages repo with a wasm build and the old js makepad things.
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [jaybutera/mmo-rust-server](https://github.com/jaybutera/mmo-rust-server) - A simple example server in asynchronous Rust for MMO games
@@ -1893,6 +1898,7 @@
 
 ## Svelte 
 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial) - A basic realtime chat app with Pocketbase and Svelte
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
@@ -1900,6 +1906,9 @@
 
 ## Swift 
 
+- [irangareddy/petdex-swift](https://github.com/irangareddy/petdex-swift) - Swift Package and iOS example app for the public Petdex API
+- [shiroemons/codex-pet-watch-sprite](https://github.com/shiroemons/codex-pet-watch-sprite) - 
+- [filippello/focuspal](https://github.com/filippello/focuspal) - 
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [kitknox/rootshell](https://github.com/kitknox/rootshell) - rootshell - The terminal, reimagined for Apple platforms
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
@@ -2071,7 +2080,7 @@
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [angristan/opencode-wakatime](https://github.com/angristan/opencode-wakatime) - Track Opencode usage with Wakatime
 - [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
 - [zenobi-us/opencode-skillful](https://github.com/zenobi-us/opencode-skillful) - OpenCode Skills Plugin - Allow your opencode agents to lazy load prompts on demand.
 - [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory) - Supermemory plugin for OpenCode
@@ -2286,7 +2295,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [graphql/graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 - [calmondev/typegraphql-relay](https://github.com/calmondev/typegraphql-relay) - Relay-compliant GraphQL server using TypeGraphQL and TypeORM boilerplate.
 - [wemaintain/auto-relay](https://github.com/wemaintain/auto-relay) - Relay made simple in code-first GraphQL typescript applications
@@ -2429,7 +2437,7 @@
 - [SuperAuguste/zig-patterns](https://github.com/SuperAuguste/zig-patterns) - Common Zig patterns for you and your friends :)
 - [kristoff-it/kristRTX](https://github.com/kristoff-it/kristRTX) - "Raytracing on a weekend" done in Zig
 - [tammoippen/zig-plotille](https://github.com/tammoippen/zig-plotille) - Plot graphs and histograms in the terminal.
-- [meszmate/zigzag](https://github.com/meszmate/zigzag) - A delightful TUI framework for Zig
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
 - [muhammad-fiaz/tui.zig](https://github.com/muhammad-fiaz/tui.zig) - TUI.zig is a Modern and easy-to-use Terminal User Interface (TUI) library for the Zig programming language. It provides a rich set of features to create modern, responsive, and visually appealing term
 - [mattpetters/ghostty](https://github.com/mattpetters/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ziglibs/zgl](https://github.com/ziglibs/zgl) - Zig OpenGL Wrapper
