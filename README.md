@@ -428,6 +428,7 @@
 
 ## Go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [1broseidon/ketch](https://github.com/1broseidon/ketch) - Fast, stateless CLI for web search and scrape. Built for AI agents.
 - [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style
 - [jmadore-payfacto/claude-p-go](https://github.com/jmadore-payfacto/claude-p-go) - Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process tmux PTY session. Go version.
@@ -446,6 +447,7 @@
 - [drolosoft/cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - 🔄✨🖥️ Session persistence for cmux and Ghostty — save, restore, and manage your terminal workspaces. Never lose your layout again.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
@@ -503,7 +505,7 @@
 - [dhth/omm](https://github.com/dhth/omm) - on-my-mind: a keyboard-driven task manager for the command line
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [coder/aicommit](https://github.com/coder/aicommit) - become the world's laziest committer
 - [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -643,6 +645,7 @@
 
 ## JavaScript 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [JeHwanYoo/cmux-aoc](https://github.com/JeHwanYoo/cmux-aoc) - cmux Always On Claude — pin your cmux context to the Claude Code status line.
@@ -1257,6 +1260,12 @@
 
 ## Python 
 
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+- [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale te
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
+- [pguso/voice-agents-from-scratch](https://github.com/pguso/voice-agents-from-scratch) - From-scratch voice agents in Python: end-to-end speech pipelines, runnable chapters, and a small shared library. Local models, explicit streaming behavior.
+- [Jayy001/codexctl](https://github.com/Jayy001/codexctl) - Automated update managment for the ReMarkable tablet
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [hyyhf/agent-book-code](https://github.com/hyyhf/agent-book-code) - 《从0开始构建 AI 智能体》 一本带你亲手打造属于自己的AI Agent 的实战书
 - [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
@@ -1378,7 +1387,7 @@
 - [JosephThomasParker/ComfyUI-DrawThingsWrapper](https://github.com/JosephThomasParker/ComfyUI-DrawThingsWrapper) - 
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
-- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - An experimental agent that works across the browser and local file system
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [langchain-ai/langchain-meta](https://github.com/langchain-ai/langchain-meta) - Build LangChain applications with Meta
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -1685,6 +1694,11 @@
 
 ## Rust 
 
+- [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
+- [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [LinusCDE/plato](https://github.com/LinusCDE/plato) - Document reader
 - [yara-blue/Book-safe](https://github.com/yara-blue/Book-safe) - A tool for the Remarkable Table to hide books or documents between a given time period.
@@ -1796,7 +1810,7 @@
 - [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator written in Rust
 - [shaoner/padme-core](https://github.com/shaoner/padme-core) - Cross-platform gameboy emulator engine
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
-- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
+- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in Rust
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [datp4ddy/gbemulator](https://github.com/datp4ddy/gbemulator) - Gameboy Emulator in Rust
 - [mvdnes/rboy](https://github.com/mvdnes/rboy) - A Gameboy Emulator in Rust
@@ -1827,6 +1841,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [rmitchellscott/xovi-qmd-extensions](https://github.com/rmitchellscott/xovi-qmd-extensions) - My modifications, fixes, and QoL improvements for reMarkable tablets using xovi
@@ -1998,6 +2013,9 @@
 
 ## TypeScript 
 
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [razakadam74/gitmsg](https://github.com/razakadam74/gitmsg) - Fast, offline, deterministic Conventional Commit message generator. No LLM, no API key, no network.
+- [monroewilliams/pi-omlx-picker](https://github.com/monroewilliams/pi-omlx-picker) - OMLX model integration and interactive picker for Pi
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -2053,8 +2071,7 @@
 - [newyorkcompute/kalshi](https://github.com/newyorkcompute/kalshi) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
 - [rogeriochaves/open-managed-agents](https://github.com/rogeriochaves/open-managed-agents) - Self-hostable, open-source alternative to Claude Managed Agents. Multi-LLM support (Anthropic, OpenAI, Ollama), enterprise governance (org/teams/RBAC)
 - [mattpetters/multica](https://github.com/mattpetters/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Atomic-Chat is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [warpdotdev/oz-agent-action](https://github.com/warpdotdev/oz-agent-action) - Use the Oz coding agent in GitHub Actions
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
@@ -2085,7 +2102,7 @@
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [angristan/opencode-wakatime](https://github.com/angristan/opencode-wakatime) - Track Opencode usage with Wakatime
 - [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
 - [zenobi-us/opencode-skillful](https://github.com/zenobi-us/opencode-skillful) - OpenCode Skills Plugin - Allow your opencode agents to lazy load prompts on demand.
 - [supermemoryai/opencode-supermemory](https://github.com/supermemoryai/opencode-supermemory) - Supermemory plugin for OpenCode
@@ -2117,7 +2134,7 @@
 - [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning with a clean UI and a simple task format
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
