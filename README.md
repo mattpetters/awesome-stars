@@ -29,6 +29,7 @@
 - [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -417,7 +418,7 @@
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [danielfm/smudge](https://github.com/danielfm/smudge) - Control the Spotify app from within Emacs.
 - [ogdenwebb/emacs-kaolin-themes](https://github.com/ogdenwebb/emacs-kaolin-themes) - Set of eye pleasing themes for GNU Emacs. Supports both GUI and terminal.
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 
 ## FreeMarker 
 
@@ -573,6 +574,10 @@
 - [terraform-google-modules/terraform-google-group](https://github.com/terraform-google-modules/terraform-google-group) - Manages Google Groups
 - [tree-sitter-grammars/tree-sitter-hcl](https://github.com/tree-sitter-grammars/tree-sitter-hcl) - HCL grammar for tree-sitter
 - [kbst/terraform-helm-vs-kustomize](https://github.com/kbst/terraform-helm-vs-kustomize) - 
+
+## HLSL 
+
+- [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 
 ## HTML 
 
@@ -807,7 +812,7 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [react-csv/react-csv](https://github.com/react-csv/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
-- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
+- [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [HTML5Hub/museum-of-mario](https://github.com/HTML5Hub/museum-of-mario) - IGN presents: Museum Of Mario
 - [InnerSourceCommons/InnerSourceLearningPath](https://github.com/InnerSourceCommons/InnerSourceLearningPath) - Holds the source material for the InnerSource Commons Learning Path
@@ -881,7 +886,7 @@
 - [Bishop92/JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
 - [bunsn/boiler](https://github.com/bunsn/boiler) - Simplify the task of exporting financial data from banking websites.
 - [orinocoz/pirateflix](https://github.com/orinocoz/pirateflix) - :movie_camera: Stream piratebay movies directly from CLI
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [trentm/node-bunyan](https://github.com/trentm/node-bunyan) - a simple and fast JSON logging module for node.js services
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
 
@@ -1267,6 +1272,7 @@
 
 ## Python 
 
+- [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG) - [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 - [TenStrip/10S-Comfy-nodes](https://github.com/TenStrip/10S-Comfy-nodes) - Vibe coded nodes for LTX2.3
 - [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.
@@ -1410,7 +1416,7 @@
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template) - A modern template for agentic orchestration — built for rapid iteration and scalable deployment using highly customizable, community-supported tools like MCP, LangGraph, and more.
-- [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
+- [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) - Model Context Protocol server to allow for reading and writing from Pinecone. Rudimentary RAG
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp) - openai websearch tool as mcp server
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlinin
@@ -1582,7 +1588,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API to easily summarize text-based files with transformers
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
@@ -1706,6 +1712,7 @@
 
 ## Rust 
 
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
@@ -1960,7 +1967,7 @@
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [nyshk97/diff-viewer](https://github.com/nyshk97/diff-viewer) - A launcher-style macOS app to check Git diffs across repos — overlays fullscreen apps, no window switching needed.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-- [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI/Desktop/VSC,  Claude Code CLI/Desktop,  OpenCode CLI, Gemini CLI, Pi CLI , GitHub Copilot CLI + OpenClaw & Hermes agents. Se
+- [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [SideStore/SideServer-macOS](https://github.com/SideStore/SideServer-macOS) - Glorified SideStore Installer in server-form to use as an optional backup anisette server, and optional auto-refresher of SideStore
@@ -2029,6 +2036,7 @@
 
 ## TypeScript 
 
+- [LachlanArthur/Braille-ASCII-Art](https://github.com/LachlanArthur/Braille-ASCII-Art) - Convert images to ASCII art using Braille symbols
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [olilarkin/paulstretch-for-live](https://github.com/olilarkin/paulstretch-for-live) - Ableton Live Extension embedding Paulstretch
@@ -2113,7 +2121,7 @@
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 - [nghyane/lazyctl](https://github.com/nghyane/lazyctl) - ⚙️ A lazy terminal UI for managing system services — macOS (launchd) & Linux (systemd)
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [vicoa-ai/opencode-vicoa](https://github.com/vicoa-ai/opencode-vicoa) - 
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [Postmodum37/ocwatch](https://github.com/Postmodum37/ocwatch) - Real-time web dashboard for monitoring OpenCode agent activity — built for oh-my-opencode
@@ -2193,7 +2201,7 @@
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
