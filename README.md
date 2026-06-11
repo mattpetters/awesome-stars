@@ -186,6 +186,7 @@
 
 ## C# # 
 
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [dlech/KeePass2.x](https://github.com/dlech/KeePass2.x) - unofficial mirror of KeePass2.x source code
 - [tubearchivist/tubearchivist-jf-plugin](https://github.com/tubearchivist/tubearchivist-jf-plugin) - Metadata for your TubeArchivist library on Jellyfin.
@@ -233,7 +234,7 @@
 - [dmcke5/NucDeck](https://github.com/dmcke5/NucDeck) - The Open Source DIY Handheld Gaming PC!
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
 - [Overv/VulkanTutorial](https://github.com/Overv/VulkanTutorial) - Tutorial for the Vulkan graphics and compute API
-- [folium-app/Folium](https://github.com/folium-app/Folium) - Folium is a beautifully designed, high performing multi-system emulation app bringing retro gaming to Apple devices
+- [folium-app/Folium-Backup](https://github.com/folium-app/Folium-Backup) - Folium is a beautifully designed, high performing multi-system emulation app bringing retro gaming to Apple devices
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [hyprwm/hyprsysteminfo](https://github.com/hyprwm/hyprsysteminfo) - A tiny qt6/qml application to display information about the running system
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -431,6 +432,7 @@
 
 ## Go 
 
+- [manaflow-ai/subrouter](https://github.com/manaflow-ai/subrouter) - Subrouter routes Codex/Claude Code traffic across multiple ChatGPT Pro/Claude Max subscriptions and API keys.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [mattpetters/mactop](https://github.com/mattpetters/mactop) - mactop - Apple Silicon Monitor Top
@@ -1272,6 +1274,7 @@
 
 ## Python 
 
+- [ZXCurban/NetOrbit](https://github.com/ZXCurban/NetOrbit) - Network traffic visualization tool
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG) - [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 - [TenStrip/10S-Comfy-nodes](https://github.com/TenStrip/10S-Comfy-nodes) - Vibe coded nodes for LTX2.3
@@ -1588,7 +1591,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API to easily summarize text-based files with transformers
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
@@ -2036,12 +2039,13 @@
 
 ## TypeScript 
 
+- [itracksy/itracksy](https://github.com/itracksy/itracksy) - The Only Time Tracker You Need
 - [LachlanArthur/Braille-ASCII-Art](https://github.com/LachlanArthur/Braille-ASCII-Art) - Convert images to ASCII art using Braille symbols
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [olilarkin/paulstretch-for-live](https://github.com/olilarkin/paulstretch-for-live) - Ableton Live Extension embedding Paulstretch
 - [bencodec/BBenCut](https://github.com/bencodec/BBenCut) - An Ableton Live extension that applies BBCut breakbeat cutting algorithms to AudioClips in the Live's Arrangement View.
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [razakadam74/gitmsg](https://github.com/razakadam74/gitmsg) - Fast, offline, deterministic Conventional Commit message generator. No LLM, no API key, no network.
 - [monroewilliams/pi-omlx-picker](https://github.com/monroewilliams/pi-omlx-picker) - OMLX model integration and interactive picker for Pi
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
