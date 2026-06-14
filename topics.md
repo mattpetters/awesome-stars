@@ -1751,6 +1751,7 @@
 ## framework 
 
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Complete guide to running large language models locally on AMD Strix Halo / Ryzen AI MAX+ 395 with Radeon 8060S (gfx1151) and 96GB/128GB unified memory. Covers BIOS config, Ubuntu/kernel setup, Ollama
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -2623,7 +2624,7 @@
 - [raullenchai/awesome-mlx](https://github.com/raullenchai/awesome-mlx) - A curated list of awesome projects, tools, and resources for Apple MLX — the ML framework for Apple Silicon
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
-- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - AMD Strix Halo local LLM guide: direct 100.0 t/s 30B Qwen MoE on Ryzen AI MAX+ 395 / Radeon 8060S. Setup, benchmarks, raw evidence.
+- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Complete guide to running large language models locally on AMD Strix Halo / Ryzen AI MAX+ 395 with Radeon 8060S (gfx1151) and 96GB/128GB unified memory. Covers BIOS config, Ubuntu/kernel setup, Ollama
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The Runpod worker template for serving our large language model endpoints. Powered by vLLM.
@@ -3648,7 +3649,7 @@
 - [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins
 - [mattpetters/timr-tui](https://github.com/mattpetters/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer.
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
-- [TrevorS/gemma-4-abliteration](https://github.com/TrevorS/gemma-4-abliteration) - Gemma 4 abliteration research: biprojection + EGA for E2B, E4B, 26B MoE, 31B
+- [TrevorS/gemma-4-abliteration](https://github.com/TrevorS/gemma-4-abliteration) - Gemma 4 abliteration research: biprojection + EGA for E2B, E4B, 12B, 26B MoE, 31B
 - [Pika-Labs/Pika-Skills](https://github.com/Pika-Labs/Pika-Skills) - 
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [nyshk97/diff-viewer](https://github.com/nyshk97/diff-viewer) - A launcher-style macOS app to check Git diffs across repos — overlays fullscreen apps, no window switching needed.
