@@ -73,6 +73,7 @@
 - [TSQL](#tsql)
 - [TeX](#tex)
 - [Text](#text)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vim Script](#vim-script)
@@ -410,6 +411,7 @@
 
 ## Elixir 
 
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
@@ -434,6 +436,7 @@
 
 ## Go 
 
+- [KarnerTh/mermerd](https://github.com/KarnerTh/mermerd) - Create Mermaid-Js ERD diagrams from existing tables
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [manaflow-ai/subrouter](https://github.com/manaflow-ai/subrouter) - Subrouter routes Codex/Claude Code traffic across multiple ChatGPT Pro/Claude Max subscriptions and API keys.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -661,6 +664,12 @@
 
 ## JavaScript 
 
+- [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+- [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
+- [gkoos/mermaid-editor](https://github.com/gkoos/mermaid-editor) - Simple mermaid editor/renderer
+- [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native micro Web UI for scripts and agents — super fast OS native webview with bidirectional JSON communication for agents
 - [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - A variety of custom ComfyUI nodes and workflows
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -720,7 +729,6 @@
 - [eslint/css](https://github.com/eslint/css) - CSS language plugin for ESLint
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
 - [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) - Engineering JSONResume theme
@@ -943,6 +951,12 @@
 
 ## Lua 
 
+- [nvimdev/dbsession.nvim](https://github.com/nvimdev/dbsession.nvim) - a simple small powerful session for neovim
+- [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
+- [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
+- [Praczet/little-taskwarrior.nvim](https://github.com/Praczet/little-taskwarrior.nvim) - A little helper for displaying tasks from TaskWarrior in NeoVim Dashboard
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 45+ independent Lua modules improving Neovim experience with minimal effort
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of https://github.com/wbthomason/packer.nvim
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven
@@ -1179,7 +1193,6 @@
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [monroewilliams/MatrixDownload](https://github.com/monroewilliams/MatrixDownload) - Releases of my Matrix screensaver.
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew/bundle (merged into Homebrew/brew)
-- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [pfist/Nano](https://github.com/pfist/Nano) - A tiny template for tiny Unreal games.
@@ -1280,6 +1293,7 @@
 
 ## Python 
 
+- [FiditeNemini/z-image-turbo-mlx](https://github.com/FiditeNemini/z-image-turbo-mlx) - An experimental UI for Z-Image-Base and Turbo image generation, model porting to MLX.
 - [liconstudio/ComfyUI-Licon-MSR](https://github.com/liconstudio/ComfyUI-Licon-MSR) - A ComfyUI custom node designed for LTX 2.3 MSR (Multiple-Subject-Reference) LoRA workflows.
 - [ZXCurban/NetOrbit](https://github.com/ZXCurban/NetOrbit) - Network traffic visualization tool
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
@@ -1695,6 +1709,7 @@
 
 ## Ruby 
 
+- [jedcn/reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -1722,12 +1737,14 @@
 
 ## Rust 
 
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [cmdock/server](https://github.com/cmdock/server) - AGPL-3.0 TaskWarrior sync server — Rust, Axum, TaskChampion.
 - [GothenburgBitFactory/taskchampion-sync-server](https://github.com/GothenburgBitFactory/taskchampion-sync-server) - The sync server for Taskchampion
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [mattpetters/omniget](https://github.com/mattpetters/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
@@ -1763,7 +1780,6 @@
 - [ghuntley/loom](https://github.com/ghuntley/loom) - if your name is not Geoffrey Huntley then do not use loom
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [mattpetters/timr-tui](https://github.com/mattpetters/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -1894,6 +1910,7 @@
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+- [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [fabioluciano/tmux-powerkit](https://github.com/fabioluciano/tmux-powerkit) - The Ultimate tmux Status Bar Framework
@@ -1951,7 +1968,6 @@
 
 ## Svelte 
 
-- [mattpetters/omniget](https://github.com/mattpetters/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial) - A basic realtime chat app with Pocketbase and Svelte
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
@@ -2051,8 +2067,24 @@
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
+## Tree-sitter Query 
+
+- [gabeins/zed-mermaid](https://github.com/gabeins/zed-mermaid) - Mermaid support for Zed
+
 ## TypeScript 
 
+- [arnaudrenaud/speccharts](https://github.com/arnaudrenaud/speccharts) - 
+- [remcohaszing/mermaid-isomorphic](https://github.com/remcohaszing/mermaid-isomorphic) - Transform mermaid diagrams in the browser or Node.js
+- [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
+- [CONNECT-platform/codedoc](https://github.com/CONNECT-platform/codedoc) - Create beautiful modern documentation websites.
+- [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) - The HackMD Command Line Tool
+- [dotnetfactory/markdownflows](https://github.com/dotnetfactory/markdownflows) - 
+- [saketkattu/mermaid-visual-editor](https://github.com/saketkattu/mermaid-visual-editor) - Visual drag-and-drop editor for Mermaid.js flowcharts. Draw first, export syntax.
+- [Vesperino/MerMarkEditor](https://github.com/Vesperino/MerMarkEditor) - Elegant and simple Markdown, Mermaid editor
 - [itracksy/itracksy](https://github.com/itracksy/itracksy) - The Only Time Tracker You Need
 - [LachlanArthur/Braille-ASCII-Art](https://github.com/LachlanArthur/Braille-ASCII-Art) - Convert images to ASCII art using Braille symbols
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -2123,6 +2155,7 @@
 - [leolabs/ableton-js](https://github.com/leolabs/ableton-js) - Control Ableton Live with Node.js
 - [xiaolaa2/ableton-copilot-mcp](https://github.com/xiaolaa2/ableton-copilot-mcp) - An MCP server built on ableton-js enables AI assistants to control Ableton Live in real time, including Arrangement View operations such as song management, track control, MIDI editing, and audio reco
 - [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [saadnvd1/aTerm](https://github.com/saadnvd1/aTerm) - Agentic terminal workspace for AI-assisted coding. Run Claude Code, Aider, or OpenCode alongside your shell in project-based layouts.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
@@ -2437,6 +2470,7 @@
 
 ## Vim Script 
 
+- [zhaozg/vim-diagram](https://github.com/zhaozg/vim-diagram) - Vim Mermaid Syntax plugin
 - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
