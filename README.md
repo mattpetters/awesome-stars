@@ -554,7 +554,7 @@
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [kekedaine/presentation-gitlab-k8s](https://github.com/kekedaine/presentation-gitlab-k8s) - presentation-gitlab-k8s
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -701,7 +701,6 @@
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [cdrchops/sample_obsidian_folder](https://github.com/cdrchops/sample_obsidian_folder) - 
 - [dennisdebel/pi_dj](https://github.com/dennisdebel/pi_dj) - Tips, configs and skins for djing using open source dj software, a raspberry pi and a controller.
-- [marcmonka/XDJ100SX](https://github.com/marcmonka/XDJ100SX) - Open Source Standalone DJ Deck using an old CDJ 100 S
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
@@ -1910,6 +1909,7 @@
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [iamfakeguru/agent-md](https://github.com/iamfakeguru/agent-md) - Production-grade agent directives for autonomous coding agents: Claude Code, Codex, Cursor, Windsurf, Aider.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
+- [marcmonka/XDJ100SX](https://github.com/marcmonka/XDJ100SX) - Open Source Standalone DJ Deck using an old CDJ 100 S
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
