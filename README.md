@@ -203,6 +203,18 @@
 
 ## C++ 
 
+- [sudara/pamplejuce](https://github.com/sudara/pamplejuce) - A JUCE audio plugin template. JUCE 8, Catch2, Pluginval, macOS notarization, Azure Trusted Signing, Github Actions
+- [pndias/hott-master-vst](https://github.com/pndias/hott-master-vst) - Hott Master VST3 — Professional mastering plugin with Soothe-style resonance suppressor, linear phase EQ, SSL bus compressor, soft clipper, and true peak limiter
+- [DJMAccie/Utali-EQ](https://github.com/DJMAccie/Utali-EQ) - Utali Equalizer based on the SSL EQ mixed with the Pulteq Low and High end trick
+- [stevemurr/axon](https://github.com/stevemurr/axon) - Adaptive neural mastering chain in a single CLAP plugin — adaptive EQ, exciter, SSL-style glue, bass-mono & a loudness maximizer (macOS).
+- [Kiriki-liszt/Sky_Blue_EQ4](https://github.com/Kiriki-liszt/Sky_Blue_EQ4) - Sky Blue EQ4 is maag-like tone shaping eq.
+- [Kiriki-liszt/VLC_EQ](https://github.com/Kiriki-liszt/VLC_EQ) - Port of VLC EQ, a graphic EQ with musically selected bands
+- [Kiriki-liszt/VLC_Compressor](https://github.com/Kiriki-liszt/VLC_Compressor) - Port of VLC Compressor, a dynamic range compressor ported from plugins from LADSPA SWH
+- [Kiriki-liszt/Comp001](https://github.com/Kiriki-liszt/Comp001) - 
+- [Kiriki-liszt/easy_box](https://github.com/Kiriki-liszt/easy_box) - 500-style channel strip for vocal-podcasting.
+- [Kiriki-liszt/Relief_Compressor](https://github.com/Kiriki-liszt/Relief_Compressor) - Relief Compressor is a Compressor for everyday tasks, anywhere from mixing a track to master bus.
+- [Kiriki-liszt/Relief_EQ](https://github.com/Kiriki-liszt/Relief_EQ) - Relief EQ is a EQ for everyday tasks, anywhere from mixing a track to master bus.
+- [Kiriki-liszt/JS_Inflator](https://github.com/Kiriki-liszt/JS_Inflator) - JS Inflator is a copy of Sonox Inflator.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
@@ -1263,6 +1275,8 @@
 
 ## PHP 
 
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
@@ -1291,6 +1305,7 @@
 
 ## Python 
 
+- [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
 - [ai4society/GenAIResultsComparator](https://github.com/ai4society/GenAIResultsComparator) - A Python library providing evaluation metrics to compare generated texts from LLMs, often against reference texts. Features streamlined workflows for model comparison and visualization.
 - [FiditeNemini/z-image-turbo-mlx](https://github.com/FiditeNemini/z-image-turbo-mlx) - An experimental UI for Z-Image-Base and Turbo image generation, model porting to MLX.
@@ -1709,6 +1724,7 @@
 
 ## Ruby 
 
+- [ReaTeam/JSFX](https://github.com/ReaTeam/JSFX) - Community-maintained collection of JS effects for REAPER
 - [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)
 - [jedcn/reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -2076,6 +2092,7 @@
 
 ## TypeScript 
 
+- [motherduckdb/obsidian-duckdb-motherduck](https://github.com/motherduckdb/obsidian-duckdb-motherduck) - Obsidian Plugin for DuckDB & MotherDuck
 - [arnaudrenaud/speccharts](https://github.com/arnaudrenaud/speccharts) - 
 - [remcohaszing/mermaid-isomorphic](https://github.com/remcohaszing/mermaid-isomorphic) - Transform mermaid diagrams in the browser or Node.js
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
