@@ -373,11 +373,13 @@
 
 ## ai 
 
+- [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale te
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [hyyhf/agent-book-code](https://github.com/hyyhf/agent-book-code) - 《从0开始构建 AI 智能体》 一本带你亲手打造属于自己的AI Agent 的实战书
@@ -1168,6 +1170,7 @@
 
 ## coding 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlinin
 
@@ -1677,6 +1680,7 @@
 
 ## fastapi 
 
+- [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale te
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -2119,6 +2123,7 @@
 
 ## hacktoberfest 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -2535,6 +2540,8 @@
 
 ## laravel 
 
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [philspil66/gatekeeper](https://github.com/philspil66/gatekeeper) - Gatekeeper is a package to manage Feature Flagging within a Laravel project.
 
@@ -3193,6 +3200,7 @@
 
 ## nextjs 
 
+- [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -3382,6 +3390,7 @@
 
 ## open-source 
 
+- [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [marriagav/taskchamp](https://github.com/marriagav/taskchamp) - Taskwarrior iOS interface app
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
@@ -3494,6 +3503,20 @@
 
 ## others 
 
+- [sudara/pamplejuce](https://github.com/sudara/pamplejuce) - A JUCE audio plugin template. JUCE 8, Catch2, Pluginval, macOS notarization, Azure Trusted Signing, Github Actions
+- [pndias/hott-master-vst](https://github.com/pndias/hott-master-vst) - Hott Master VST3 — Professional mastering plugin with Soothe-style resonance suppressor, linear phase EQ, SSL bus compressor, soft clipper, and true peak limiter
+- [DJMAccie/Utali-EQ](https://github.com/DJMAccie/Utali-EQ) - Utali Equalizer based on the SSL EQ mixed with the Pulteq Low and High end trick
+- [stevemurr/axon](https://github.com/stevemurr/axon) - Adaptive neural mastering chain in a single CLAP plugin — adaptive EQ, exciter, SSL-style glue, bass-mono & a loudness maximizer (macOS).
+- [Kiriki-liszt/Sky_Blue_EQ4](https://github.com/Kiriki-liszt/Sky_Blue_EQ4) - Sky Blue EQ4 is maag-like tone shaping eq.
+- [Kiriki-liszt/VLC_EQ](https://github.com/Kiriki-liszt/VLC_EQ) - Port of VLC EQ, a graphic EQ with musically selected bands
+- [Kiriki-liszt/VLC_Compressor](https://github.com/Kiriki-liszt/VLC_Compressor) - Port of VLC Compressor, a dynamic range compressor ported from plugins from LADSPA SWH
+- [Kiriki-liszt/Comp001](https://github.com/Kiriki-liszt/Comp001) - 
+- [Kiriki-liszt/easy_box](https://github.com/Kiriki-liszt/easy_box) - 500-style channel strip for vocal-podcasting.
+- [Kiriki-liszt/Relief_Compressor](https://github.com/Kiriki-liszt/Relief_Compressor) - Relief Compressor is a Compressor for everyday tasks, anywhere from mixing a track to master bus.
+- [Kiriki-liszt/Relief_EQ](https://github.com/Kiriki-liszt/Relief_EQ) - Relief EQ is a EQ for everyday tasks, anywhere from mixing a track to master bus.
+- [ReaTeam/JSFX](https://github.com/ReaTeam/JSFX) - Community-maintained collection of JS effects for REAPER
+- [Kiriki-liszt/JS_Inflator](https://github.com/Kiriki-liszt/JS_Inflator) - JS Inflator is a copy of Sonox Inflator.
+- [motherduckdb/obsidian-duckdb-motherduck](https://github.com/motherduckdb/obsidian-duckdb-motherduck) - Obsidian Plugin for DuckDB & MotherDuck
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
 - [arnaudrenaud/speccharts](https://github.com/arnaudrenaud/speccharts) - 
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -3533,7 +3556,6 @@
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [Jayy001/codexctl](https://github.com/Jayy001/codexctl) - Automated update managment for the ReMarkable tablet
 - [monroewilliams/pi-omlx-picker](https://github.com/monroewilliams/pi-omlx-picker) - OMLX model integration and interactive picker for Pi
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
@@ -4523,6 +4545,7 @@
 
 ## php 
 
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
@@ -5146,6 +5169,7 @@
 
 ## self-hosted 
 
+- [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
