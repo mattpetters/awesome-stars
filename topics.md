@@ -3503,6 +3503,7 @@
 
 ## others 
 
+- [b3ric/archiveproxy](https://github.com/b3ric/archiveproxy) - 
 - [sudara/pamplejuce](https://github.com/sudara/pamplejuce) - A JUCE audio plugin template. JUCE 8, Catch2, Pluginval, macOS notarization, Azure Trusted Signing, Github Actions
 - [pndias/hott-master-vst](https://github.com/pndias/hott-master-vst) - Hott Master VST3 — Professional mastering plugin with Soothe-style resonance suppressor, linear phase EQ, SSL bus compressor, soft clipper, and true peak limiter
 - [DJMAccie/Utali-EQ](https://github.com/DJMAccie/Utali-EQ) - Utali Equalizer based on the SSL EQ mixed with the Pulteq Low and High end trick
@@ -4365,7 +4366,7 @@
 - [NVIDIAGPUTeachingKit/jethost](https://github.com/NVIDIAGPUTeachingKit/jethost) - The ROS nodes that run on a host computer for interacting with Jet.
 - [NVIDIAGPUTeachingKit/rosjet](https://github.com/NVIDIAGPUTeachingKit/rosjet) - Standard libraries
 - [citelao/Spotify-for-Alfred](https://github.com/citelao/Spotify-for-Alfred) - aka Spotifious — a natural Spotify controller for Alfred
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [rachelruijiayang/student-jet](https://github.com/rachelruijiayang/student-jet) - 
 - [Shougo/unite.vim](https://github.com/Shougo/unite.vim) - :dragon: Unite and create user interfaces
 - [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim) - :file_folder: Powerful file explorer implemented by Vim script
