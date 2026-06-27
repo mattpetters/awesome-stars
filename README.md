@@ -685,6 +685,7 @@
 
 ## JavaScript 
 
+- [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -971,6 +972,7 @@
 
 ## Lua 
 
+- [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
 - [nvimdev/dbsession.nvim](https://github.com/nvimdev/dbsession.nvim) - a simple small powerful session for neovim
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
@@ -1317,6 +1319,7 @@
 
 ## Python 
 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [pazz/alot](https://github.com/pazz/alot) - Terminal-based Mail User Agent
@@ -2008,6 +2011,7 @@
 
 ## Swift 
 
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [shobhit99/SuperIsland](https://github.com/shobhit99/SuperIsland) - Dynamic Island for MacOS — with Extensions
 - [edwardsanchez/Tinkerble](https://github.com/edwardsanchez/Tinkerble) - 
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
@@ -2109,6 +2113,7 @@
 
 ## TypeScript 
 
+- [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) - Control panel for VLLM, Sglang, llama.cpp, exllamav3
 - [soundshed/soundshed-app](https://github.com/soundshed/soundshed-app) - Desktop and Web app to browse and manage guitar amp tones. Control your bluetooth amp, jam to video backing tracks.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
