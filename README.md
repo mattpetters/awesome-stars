@@ -610,6 +610,7 @@
 
 - [b3ric/archiveproxy](https://github.com/b3ric/archiveproxy) - 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
+- [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
 - [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
@@ -1319,6 +1320,7 @@
 
 ## Python 
 
+- [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
@@ -1769,6 +1771,7 @@
 
 ## Rust 
 
+- [OsamaMahmood/lazytask](https://github.com/OsamaMahmood/lazytask) - Simple terminal UI for taskwarrior : lazytask inspired by lazygit
 - [RustCastLabs/rustcast](https://github.com/RustCastLabs/rustcast) - An open source alternative to raycast, in rust!!
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -2025,7 +2028,6 @@
 - [kitknox/rootshell](https://github.com/kitknox/rootshell) - rootshell - The terminal, reimagined for Apple platforms
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [nek0der/limpid-archive](https://github.com/nek0der/limpid-archive) - A macOS-native terminal for the AI coding agent era
-- [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
 - [bradjenn/blink](https://github.com/bradjenn/blink) - A modern AI terminal
 - [aiyu-ai/AiyuTerm](https://github.com/aiyu-ai/AiyuTerm) - Native macOS terminal workspace — multi-repo sidebar, persistent split layouts, SSH, tmux, and real-time AI agent status. Powered by Ghostty.
 - [g960059/agtmux-term](https://github.com/g960059/agtmux-term) - AI-agent-aware terminal emulator — libghostty + SwiftUI sidebar
