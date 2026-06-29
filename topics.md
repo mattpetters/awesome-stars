@@ -680,6 +680,7 @@
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [LiveEnhancementSuite/HSModule](https://github.com/LiveEnhancementSuite/HSModule) - Hammerspoon Module used in the Live Enhancement Suite (for macOS)
 - [LiveEnhancementSuite/LESforMacOS](https://github.com/LiveEnhancementSuite/LESforMacOS) - Ableton Live, supercharged (on macOS)
+- [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A scriptable Dropbox CLI for files, shared links, teams, and automation workflows
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1148,7 +1149,7 @@
 - [AlexanderWillner/things.sh](https://github.com/AlexanderWillner/things.sh) - Simple read-only comand-line interface to your Things 3 database
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
-- [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
+- [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A scriptable Dropbox CLI for files, shared links, teams, and automation workflows
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
@@ -1219,6 +1220,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
+- [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A scriptable Dropbox CLI for files, shared links, teams, and automation workflows
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
