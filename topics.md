@@ -2941,6 +2941,7 @@
 
 ## markdown 
 
+- [chuangcaleb/obsidian-fountain-editor](https://github.com/chuangcaleb/obsidian-fountain-editor) - Obsidian plugin for Fountain screenplay syntax formatting.
 - [jedcn/reveal-ck](https://github.com/jedcn/reveal-ck) - Create slides with ruby (and usually in markdown)
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -3390,6 +3391,7 @@
 
 ## obsidian 
 
+- [chuangcaleb/obsidian-fountain-editor](https://github.com/chuangcaleb/obsidian-fountain-editor) - Obsidian plugin for Fountain screenplay syntax formatting.
 - [marriagav/taskchamp](https://github.com/marriagav/taskchamp) - Taskwarrior iOS interface app
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [sidequery/mdlint](https://github.com/sidequery/mdlint) - A markdown linter for knowledge bases. Supports backlinks, frontmatter, etc.
@@ -3405,6 +3407,8 @@
 
 ## obsidian-md 
 
+- [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
+- [chuangcaleb/obsidian-fountain-editor](https://github.com/chuangcaleb/obsidian-fountain-editor) - Obsidian plugin for Fountain screenplay syntax formatting.
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [sytone/obsidian-remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.
@@ -3419,6 +3423,8 @@
 
 ## obsidian-plugin 
 
+- [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
+- [chuangcaleb/obsidian-fountain-editor](https://github.com/chuangcaleb/obsidian-fountain-editor) - Obsidian plugin for Fountain screenplay syntax formatting.
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 - [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
