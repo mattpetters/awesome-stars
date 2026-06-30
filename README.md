@@ -1422,7 +1422,6 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
 - [spak2005/smart-mcp](https://github.com/spak2005/smart-mcp) - A semantic tool routing proxy for AI agents. Indexes all MCP tools with FAISS embeddings, surfaces only what's relevant. 97% context reduction.
 - [JimmyLv/narrator-vision-tts](https://github.com/JimmyLv/narrator-vision-tts) - David Attenborough narrates your life
@@ -2115,6 +2114,8 @@
 
 ## TypeScript 
 
+- [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
+- [chuangcaleb/obsidian-fountain-editor](https://github.com/chuangcaleb/obsidian-fountain-editor) - Obsidian plugin for Fountain screenplay syntax formatting.
 - [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) - Control panel for VLLM, Sglang, llama.cpp, exllamav3
 - [soundshed/soundshed-app](https://github.com/soundshed/soundshed-app) - Desktop and Web app to browse and manage guitar amp tones. Control your bluetooth amp, jam to video backing tracks.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
@@ -2214,6 +2215,7 @@
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 - [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
