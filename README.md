@@ -976,6 +976,7 @@
 
 ## Lua 
 
+- [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
 - [nvimdev/dbsession.nvim](https://github.com/nvimdev/dbsession.nvim) - a simple small powerful session for neovim
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
@@ -1804,7 +1805,7 @@
 - [itsbalamurali/gpui-mobile](https://github.com/itsbalamurali/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [mattpetters/zed](https://github.com/mattpetters/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
@@ -1983,7 +1984,6 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [spywhere/tmux-now-playing](https://github.com/spywhere/tmux-now-playing) - Add music player with music control through key bindings to tmux
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [ankushKun/dotfiles](https://github.com/ankushKun/dotfiles) - config files
 - [lukaszbudnik/keycloak-kubernetes](https://github.com/lukaszbudnik/keycloak-kubernetes) - Keycloak cluster deployed to Kubernetes
 - [AlexanderWillner/things.sh](https://github.com/AlexanderWillner/things.sh) - Simple read-only comand-line interface to your Things 3 database
 - [gitpod-io/gitpod-gke-guide](https://github.com/gitpod-io/gitpod-gke-guide) - Running Gitpod in Google Kubernetes Engine
@@ -2171,7 +2171,7 @@
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [Explosion-Scratch/whisper-mac](https://github.com/Explosion-Scratch/whisper-mac) - Local first, powerful transcription app for macOS
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
-- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - Native Pi coding agent extensions for Chrome DevTools, Firecrawl web scraping, goal mode, retries,  statusline, and caffeinate automation.
+- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Python and more,  Chrome DevTools automation, Firecrawl web scrap
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
 - [Cheng-Zi-Qing/stepvox](https://github.com/Cheng-Zi-Qing/stepvox) - 
