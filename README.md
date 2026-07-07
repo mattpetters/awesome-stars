@@ -187,6 +187,7 @@
 
 ## C# # 
 
+- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [VirtuosicAI/MIDI-Splitter-Lite](https://github.com/VirtuosicAI/MIDI-Splitter-Lite) - A simple, lightweight program that splits tracks from a single MIDI file into their own separate MIDI files.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
@@ -704,11 +705,12 @@
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [jasonkneen/tiny-world-builder](https://github.com/jasonkneen/tiny-world-builder) - tiny-world-builder
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
 - [dannymcc/Granola-to-Obsidian](https://github.com/dannymcc/Granola-to-Obsidian) - An Obsidian plugin to automatically sync notes from Granola AI
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [vllm-project/recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 - [bmad-code-org/bmad-method-test-architecture-enterprise](https://github.com/bmad-code-org/bmad-method-test-architecture-enterprise) - Test Architect Full BMad Method Enhancement
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -1940,7 +1942,6 @@
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
 - [rmitchellscott/xovi-qmd-extensions](https://github.com/rmitchellscott/xovi-qmd-extensions) - My modifications, fixes, and QoL improvements for reMarkable tablets using xovi
 - [avikalpa/codex-litellm](https://github.com/avikalpa/codex-litellm) - Maintained LiteLLM patchset for Codex CLI.
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
