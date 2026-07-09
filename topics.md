@@ -3755,7 +3755,6 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [jasonkneen/mcpz](https://github.com/jasonkneen/mcpz) - 
-- [serpapps/udemy-video-downloader](https://github.com/serpapps/udemy-video-downloader) - Download complete Udemy courses with resources and subtitles
 - [liftaris/bazaar-ghost](https://github.com/liftaris/bazaar-ghost) - 
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
