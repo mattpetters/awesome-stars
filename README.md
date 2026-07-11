@@ -2122,6 +2122,7 @@
 
 ## TypeScript 
 
+- [FranMCodes/squig-to-ffp-converter](https://github.com/FranMCodes/squig-to-ffp-converter) - Convert SQUIG curves ⇆ FabFilter Pro-Q presets in seconds — 100% offline.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
@@ -2263,7 +2264,7 @@
 - [ghoulr/opencode-websearch-cited](https://github.com/ghoulr/opencode-websearch-cited) - An OpenCode plugin that provides LLM cited web search.
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [nick-vi/type-inject](https://github.com/nick-vi/type-inject) - TypeScript type context for AI coding assistants. Auto-injects type signatures on reads, reports type errors on writes, and provides type lookup tools.
-- [preset-io/agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+- [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
 - [player-ui/player](https://github.com/player-ui/player) - A Cross Platform Server Driven UI Framework
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
