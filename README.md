@@ -352,6 +352,7 @@
 
 ## CSS 
 
+- [ashbhat/botcheck_chrome_extension](https://github.com/ashbhat/botcheck_chrome_extension) - A Chrome extension to check for propaganda on Twitter using the botcheck.me API.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots) - Wayfire is a 3D Wayland compositor
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
