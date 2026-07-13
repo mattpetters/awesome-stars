@@ -3603,6 +3603,7 @@
 
 ## others 
 
+- [ashbhat/botcheck_chrome_extension](https://github.com/ashbhat/botcheck_chrome_extension) - A Chrome extension to check for propaganda on Twitter using the botcheck.me API.
 - [FranMCodes/squig-to-ffp-converter](https://github.com/FranMCodes/squig-to-ffp-converter) - Convert SQUIG curves ⇆ FabFilter Pro-Q presets in seconds — 100% offline.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [airwindows/ConsoleXPre](https://github.com/airwindows/ConsoleXPre) - This is for running ConsoleX as a standalone multieffects unit, for instance to condition the sound going into a ToTape instance
