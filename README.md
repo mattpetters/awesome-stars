@@ -217,7 +217,7 @@
 - [sudara/pamplejuce](https://github.com/sudara/pamplejuce) - A JUCE audio plugin template. JUCE 8, Catch2, Pluginval, macOS notarization, Azure Trusted Signing, Github Actions
 - [pndias/hott-master-vst](https://github.com/pndias/hott-master-vst) - Hott Master VST3 — Professional mastering plugin with Soothe-style resonance suppressor, linear phase EQ, SSL bus compressor, soft clipper, and true peak limiter
 - [DJMAccie/Utali-EQ](https://github.com/DJMAccie/Utali-EQ) - Utali Equalizer based on the SSL EQ mixed with the Pulteq Low and High end trick
-- [stevemurr/axon](https://github.com/stevemurr/axon) - Adaptive neural mastering chain in a single CLAP plugin — adaptive EQ, exciter, SSL-style glue, bass-mono & a loudness maximizer (macOS).
+- [stevemurr/axon](https://github.com/stevemurr/axon) - Adaptive neural mastering chain in a single CLAP plugin — adaptive EQ, SSL-style glue, bass-mono & a loudness maximizer (macOS).
 - [Kiriki-liszt/Sky_Blue_EQ4](https://github.com/Kiriki-liszt/Sky_Blue_EQ4) - Sky Blue EQ4 is maag-like tone shaping eq.
 - [Kiriki-liszt/VLC_EQ](https://github.com/Kiriki-liszt/VLC_EQ) - Port of VLC EQ, a graphic EQ with musically selected bands
 - [Kiriki-liszt/VLC_Compressor](https://github.com/Kiriki-liszt/VLC_Compressor) - Port of VLC Compressor, a dynamic range compressor ported from plugins from LADSPA SWH
@@ -708,6 +708,7 @@
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [JeHwanYoo/cmux-aoc](https://github.com/JeHwanYoo/cmux-aoc) - cmux Always On Claude — pin your cmux context to the Claude Code status line.
+- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -768,7 +769,7 @@
 - [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) - Engineering JSONResume theme
 - [tomkrikorian/awesome-visionOS](https://github.com/tomkrikorian/awesome-visionOS) - List of resources for visionOS developers!
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
+- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code.
 - [jsonresume/jsonresume-theme-class](https://github.com/jsonresume/jsonresume-theme-class) - A modern theme for JSON Resume which is self-contained. The content of the resume will work offline and can be hosted without depending on or making requests to third-party servers.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -1351,7 +1352,7 @@
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 - [pguso/voice-agents-from-scratch](https://github.com/pguso/voice-agents-from-scratch) - From-scratch voice agents in Python: end-to-end speech pipelines, runnable chapters, and a small shared library. Local models, explicit streaming behavior.
 - [Jayy001/codexctl](https://github.com/Jayy001/codexctl) - Automated update managment for the ReMarkable tablet
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [hyyhf/agent-book-code](https://github.com/hyyhf/agent-book-code) - 《从0开始构建 AI 智能体》 一本带你亲手打造属于自己的AI Agent 的实战书
 - [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
@@ -1385,7 +1386,7 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - AMD Strix Halo local LLM guide: setup for Ryzen AI MAX+ 395 / Radeon 8060S, Ollama, llama.cpp Vulkan/RADV, ROCm, raw evidence, direct 100 t/s 30B Qwen, 140 t/s CHADROCK MTP, 120B GGUF.
+- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - AMD Strix Halo / Ryzen AI Halo local LLM setup and benchmark guide for Ryzen AI MAX+ 395 and Radeon 8060S: Ollama, llama.cpp Vulkan/RADV, ROCm, 101 t/s Qwen3-Coder, CHADROCK MTP, 120B GGUF, and raw ev
 - [loserbcc/open-unified-tts](https://github.com/loserbcc/open-unified-tts) - OpenAI-compatible TTS API that unifies multiple backends with smart chunking for unlimited-length generation
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
@@ -1898,7 +1899,7 @@
 - [UnkwUsr/ticked](https://github.com/UnkwUsr/ticked) - Edit your ticktick.com tasks from any text editor you want (like vim/neovim)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
@@ -2177,7 +2178,6 @@
 - [imrajyavardhan12/spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config) - Configuration generator for Ghostty terminal with Spectre theme
 - [PranavBakre/Junior](https://github.com/PranavBakre/Junior) - My successor once AGI arrives
 - [ashwingopalsamy/claude-code-theme](https://github.com/ashwingopalsamy/claude-code-theme) - Claude-aligned VS Code theme system with dark/light + high-contrast variants, semantic token tuning, and WCAG-validated contrast for coding sessions.
-- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [Explosion-Scratch/whisper-mac](https://github.com/Explosion-Scratch/whisper-mac) - Local first, powerful transcription app for macOS
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Python and more,  Chrome DevTools automation, Firecrawl web scrap
