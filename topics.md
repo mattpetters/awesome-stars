@@ -3678,7 +3678,7 @@
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [Jayy001/codexctl](https://github.com/Jayy001/codexctl) - Automated update managment for the ReMarkable tablet
 - [monroewilliams/pi-omlx-picker](https://github.com/monroewilliams/pi-omlx-picker) - OMLX model integration and interactive picker for Pi
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mattpetters/codex-pet-watch-sprite](https://github.com/mattpetters/codex-pet-watch-sprite) - 
