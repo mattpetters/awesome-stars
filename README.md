@@ -547,7 +547,7 @@
 - [dhth/omm](https://github.com/dhth/omm) - on-my-mind: a keyboard-driven task manager for the command line
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [coder/aicommit](https://github.com/coder/aicommit) - become the world's laziest committer
 - [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -770,7 +770,7 @@
 - [skoenig/jsonresume-theme-engineering-fork](https://github.com/skoenig/jsonresume-theme-engineering-fork) - Engineering JSONResume theme
 - [tomkrikorian/awesome-visionOS](https://github.com/tomkrikorian/awesome-visionOS) - List of resources for visionOS developers!
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code.
+- [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Mica/Glass effect for your VS Code
 - [jsonresume/jsonresume-theme-class](https://github.com/jsonresume/jsonresume-theme-class) - A modern theme for JSON Resume which is self-contained. The content of the resume will work offline and can be hosted without depending on or making requests to third-party servers.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -1242,7 +1242,6 @@
 - [marriagav/taskchamp-docs](https://github.com/marriagav/taskchamp-docs) - Taskwarrior iOS app
 - [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized) - Apple's SFMono font nerd-font patched and ligaturized
 - [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
@@ -1575,6 +1574,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [coz-m/MPLUS_FONTS](https://github.com/coz-m/MPLUS_FONTS) - M+ FONTS
 - [scarpent/ledgerbil](https://github.com/scarpent/ledgerbil) - A rodent-like program for working with ledger-cli journals.
@@ -1852,7 +1852,7 @@
 - [rvcas/room](https://github.com/rvcas/room) - A Zellij plugin for quickly searching and switching tabs 🖤
 - [h1romas4/zellij-datetime](https://github.com/h1romas4/zellij-datetime) - This plugin adds a date and time pane to [Zellij](https://zellij.dev/), a terminal workspace.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [JakeStanger/ironbar](https://github.com/JakeStanger/ironbar) - Customisable Wayland GTK4 bar written in Rust.
@@ -1942,7 +1942,7 @@
 ## Shell 
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
 - [alpinelinux/alpine-chroot-install](https://github.com/alpinelinux/alpine-chroot-install) - Install Alpine Linux in chroot with a breeze. Build ARM on Travis CI or any other x86_64 CI.
