@@ -2181,7 +2181,7 @@
 - [ashwingopalsamy/claude-code-theme](https://github.com/ashwingopalsamy/claude-code-theme) - Claude-aligned VS Code theme system with dark/light + high-contrast variants, semantic token tuning, and WCAG-validated contrast for coding sessions.
 - [Explosion-Scratch/whisper-mac](https://github.com/Explosion-Scratch/whisper-mac) - Local first, powerful transcription app for macOS
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
-- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Python and more,  Chrome DevTools automation, Firecrawl web scrap
+- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A TypeScript monorepo of Pi Coding Agent extensions for automation, planning, language tooling, browser control, web research, Git workflows, and configuration sync.
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
 - [Cheng-Zi-Qing/stepvox](https://github.com/Cheng-Zi-Qing/stepvox) - 
@@ -2604,7 +2604,7 @@
 - [SuperAuguste/zig-patterns](https://github.com/SuperAuguste/zig-patterns) - Common Zig patterns for you and your friends :)
 - [kristoff-it/kristRTX](https://github.com/kristoff-it/kristRTX) - "Raytracing on a weekend" done in Zig
 - [tammoippen/zig-plotille](https://github.com/tammoippen/zig-plotille) - Plot graphs and histograms in the terminal.
-- [meszmate/zigzag](https://github.com/meszmate/zigzag) - The biggest TUI framework for Zig
+- [meszmate/zigzag](https://github.com/meszmate/zigzag) - A Terminal UI framework for Zig
 - [muhammad-fiaz/tui.zig](https://github.com/muhammad-fiaz/tui.zig) - TUI.zig is a Modern and easy-to-use Terminal User Interface (TUI) library for the Zig programming language. It provides a rich set of features to create modern, responsive, and visually appealing term
 - [mattpetters/ghostty](https://github.com/mattpetters/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ziglibs/zgl](https://github.com/ziglibs/zgl) - Zig OpenGL Wrapper
