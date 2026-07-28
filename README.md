@@ -1636,7 +1636,6 @@
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [ralfpopescu/ai-choir](https://github.com/ralfpopescu/ai-choir) - Script that turns any singing vocal into a choir.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [CarlGao4/Demucs-Gui](https://github.com/CarlGao4/Demucs-Gui) - A GUI for music separation AI demucs
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -2396,6 +2395,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [mondaychen/file_organizer](https://github.com/mondaychen/file_organizer) - demo app: how to use LLM as a general purpose classifier
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
