@@ -2911,7 +2911,7 @@
 - [MystikoLab/rustcast](https://github.com/MystikoLab/rustcast) - An open source alternative to raycast, in rust!!
 - [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [nek0der/limpid-archive](https://github.com/nek0der/limpid-archive) - A macOS-native terminal for the AI coding agent era
 - [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
@@ -3493,7 +3493,6 @@
 - [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D) - Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications.
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [marriagav/taskchamp](https://github.com/marriagav/taskchamp) - Taskwarrior iOS interface app
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -3606,7 +3605,6 @@
 ## others 
 
 - [ashbhat/botcheck_chrome_extension](https://github.com/ashbhat/botcheck_chrome_extension) - A Chrome extension to check for propaganda on Twitter using the botcheck.me API.
-- [FranMCodes/squig-to-ffp-converter](https://github.com/FranMCodes/squig-to-ffp-converter) - Convert SQUIG curves ⇆ FabFilter Pro-Q presets in seconds — 100% offline.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [airwindows/ConsoleXPre](https://github.com/airwindows/ConsoleXPre) - This is for running ConsoleX as a standalone multieffects unit, for instance to condition the sound going into a ToTape instance
 - [airwindows/ConsoleXChannel](https://github.com/airwindows/ConsoleXChannel) - This is where you download the Channel plugin for the ConsoleX system
@@ -3688,6 +3686,7 @@
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [rjwittams/katzensteg](https://github.com/rjwittams/katzensteg) - 
 - [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB read
 - [irangareddy/petdex-swift](https://github.com/irangareddy/petdex-swift) - Swift Package and iOS example app for the public Petdex API
 - [shiroemons/codex-pet-watch-sprite](https://github.com/shiroemons/codex-pet-watch-sprite) - 
 - [filippello/focuspal](https://github.com/filippello/focuspal) - 
@@ -5183,7 +5182,6 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -5463,7 +5461,6 @@
 
 ## svelte 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [sveltejs/cli](https://github.com/sveltejs/cli) - The Svelte CLI
@@ -5480,7 +5477,7 @@
 
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
 - [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
 - [bradjenn/blink](https://github.com/bradjenn/blink) - A modern AI terminal
@@ -5518,7 +5515,7 @@
 
 ## swiftui 
 
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [nek0der/limpid-archive](https://github.com/nek0der/limpid-archive) - A macOS-native terminal for the AI coding agent era
 - [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
