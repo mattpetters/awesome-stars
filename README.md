@@ -2001,7 +2001,6 @@
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [KrumpetPirate/AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [craigrmccown/kafka-docker](https://github.com/craigrmccown/kafka-docker) - Dockerfile for Apache Kafka
@@ -2174,7 +2173,7 @@
 - [fabriqaai/specs.md](https://github.com/fabriqaai/specs.md) - specs.md - ai-dlc spec driven development framework
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
-- [imrajyavardhan12/spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config) - Configuration generator for Ghostty terminal with Spectre theme
+- [imrajyavardhan12/spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config) - Visual Ghostty configuration generator with live preview, hundreds of themes, import/export, and shareable configs.
 - [PranavBakre/Junior](https://github.com/PranavBakre/Junior) - My successor once AGI arrives
 - [ashwingopalsamy/claude-code-theme](https://github.com/ashwingopalsamy/claude-code-theme) - Claude-aligned VS Code theme system with dark/light + high-contrast variants, semantic token tuning, and WCAG-validated contrast for coding sessions.
 - [Explosion-Scratch/whisper-mac](https://github.com/Explosion-Scratch/whisper-mac) - Local first, powerful transcription app for macOS
@@ -2520,6 +2519,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [sequelize/umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
