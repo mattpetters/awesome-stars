@@ -915,6 +915,7 @@
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [raycmorgan/Mu](https://github.com/raycmorgan/Mu) - A Node.js Mustache template engine (and compiler)
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [muan/mojibar](https://github.com/muan/mojibar) - :tangerine: Emoji searcher but as a menubar app.
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
@@ -1791,7 +1792,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [mattpetters/omniget](https://github.com/mattpetters/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
-- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -2310,7 +2311,7 @@
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
