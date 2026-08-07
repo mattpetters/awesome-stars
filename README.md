@@ -360,7 +360,7 @@
 - [j5onrf/dots](https://github.com/j5onrf/dots) - Hyprdots, Hyprland Omarchy, Quickshell, Agentic Local-Ai, Custom Integrated, Minimal
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [jagregory/abrash-black-book](https://github.com/jagregory/abrash-black-book) - Markdown source for Michael Abrash's Graphics Programming Black Book
-- [garuda-linux/firedragon](https://github.com/garuda-linux/firedragon) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
+- [garuda-linux/firedragon](https://github.com/garuda-linux/firedragon) - FireDragon is a cross-platform, feature-rich and privacy-focused web browser (mirrored from GitLab)
 - [tovifun/VivalArc](https://github.com/tovifun/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [sspaeti/obsidian_kanagawa](https://github.com/sspaeti/obsidian_kanagawa) - A Kanagawa Theme for Obsidian
@@ -376,6 +376,7 @@
 
 ## Clojure 
 
+- [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
@@ -445,6 +446,14 @@
 
 ## Emacs Lisp 
 
+- [positron-solutions/ragmacs](https://github.com/positron-solutions/ragmacs) - A Collection of GPTel Tools For Querying Emacs
+- [ultronozm/codel.el](https://github.com/ultronozm/codel.el) - some llm tools
+- [skissue/llm-tool-collection](https://github.com/skissue/llm-tool-collection) - Curated collection of tools for agentic LLMs in Emacs
+- [agzam/go-jira.el](https://github.com/agzam/go-jira.el) - Emacs Jira integration utilizing go-jira CLI
+- [svaante/dape](https://github.com/svaante/dape) - Debug Adapter Protocol for Emacs
+- [radian-software/apheleia](https://github.com/radian-software/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
+- [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+- [jdtsmith/emacs-mac](https://github.com/jdtsmith/emacs-mac) - Experimental build of emacs-mac for v&gt;=30.1
 - [xenodium/winpulse](https://github.com/xenodium/winpulse) - Temporarily highlight focused Emacs windows
 - [xenodium/ytr](https://github.com/xenodium/ytr) - An Emacs package to stream YouTube audio (powered by yt-dlp and mpv)
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
@@ -496,7 +505,7 @@
 - [drolosoft/cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - 🔄✨🖥️ Session persistence for cmux and Ghostty — save, restore, and manage your terminal workspaces. Never lose your layout again.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
@@ -1342,6 +1351,8 @@
 
 ## Python 
 
+- [mattpetters/rekordbox-edit](https://github.com/mattpetters/rekordbox-edit) - A command-line tool for bulk operations on your Rekordbox library
+- [jviall/rekordbox-edit](https://github.com/jviall/rekordbox-edit) - A command-line tool for bulk operations on your Rekordbox library
 - [emacs-eaf/eaf-video-player](https://github.com/emacs-eaf/eaf-video-player) - Video Player in Emacs
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
@@ -1627,7 +1638,6 @@
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a 'Tosh! And more. (A Kinto alternative.)
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [frappe/frappe_docker](https://github.com/frappe/frappe_docker) - Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -1955,6 +1965,7 @@
 
 ## Shell 
 
+- [karlicoss/cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -2016,6 +2027,7 @@
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [KrumpetPirate/AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [craigrmccown/kafka-docker](https://github.com/craigrmccown/kafka-docker) - Dockerfile for Apache Kafka
@@ -2139,6 +2151,7 @@
 
 ## TypeScript 
 
+- [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
@@ -2206,7 +2219,7 @@
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [liftaris/herm](https://github.com/liftaris/herm) - The Hermes TUI built with OpenTUI
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
 - [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -2403,6 +2416,7 @@
 - [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - Bidirectional synchronization between Obsidian and TickTick. Mobile compatible.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -2535,7 +2549,6 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [sequelize/umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
