@@ -1355,6 +1355,8 @@
 
 ## Python 
 
+- [BobJohnson24/ComfyUI-INT8-Fast](https://github.com/BobJohnson24/ComfyUI-INT8-Fast) - Custom node to load models in INT8 for 1.5~2X Speed gains on 30 series cards.
+- [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) - 
 - [mattpetters/rekordbox-edit](https://github.com/mattpetters/rekordbox-edit) - A command-line tool for bulk operations on your Rekordbox library
 - [jviall/rekordbox-edit](https://github.com/jviall/rekordbox-edit) - A command-line tool for bulk operations on your Rekordbox library
 - [emacs-eaf/eaf-video-player](https://github.com/emacs-eaf/eaf-video-player) - Video Player in Emacs
@@ -1412,7 +1414,7 @@
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - AMD Strix Halo / Ryzen AI Halo local LLM setup and benchmark guide for Ryzen AI MAX+ 395 and Radeon 8060S: Ollama, llama.cpp Vulkan/RADV, ROCm, 101 t/s Qwen3-Coder, CHADROCK MTP, 120B GGUF, and raw ev
+- [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Strix Halo guide for AMD Ryzen AI MAX+ 395 / Radeon 8060S local LLM setup and benchmarks: Ollama, llama.cpp, Vulkan/RADV, ROCm, GGUF, and raw evidence.
 - [loserbcc/open-unified-tts](https://github.com/loserbcc/open-unified-tts) - OpenAI-compatible TTS API that unifies multiple backends with smart chunking for unlimited-length generation
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
@@ -1429,7 +1431,7 @@
 - [tejpalv/cc-markup](https://github.com/tejpalv/cc-markup) - Tokenizer cost markup between Claude model versions, measured on your own Claude Code sessions.
 - [delta-hq/cc-canary](https://github.com/delta-hq/cc-canary) - 
 - [langwatch/scenario](https://github.com/langwatch/scenario) - Agentic testing for agentic codebases
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
@@ -1587,7 +1589,7 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
@@ -2317,7 +2319,7 @@
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
