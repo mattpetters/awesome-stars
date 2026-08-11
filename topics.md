@@ -364,7 +364,7 @@
 - [sidequery/duckdb-acp](https://github.com/sidequery/duckdb-acp) - Use Claude Code & other AI agents from inside DuckDB via extension
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
@@ -413,7 +413,7 @@
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -506,7 +506,7 @@
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -650,7 +650,7 @@
 
 ## artificial-intelligence 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
@@ -672,7 +672,7 @@
 
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [agent-sh/agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
@@ -947,7 +947,7 @@
 
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -963,7 +963,7 @@
 - [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/8wGSsvmg4V
+- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
@@ -1064,7 +1064,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1115,7 +1115,7 @@
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [drolosoft/cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - 🔄✨🖥️ Session persistence for cmux and Ghostty — save, restore, and manage your terminal workspaces. Never lose your layout again.
@@ -1525,7 +1525,7 @@
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [saadnvd1/aTerm](https://github.com/saadnvd1/aTerm) - Agentic terminal workspace for AI-assisted coding. Run Claude Code, Aider, or OpenCode alongside your shell in project-based layouts.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -1662,7 +1662,6 @@
 ## electron 
 
 - [soundshed/soundshed-app](https://github.com/soundshed/soundshed-app) - Desktop and Web app to browse and manage guitar amp tones. Control your bluetooth amp, jam to video backing tracks.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -2762,13 +2761,12 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The Runpod worker template for serving our large language model endpoints. Powered by vLLM.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/8wGSsvmg4V
+- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -2837,7 +2835,7 @@
 
 ## low-code 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -3077,8 +3075,7 @@
 - [sidequery/sidemantic](https://github.com/sidequery/sidemantic) - The universal metrics layer. Compatible with 15+ formats: Cube, MetricFlow, LookML, Omni, BSL, LDM, Cortex, Malloy, OSI, SML, TML, Hex, Rill, Superset
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/8wGSsvmg4V
+- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
@@ -3338,7 +3335,7 @@
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [imrajyavardhan12/spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config) - Visual Ghostty configuration generator with live preview, hundreds of themes, import/export, and shareable configs.
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [vercel-labs/ai-facts](https://github.com/vercel-labs/ai-facts) - Real-time fact checking on spoken statements with the AI SDK, Perplexity and DeepGram
@@ -3371,7 +3368,7 @@
 
 ## no-code 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -3541,7 +3538,7 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/8wGSsvmg4V
+- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
 - [warpdotdev/themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -3575,7 +3572,7 @@
 - [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
 - [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide) - 
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
@@ -5013,7 +5010,7 @@
 - [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG) - [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem) - Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) - Model Context Protocol server to allow for reading and writing from Pinecone. Rudimentary RAG
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -5056,7 +5053,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
@@ -5364,7 +5361,7 @@
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
-- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/8wGSsvmg4V
+- [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -5647,7 +5644,7 @@
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -5790,7 +5787,7 @@
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
@@ -5850,7 +5847,7 @@
 - [imrajyavardhan12/spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config) - Visual Ghostty configuration generator with live preview, hundreds of themes, import/export, and shareable configs.
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A TypeScript monorepo of Pi Coding Agent extensions for automation, planning, language tooling, browser control, web research, Git workflows, and configuration sync.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
