@@ -507,6 +507,7 @@
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [1broseidon/ketch](https://github.com/1broseidon/ketch) - Fast, stateless CLI for web search and scrape. Built for AI agents.
 - [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
+- [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A TypeScript monorepo of Pi Coding Agent extensions for automation, planning, language tooling, browser control, web research, Git workflows, and configuration sync.
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
@@ -1063,6 +1064,7 @@
 - [sidequery/duckdb-acp](https://github.com/sidequery/duckdb-acp) - Use Claude Code & other AI agents from inside DuckDB via extension
 - [sidequery/duckdb-claude-slack](https://github.com/sidequery/duckdb-claude-slack) - A Slackbot built on DuckDB & Claude Code that answers data questions from Slack
 - [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
+- [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support.
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -1526,6 +1528,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
 - [aiyu-ai/AiyuTerm](https://github.com/aiyu-ai/AiyuTerm) - Native macOS terminal workspace — multi-repo sidebar, persistent split layouts, SSH, tmux, and real-time AI agent status. Powered by Ghostty.
+- [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty.
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
@@ -3085,6 +3088,7 @@
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [sidequery/sidemantic](https://github.com/sidequery/sidemantic) - The universal metrics layer. Compatible with 15+ formats: Cube, MetricFlow, LookML, Omni, BSL, LDM, Cortex, Malloy, OSI, SML, TML, Hex, Rill, Superset
+- [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support.
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -3659,6 +3663,7 @@
 
 ## others 
 
+- [FreQRiDeR/Digi_003_x64](https://github.com/FreQRiDeR/Digi_003_x64) - Digi 002, 003 64 bit PreferencePane for macOS
 - [xenodium/macosrec](https://github.com/xenodium/macosrec) - Take screenshots/videos of macOS windows from the command line
 - [xenodium/EverTime](https://github.com/xenodium/EverTime) - An ever present clock for macOS
 - [xenodium/ob-swiftui](https://github.com/xenodium/ob-swiftui) - 
@@ -3688,7 +3693,7 @@
 - [DonkeyHang/pamplejuce](https://github.com/DonkeyHang/pamplejuce) - 
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
 - [asivery/rm-literm](https://github.com/asivery/rm-literm) - A terminal emulator using QtQuick.
-- [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) - Contains latest company wise questions of LeetCode as of May 2026.
+- [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) - Contains latest company wise questions of LeetCode as of July 2026.
 - [OsamaMahmood/lazytask](https://github.com/OsamaMahmood/lazytask) - Simple terminal UI for taskwarrior : lazytask inspired by lazygit
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [katana-dev/docs](https://github.com/katana-dev/docs) - Main compilation of documentation
@@ -5379,6 +5384,7 @@
 
 - [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
+- [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
