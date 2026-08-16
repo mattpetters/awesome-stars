@@ -354,7 +354,6 @@
 ## CSS 
 
 - [ashbhat/botcheck_chrome_extension](https://github.com/ashbhat/botcheck_chrome_extension) - A Chrome extension to check for propaganda on Twitter using the botcheck.me API.
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots) - Wayfire is a 3D Wayland compositor
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [j5onrf/dots](https://github.com/j5onrf/dots) - Hyprdots, Hyprland Omarchy, Quickshell, Agentic Local-Ai, Custom Integrated, Minimal
@@ -680,7 +679,7 @@
 
 ## Java 
 
-- [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) - Contains latest company wise questions of LeetCode as of May 2026.
+- [snehasishroy/leetcode-companywise-interview-questions](https://github.com/snehasishroy/leetcode-companywise-interview-questions) - Contains latest company wise questions of LeetCode as of July 2026.
 - [OtterMind/Nubase](https://github.com/OtterMind/Nubase) - 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one 
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
@@ -1478,6 +1477,7 @@
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [Evidlo/remarkable_mouse](https://github.com/Evidlo/remarkable_mouse) - use your reMarkable as a graphics tablet
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [skarlekar/mcp_travelassistant](https://github.com/skarlekar/mcp_travelassistant) - A suite of MCP servers that enables an LLM to orchestrate specialized services to generate travel itineraries, find flights and accommodations, discover local events, analyze weather conditions and ma
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [disler/big-3-super-agent](https://github.com/disler/big-3-super-agent) - Gemini 2.5 Computer Use + OpenAI Realtime API + Claude Code Multi-Agent Experiment
@@ -2057,6 +2057,7 @@
 
 ## Swift 
 
+- [FreQRiDeR/Digi_003_x64](https://github.com/FreQRiDeR/Digi_003_x64) - Digi 002, 003 64 bit PreferencePane for macOS
 - [xenodium/macosrec](https://github.com/xenodium/macosrec) - Take screenshots/videos of macOS windows from the command line
 - [xenodium/EverTime](https://github.com/xenodium/EverTime) - An ever present clock for macOS
 - [orgapp/swift-org](https://github.com/orgapp/swift-org) - org-mode with swift
