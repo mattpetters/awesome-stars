@@ -396,7 +396,7 @@
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) - Control panel for VLLM, Sglang, llama.cpp, exllamav3
 - [OtterMind/Nubase](https://github.com/OtterMind/Nubase) - 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one 
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 32 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -500,7 +500,7 @@
 ## ai-agents 
 
 - [OtterMind/Nubase](https://github.com/OtterMind/Nubase) - 🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one 
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 32 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -2391,6 +2391,8 @@
 
 ## icon-font 
 
+- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+- [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## image-processing 
@@ -2657,7 +2659,7 @@
 
 ## laravel 
 
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 32 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [philspil66/gatekeeper](https://github.com/philspil66/gatekeeper) - Gatekeeper is a package to manage Feature Flagging within a Laravel project.
@@ -3083,7 +3085,7 @@
 ## mcp 
 
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 32 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
@@ -3548,6 +3550,8 @@
 
 ## open-source 
 
+- [smammar100/Iconimate](https://github.com/smammar100/Iconimate) - Hand-built animated React icons, drawn on the Phosphor 256 grid and tuned to read at 24px.
+- [shadcndashboard/shadcndashboard](https://github.com/shadcndashboard/shadcndashboard) - Free, open source admin dashboard built with React + vite, shadcn/ui, Tailwind CSS, and TypeScript.
 - [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) - Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor
 - [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D) - Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications.
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
@@ -3666,6 +3670,8 @@
 
 ## others 
 
+- [yibie/textui](https://github.com/yibie/textui) - Responsive layouts for declarative, interactive Emacs buffers
+- [coros-hq/shadcn-table-library](https://github.com/coros-hq/shadcn-table-library) - 
 - [FreQRiDeR/Digi_003_x64](https://github.com/FreQRiDeR/Digi_003_x64) - Digi 002, 003 64 bit PreferencePane for macOS
 - [xenodium/macosrec](https://github.com/xenodium/macosrec) - Take screenshots/videos of macOS windows from the command line
 - [xenodium/EverTime](https://github.com/xenodium/EverTime) - An ever present clock for macOS
@@ -5073,6 +5079,8 @@
 
 ## react 
 
+- [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
+- [shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn) - Beautiful email components, built on React Email, MJML React and JSX Email. 100% Free, Zero config, one command setup.
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 - [soundshed/soundshed-app](https://github.com/soundshed/soundshed-app) - Desktop and Web app to browse and manage guitar amp tones. Control your bluetooth amp, jam to video backing tracks.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
@@ -5172,6 +5180,7 @@
 
 ## reactjs 
 
+- [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
@@ -5384,7 +5393,7 @@
 
 ## self-hosted 
 
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 32 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [sneg55/pingcrm](https://github.com/sneg55/pingcrm) - Personal Networking CRM — AI-powered, open-source, self-hostable. Syncs Gmail, Telegram, Twitter/X, and LinkedIn. Detects life events, drafts follow-ups, scores relationships.
 - [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
@@ -5866,6 +5875,7 @@
 
 ## typescript 
 
+- [shadcndashboard/shadcndashboard](https://github.com/shadcndashboard/shadcndashboard) - Free, open source admin dashboard built with React + vite, shadcn/ui, Tailwind CSS, and TypeScript.
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [soundshed/soundshed-app](https://github.com/soundshed/soundshed-app) - Desktop and Web app to browse and manage guitar amp tones. Control your bluetooth amp, jam to video backing tracks.
 - [hackmdio/hackmd-cli](https://github.com/hackmdio/hackmd-cli) - The HackMD Command Line Tool
