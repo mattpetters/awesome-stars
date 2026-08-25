@@ -517,7 +517,7 @@
 - [drolosoft/cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - 🔄✨🖥️ Session persistence for cmux and Ghostty — save, restore, and manage your terminal workspaces. Never lose your layout again.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
@@ -1162,7 +1162,6 @@
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 
 ## Objective-C 
@@ -2452,6 +2451,7 @@
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
