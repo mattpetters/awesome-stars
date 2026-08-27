@@ -684,7 +684,7 @@
 
 - [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [hpdeifel/hledger-iadd](https://github.com/hpdeifel/hledger-iadd) - A terminal UI as drop-in replacement for hledger add.
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 
 ## Java 
@@ -785,7 +785,6 @@
 - [GongRzhe/JSON-MCP-Server](https://github.com/GongRzhe/JSON-MCP-Server) - JSON handling and processing mcp server
 - [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [ethanaobrien/EmulatorJS](https://github.com/ethanaobrien/EmulatorJS) - The official home of the EmulatorJS project
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1213,6 +1212,7 @@
 ## Others 
 
 - [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [katana-dev/docs](https://github.com/katana-dev/docs) - Main compilation of documentation
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [Seed3D/Seed3D](https://github.com/Seed3D/Seed3D) - 
@@ -2177,7 +2177,6 @@
 - [azu/launchd-ui](https://github.com/azu/launchd-ui) - A GUI application for managing macOS launchd agents and daemons. Built with Tauri.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
@@ -2371,6 +2370,7 @@
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
@@ -2541,7 +2541,7 @@
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [wagtail/draftail](https://github.com/wagtail/draftail) - 📝🍸 A configurable rich text editor built with Draft.js
 - [creditkarma/thrift-typescript](https://github.com/creditkarma/thrift-typescript) - Generate TypeScript from Thrift IDL files
 - [benawad/lireddit](https://github.com/benawad/lireddit) - 
