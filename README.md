@@ -1369,7 +1369,6 @@
 ## Python 
 
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
-- [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/minimax-h3-mlx) - MLX (Apple Silicon) port of MiniMax-H3 — 33B joint video+audio diffusion. Validated against the diffusers reference; AdaLN precompute drops 13B at inference.
 - [pawel-mazurkiewicz/ComfyUI-AppleSilicon-FP8](https://github.com/pawel-mazurkiewicz/ComfyUI-AppleSilicon-FP8) - Run FP8 models on Apple Silicon / MPS in ComfyUI. Compatibility layer for ComfyUI on Apple Silicon.
 - [BobJohnson24/ComfyUI-INT8-Fast](https://github.com/BobJohnson24/ComfyUI-INT8-Fast) - Custom node to load models in INT8 for 1.5~2X Speed gains on 30 series cards.
@@ -1828,6 +1827,7 @@
 
 ## Rust 
 
+- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [OsamaMahmood/lazytask](https://github.com/OsamaMahmood/lazytask) - Simple terminal UI for taskwarrior : lazytask inspired by lazygit
 - [MystikoLab/rustcast](https://github.com/MystikoLab/rustcast) - An open source alternative to raycast, in rust!!
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -1988,6 +1988,7 @@
 
 ## Shell 
 
+- [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [karlicoss/cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -2178,6 +2179,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) - Task management system for humans and agents in Obsidian.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
@@ -2253,7 +2255,7 @@
 - [ashwingopalsamy/claude-code-theme](https://github.com/ashwingopalsamy/claude-code-theme) - Claude-aligned VS Code theme system with dark/light + high-contrast variants, semantic token tuning, and WCAG-validated contrast for coding sessions.
 - [Explosion-Scratch/whisper-mac](https://github.com/Explosion-Scratch/whisper-mac) - Local first, powerful transcription app for macOS
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
-- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A TypeScript monorepo of Pi Coding Agent extensions for automation, planning, language tooling, browser control, web research, Git workflows, and configuration sync.
+- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
 - [Cheng-Zi-Qing/stepvox](https://github.com/Cheng-Zi-Qing/stepvox) - 
