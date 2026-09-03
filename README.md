@@ -206,6 +206,8 @@
 
 ## C++ 
 
+- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [pqrs-org/Karabiner-DriverKit-VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice) - 
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
@@ -455,6 +457,10 @@
 
 ## Emacs Lisp 
 
+- [emacsfodder/emacs-soothe-theme](https://github.com/emacsfodder/emacs-soothe-theme) - Dark Colorful theme for Emacs, built for synesthesiacs with a taste for Skittles™.
+- [emacsfodder/kurecolor](https://github.com/emacsfodder/kurecolor) - a collection of tools for working with color in Emacs.
+- [emacsfodder/emacs-theme-cyanometric](https://github.com/emacsfodder/emacs-theme-cyanometric) - 
+- [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) - Darktooth : From the darkness... it watches.
 - [james-stoup/emacs-org-mode-tutorial](https://github.com/james-stoup/emacs-org-mode-tutorial) - A primer for users trying to make sense of Org Mode
 - [yibie/textui](https://github.com/yibie/textui) - Responsive layouts for declarative, interactive Emacs buffers
 - [xenodium/ob-swiftui](https://github.com/xenodium/ob-swiftui) - 
@@ -493,6 +499,8 @@
 
 ## Go 
 
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
+- [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [tmck-code/pokesay](https://github.com/tmck-code/pokesay) - Print pokemon in the CLI! An adaptation of the classic "cowsay"
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [solworktech/md2pdf](https://github.com/solworktech/md2pdf) - A CLI utility that generates PDFs from Markdown. Features:  syntax highlighting (for code blocks), dark, light and custom themes, TOC autogeneration, tables, pagination control (using horizontal lines
@@ -733,6 +741,10 @@
 
 ## JavaScript 
 
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [nich227/Gailan](https://github.com/nich227/Gailan) - kaɪ̯⁵¹ lǎn²¹⁴
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Continuum-AI-Corp/Orca-Code-Review](https://github.com/Continuum-AI-Corp/Orca-Code-Review) - OrcaCode Review — the open code review harness. Multi-model reviews, merge gates, and no markup. Pay only for inference.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [mooz/org-js](https://github.com/mooz/org-js) - A parser and converter for org-mode notation, written in JavaScript
@@ -948,7 +960,6 @@
 - [bfmatei/PiPTool](https://github.com/bfmatei/PiPTool) - Add the Picture-in-Picture Functionality to YouTube, Netflix, Plex and other video broadcasting services in macOS Sierra
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
-- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [raycmorgan/Mu](https://github.com/raycmorgan/Mu) - A Node.js Mustache template engine (and compiler)
@@ -1218,6 +1229,7 @@
 
 ## Others 
 
+- [compufox/emacs-icons](https://github.com/compufox/emacs-icons) - replacement icon for the emacs text editor
 - [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [katana-dev/docs](https://github.com/katana-dev/docs) - Main compilation of documentation
@@ -1278,7 +1290,6 @@
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [tongzx/nt5src](https://github.com/tongzx/nt5src) - Source code of Windows XP (NT5). Leaks are not from me. I just extracted the archive and cabinet files.
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.
 - [marriagav/taskchamp-docs](https://github.com/marriagav/taskchamp-docs) - Taskwarrior iOS app
 - [Kapeli/feeds](https://github.com/Kapeli/feeds) - Collection of Dash docset feeds
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -1373,6 +1384,10 @@
 
 ## Python 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [daijro/browserforge](https://github.com/daijro/browserforge) - 🎭 Intelligent browser header & fingerprint generator
 - [diafebus/Antelope-Ctl](https://github.com/diafebus/Antelope-Ctl) - This is an Antelope Control App implementation on linux for Orion Studio Synergy Core, could add more devices in the future
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
@@ -1454,7 +1469,7 @@
 - [tejpalv/cc-markup](https://github.com/tejpalv/cc-markup) - Tokenizer cost markup between Claude model versions, measured on your own Claude Code sessions.
 - [delta-hq/cc-canary](https://github.com/delta-hq/cc-canary) - 
 - [langwatch/scenario](https://github.com/langwatch/scenario) - Agentic testing for agentic codebases
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
@@ -1613,6 +1628,7 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
@@ -1728,7 +1744,7 @@
 - [YuxinWenRick/hard-prompts-made-easy](https://github.com/YuxinWenRick/hard-prompts-made-easy) - 
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
-- [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+- [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely take over Android devices.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -1833,6 +1849,8 @@
 
 ## Rust 
 
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+- [pacifio/atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [OsamaMahmood/lazytask](https://github.com/OsamaMahmood/lazytask) - Simple terminal UI for taskwarrior : lazytask inspired by lazygit
 - [MystikoLab/rustcast](https://github.com/MystikoLab/rustcast) - An open source alternative to raycast, in rust!!
@@ -1847,7 +1865,7 @@
 - [mattpetters/omniget](https://github.com/mattpetters/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
-- [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - The Corsa (tsgo) bindings (FFI & Orchestration) for Rust and JS/TS, etc...
+- [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - corsa (typescript 7 "previously typescript-go") bindings (ffi & orchestration) for rust and js/ts, etc...
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
@@ -1873,7 +1891,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [ghuntley/loom](https://github.com/ghuntley/loom) - if your name is not Geoffrey Huntley then do not use loom
@@ -1994,6 +2012,8 @@
 
 ## Shell 
 
+- [emacsfodder/emacs-icons-project](https://github.com/emacsfodder/emacs-icons-project) - Replacement icons for Emacs
+- [emacsfodder/Infinite-Yak-Icons](https://github.com/emacsfodder/Infinite-Yak-Icons) - Infinite Yaks for GNU/Emacs
 - [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [karlicoss/cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
@@ -2078,6 +2098,7 @@
 
 ## Swift 
 
+- [azixxxxx/glance](https://github.com/azixxxxx/glance) - Modern macOS status bar replacement with liquid glass UI, 16 widgets, contextual profiles, and preset sharing. Native SwiftUI, no Electron.
 - [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [FreQRiDeR/Digi_003_x64](https://github.com/FreQRiDeR/Digi_003_x64) - Digi 002, 003 64 bit PreferencePane for macOS
 - [xenodium/macosrec](https://github.com/xenodium/macosrec) - Take screenshots/videos of macOS windows from the command line
@@ -2185,6 +2206,13 @@
 
 ## TypeScript 
 
+- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
+- [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
+- [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
+- [wigify/wigify](https://github.com/wigify/wigify) - Custom widgets for your desktop
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) - Task management system for humans and agents in Obsidian.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
@@ -2607,6 +2635,7 @@
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [sequelize/umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
