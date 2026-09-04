@@ -803,6 +803,7 @@
 - [GongRzhe/JSON-MCP-Server](https://github.com/GongRzhe/JSON-MCP-Server) - JSON handling and processing mcp server
 - [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [ethanaobrien/EmulatorJS](https://github.com/ethanaobrien/EmulatorJS) - The official home of the EmulatorJS project
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1231,7 +1232,6 @@
 
 - [compufox/emacs-icons](https://github.com/compufox/emacs-icons) - replacement icon for the emacs text editor
 - [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [katana-dev/docs](https://github.com/katana-dev/docs) - Main compilation of documentation
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [Seed3D/Seed3D](https://github.com/Seed3D/Seed3D) - 
@@ -2226,6 +2226,7 @@
 - [azu/launchd-ui](https://github.com/azu/launchd-ui) - A GUI application for managing macOS launchd agents and daemons. Built with Tauri.
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
@@ -2376,7 +2377,7 @@
 - [player-ui/player](https://github.com/player-ui/player) - A Cross Platform Server Driven UI Framework
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [Urigo/graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [rot13maxi/opencode-ralph](https://github.com/rot13maxi/opencode-ralph) - Ralph Wiggum plugin for OpenCode - iterative self-referential AI development loops
 - [x402-foundation/x402](https://github.com/x402-foundation/x402) - A payments protocol for the internet. Built on HTTP.
@@ -2419,7 +2420,6 @@
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
@@ -2449,7 +2449,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes.
 - [litdb/litdb](https://github.com/litdb/litdb) - Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -2465,7 +2465,7 @@
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [PromptMixerDev/prompt-mixer-app-ce](https://github.com/PromptMixerDev/prompt-mixer-app-ce) - A desktop application for comparing outputs from different Large Language Models (LLMs).
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-- [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+- [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.
