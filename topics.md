@@ -389,7 +389,6 @@
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads rea
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -485,7 +484,6 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads rea
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -555,7 +553,6 @@
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [j5onrf/dots](https://github.com/j5onrf/dots) - Hyprdots, Hyprland Omarchy, Quickshell, Agentic Local-Ai, Custom Integrated, Minimal
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads rea
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -920,7 +917,7 @@
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -2897,7 +2894,6 @@
 - [PromptMixerDev/prompt-mixer-app-ce](https://github.com/PromptMixerDev/prompt-mixer-app-ce) - A desktop application for comparing outputs from different Large Language Models (LLMs).
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads rea
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -2942,7 +2938,7 @@
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of https://github.com/wbthomason/packer.nvim
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [nvim-mini/mini.test](https://github.com/nvim-mini/mini.test) - Neovim Lua plugin to test Neovim plugins. Part of 'mini.nvim' library.
@@ -3224,7 +3220,6 @@
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads rea
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -3340,7 +3335,7 @@
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - 🌒 Neovim plugin management inspired by Cargo, powered by luarocks
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [NvChad/ui](https://github.com/NvChad/ui) - Lightweight & high performance UI plugin for nvchad
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
@@ -4958,6 +4953,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
 - [marriagav/taskchamp-docs](https://github.com/marriagav/taskchamp-docs) - Taskwarrior iOS app
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
@@ -5079,7 +5075,6 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent: a web browsing agent in plain English, with a browser MCP for Claude Code, Codex and Gemini CLI. A computer-use agent for the web: it browses, clicks, types and reads rea
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -5487,7 +5482,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
