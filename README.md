@@ -106,6 +106,7 @@
 
 ## C 
 
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -127,7 +128,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-- [folium-app/Cytrus](https://github.com/folium-app/Cytrus) - Cytrus is the Nintendo 3DS emulation core used in Folium
+- [folium-app/Cytrus-Backup](https://github.com/folium-app/Cytrus-Backup) - Cytrus is the Nintendo 3DS emulation core used in Folium
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [ufbx/ufbx](https://github.com/ufbx/ufbx) - Single source file FBX loader
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
@@ -1003,7 +1004,7 @@
 - [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
 - [rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024) - A 4-hour coding workshop to understand how LLMs are implemented and used
@@ -2101,6 +2102,7 @@
 
 ## Swift 
 
+- [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [azixxxxx/glance](https://github.com/azixxxxx/glance) - Modern macOS status bar replacement with liquid glass UI, 16 widgets, contextual profiles, and preset sharing. Native SwiftUI, no Electron.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [FreQRiDeR/Digi_003_x64](https://github.com/FreQRiDeR/Digi_003_x64) - Digi 002, 003 64 bit PreferencePane for macOS
