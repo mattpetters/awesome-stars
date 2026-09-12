@@ -149,6 +149,7 @@
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [jenkins](#jenkins)
@@ -390,7 +391,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -509,6 +510,7 @@
 
 ## ai-agents 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) - Task management system for humans and agents in Obsidian.
@@ -525,7 +527,7 @@
 - [vilmire/adhdev](https://github.com/vilmire/adhdev) - 🦦 ADHDev — Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
@@ -596,11 +598,12 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 
 ## android 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) - Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK
@@ -1072,6 +1075,7 @@
 
 ## claude-code 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
@@ -1127,6 +1131,7 @@
 
 ## cli 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [tmck-code/pokesay](https://github.com/tmck-code/pokesay) - Print pokemon in the CLI! An adaptation of the classic "cowsay"
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
@@ -1433,6 +1438,7 @@
 
 ## cybersecurity 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ZXCurban/NetOrbit](https://github.com/ZXCurban/NetOrbit) - Network traffic visualization tool
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
@@ -1462,7 +1468,7 @@
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [cmpadden/dagster.nvim](https://github.com/cmpadden/dagster.nvim) - Control the Dagster orchestrator directly from Neovim
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
@@ -1824,6 +1830,7 @@
 
 ## esp32 
 
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
 
 ## express 
@@ -1940,7 +1947,7 @@
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [bendikMichal/pyretro-gui](https://github.com/bendikMichal/pyretro-gui) - PyRetro-Gui (also pyretrogui) is a gui framework built using pygame-ce to develop nostalgic looking apps.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -2486,6 +2493,7 @@
 
 ## ios 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [marriagav/taskchamp](https://github.com/marriagav/taskchamp) - Taskwarrior iOS interface app
 - [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) - Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -2527,6 +2535,11 @@
 
 - [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+
+## ipfs 
+
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 
 ## java 
 
@@ -2845,7 +2858,7 @@
 - [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) - Fully uncensored, capability-enhanced abliteration of Qwen3.6-27B. NVFP4 + z-lab DFlash speculative decoding (n=12) on the unified ghcr.io/aeon-7/aeon-vllm-ultimate:latest container, tuned for long-co
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [raullenchai/awesome-mlx](https://github.com/raullenchai/awesome-mlx) - A curated list of awesome projects, tools, and resources for Apple MLX — the ML framework for Apple Silicon
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [hogeheer499-commits/strix-halo-guide](https://github.com/hogeheer499-commits/strix-halo-guide) - Evidence-backed AMD Strix Halo local-AI setup and benchmarks: Qwen3.8, Ollama, llama.cpp, Vulkan/ROCm, large GGUFs, and cross-OEM results.
@@ -2882,7 +2895,7 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2905,7 +2918,7 @@
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
@@ -3180,7 +3193,7 @@
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [sidequery/sidemantic](https://github.com/sidequery/sidemantic) - The universal metrics layer. Compatible with 15+ formats: Cube, MetricFlow, LookML, Omni, BSL, LDM, Cortex, Malloy, OSI, SML, TML, Hex, Rill, Superset
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
@@ -3283,7 +3296,7 @@
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [Postmodum37/ocwatch](https://github.com/Postmodum37/ocwatch) - Real-time web dashboard for monitoring OpenCode agent activity — built for oh-my-opencode
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [mitchellrj/hue_exporter](https://github.com/mitchellrj/hue_exporter) - A Prometheus exporter for Philips Hue (written in Go)
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
@@ -3677,7 +3690,7 @@
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [valkey-io/valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey an
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -3722,7 +3735,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -3777,6 +3790,7 @@
 
 ## others 
 
+- [fireship-io/webrtc-firebase-demo](https://github.com/fireship-io/webrtc-firebase-demo) - Video Chat with WebRTC and Firebase
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
@@ -4262,8 +4276,8 @@
 - [blawar/nut](https://github.com/blawar/nut) - 
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
-- [folium-app/Cytrus-Backup](https://github.com/folium-app/Cytrus-Backup) - Cytrus is the Nintendo 3DS emulation core used in Folium
-- [folium-app/Folium-Backup](https://github.com/folium-app/Folium-Backup) - Folium is a beautifully designed, high performing multi-system emulation app bringing retro gaming to Apple devices
+- [folium-app-backup/Cytrus-Backup](https://github.com/folium-app-backup/Cytrus-Backup) - Cytrus is the Nintendo 3DS emulation core used in Folium
+- [folium-app-backup/Folium-Backup](https://github.com/folium-app-backup/Folium-Backup) - Folium is a beautifully designed, high performing multi-system emulation app bringing retro gaming to Apple devices
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
@@ -4843,6 +4857,8 @@
 
 ## p2p 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
@@ -4931,8 +4947,10 @@
 
 ## privacy 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messagi
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -5001,7 +5019,7 @@
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -5204,7 +5222,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -5309,6 +5327,7 @@
 
 ## react-native 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
@@ -5425,7 +5444,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
@@ -5557,7 +5576,7 @@
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
@@ -5818,6 +5837,7 @@
 
 ## terminal 
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [durdraw/durdraw](https://github.com/durdraw/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
