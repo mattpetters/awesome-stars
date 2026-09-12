@@ -106,6 +106,7 @@
 
 ## C 
 
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
@@ -128,7 +129,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-- [folium-app/Cytrus-Backup](https://github.com/folium-app/Cytrus-Backup) - Cytrus is the Nintendo 3DS emulation core used in Folium
+- [folium-app-backup/Cytrus-Backup](https://github.com/folium-app-backup/Cytrus-Backup) - Cytrus is the Nintendo 3DS emulation core used in Folium
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [ufbx/ufbx](https://github.com/ufbx/ufbx) - Single source file FBX loader
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
@@ -207,6 +208,7 @@
 
 ## C++ 
 
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -271,7 +273,7 @@
 - [dmcke5/NucDeck](https://github.com/dmcke5/NucDeck) - The Open Source DIY Handheld Gaming PC!
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
 - [Overv/VulkanTutorial](https://github.com/Overv/VulkanTutorial) - Tutorial for the Vulkan graphics and compute API
-- [folium-app/Folium-Backup](https://github.com/folium-app/Folium-Backup) - Folium is a beautifully designed, high performing multi-system emulation app bringing retro gaming to Apple devices
+- [folium-app-backup/Folium-Backup](https://github.com/folium-app-backup/Folium-Backup) - Folium is a beautifully designed, high performing multi-system emulation app bringing retro gaming to Apple devices
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [hyprwm/hyprsysteminfo](https://github.com/hyprwm/hyprsysteminfo) - A tiny qt6/qml application to display information about the running system
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
@@ -745,6 +747,7 @@
 
 ## JavaScript 
 
+- [fireship-io/webrtc-firebase-demo](https://github.com/fireship-io/webrtc-firebase-demo) - Video Chat with WebRTC and Firebase
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [nich227/Gailan](https://github.com/nich227/Gailan) - kaɪ̯⁵¹ lǎn²¹⁴
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1678,7 +1681,7 @@
 - [N-R-K/Iosvmata](https://github.com/N-R-K/Iosvmata) - Custom Iosevka build somewhat mimicking PragmataPro
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a 'Tosh! And more. (A Kinto alternative.)
@@ -1886,7 +1889,7 @@
 - [itsbalamurali/gpui-mobile](https://github.com/itsbalamurali/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [mattpetters/zed](https://github.com/mattpetters/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
@@ -2210,6 +2213,8 @@
 
 ## TypeScript 
 
+- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
@@ -2428,7 +2433,7 @@
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
