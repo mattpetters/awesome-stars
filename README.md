@@ -106,6 +106,7 @@
 
 ## C 
 
+- [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua) - A Lua API for SketchyBar
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
@@ -747,6 +748,7 @@
 
 ## JavaScript 
 
+- [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [fireship-io/webrtc-firebase-demo](https://github.com/fireship-io/webrtc-firebase-demo) - Video Chat with WebRTC and Firebase
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 - [nich227/Gailan](https://github.com/nich227/Gailan) - kaɪ̯⁵¹ lǎn²¹⁴
@@ -1384,6 +1386,7 @@
 
 ## Python 
 
+- [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
