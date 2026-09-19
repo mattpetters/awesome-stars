@@ -1191,6 +1191,7 @@
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 
 ## Objective-C 
@@ -1365,6 +1366,7 @@
 
 ## PHP 
 
+- [Leantime/php-mcp-server](https://github.com/Leantime/php-mcp-server) - Core PHP implementation for the Model Context Protocol (MCP) server
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament
@@ -2115,7 +2117,7 @@
 
 ## Swift 
 
-- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
+- [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) - A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [azixxxxx/glance](https://github.com/azixxxxx/glance) - Modern macOS status bar replacement with liquid glass UI, 16 widgets, contextual profiles, and preset sharing. Native SwiftUI, no Electron.
@@ -2318,7 +2320,7 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
+- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [Cheng-Zi-Qing/stepvox](https://github.com/Cheng-Zi-Qing/stepvox) - 
 - [openclaw/acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 - [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code) - Comparison between open source PI agent and closed source Claude Code agent
@@ -2529,7 +2531,6 @@
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
