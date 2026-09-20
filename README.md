@@ -106,6 +106,9 @@
 
 ## C 
 
+- [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) - A port of https://www.github.com/n64decomp/sm64 for modern devices.
+- [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
+- [Render96/Render96ex](https://github.com/Render96/Render96ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
 - [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 - [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua) - A Lua API for SketchyBar
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -210,6 +213,7 @@
 
 ## C++ 
 
+- [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -814,6 +818,7 @@
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 - [GongRzhe/JSON-MCP-Server](https://github.com/GongRzhe/JSON-MCP-Server) - JSON handling and processing mcp server
 - [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [ethanaobrien/EmulatorJS](https://github.com/ethanaobrien/EmulatorJS) - The official home of the EmulatorJS project
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
@@ -1048,6 +1053,7 @@
 
 ## Lua 
 
+- [ankur311sudo/black_arch](https://github.com/ankur311sudo/black_arch) - When asthetic meets productivity.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter
@@ -1396,6 +1402,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
@@ -1483,7 +1490,6 @@
 - [tejpalv/auto-harness](https://github.com/tejpalv/auto-harness) - self-improving agent in 169 lines. one tool (bash), one loop. grows by writing mods that hot-reload into its own runtime.
 - [tejpalv/cc-markup](https://github.com/tejpalv/cc-markup) - Tokenizer cost markup between Claude model versions, measured on your own Claude Code sessions.
 - [delta-hq/cc-canary](https://github.com/delta-hq/cc-canary) - 
-- [langwatch/scenario](https://github.com/langwatch/scenario) - Agentic testing for agentic codebases
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
@@ -1605,7 +1611,7 @@
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) - An AI-Powered Speech Processing Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Enhancement, Separation, and Target Speaker Extraction, etc.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -1870,7 +1876,6 @@
 - [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- [pacifio/atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [OsamaMahmood/lazytask](https://github.com/OsamaMahmood/lazytask) - Simple terminal UI for taskwarrior : lazytask inspired by lazygit
 - [MystikoLab/rustcast](https://github.com/MystikoLab/rustcast) - An open source alternative to raycast, in rust!!
@@ -1890,7 +1895,7 @@
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB read
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M
 - [LinusCDE/plato](https://github.com/LinusCDE/plato) - Document reader
 - [yara-blue/Book-safe](https://github.com/yara-blue/Book-safe) - A tool for the Remarkable Table to hide books or documents between a given time period.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -2239,6 +2244,7 @@
 - [wigify/wigify](https://github.com/wigify/wigify) - Custom widgets for your desktop
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
+- [pacifio/atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) - Task management system for humans and agents in Obsidian.
@@ -2344,6 +2350,7 @@
 - [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow) - Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative
 - [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
+- [langwatch/scenario](https://github.com/langwatch/scenario) - Agentic testing for agentic codebases
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [mattpetters/kalshi-mcp-fork](https://github.com/mattpetters/kalshi-mcp-fork) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
@@ -2449,7 +2456,6 @@
 - [stripe/ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
