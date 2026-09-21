@@ -607,6 +607,7 @@
 
 ## android 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
@@ -2519,6 +2520,7 @@
 
 ## ios 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [marriagav/taskchamp](https://github.com/marriagav/taskchamp) - Taskwarrior iOS interface app
@@ -3298,6 +3300,7 @@
 
 ## mobile 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [The-Osint-Toolbox/Telephone-OSINT](https://github.com/The-Osint-Toolbox/Telephone-OSINT) - Phone lookup tools
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
@@ -3746,7 +3749,6 @@
 ## openai 
 
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
-- [Continuum-AI-Corp/Orca-Code-Review](https://github.com/Continuum-AI-Corp/Orca-Code-Review) - OrcaCode Review — the open code review harness. Multi-model reviews, merge gates, and no markup. Pay only for inference.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -3825,6 +3827,7 @@
 
 ## others 
 
+- [adriananders/16-Levels-LPPMK3-M4L](https://github.com/adriananders/16-Levels-LPPMK3-M4L) - 16 Levels of Velocity - A Max For Live Patch For Novation Launchpad Pro MK3
 - [ankur311sudo/black_arch](https://github.com/ankur311sudo/black_arch) - When asthetic meets productivity.
 - [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) - A port of https://www.github.com/n64decomp/sm64 for modern devices.
 - [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
@@ -4163,7 +4166,7 @@
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [mtymek/opencode-obsidian](https://github.com/mtymek/opencode-obsidian) - Embed OpenCode AI assistant directly in Obsidian's sidebar.
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+- [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [athal7/opencode-devcontainers](https://github.com/athal7/opencode-devcontainers) - Run multiple devcontainer instances with auto-assigned ports for OpenCode
 - [nick-vi/type-inject](https://github.com/nick-vi/type-inject) - TypeScript type context for AI coding assistants. Auto-injects type signatures on reads, reports type errors on writes, and provides type lookup tools.
 - [player-ui/player](https://github.com/player-ui/player) - A Cross Platform Server Driven UI Framework
@@ -5597,6 +5600,7 @@
 
 ## security 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
