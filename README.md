@@ -694,7 +694,6 @@
 - [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
 - [Cycling74/max-sdk](https://github.com/Cycling74/max-sdk) - Software Development Kit for Max by Cycling '74
 - [tc39/proposal-async-iteration](https://github.com/tc39/proposal-async-iteration) - Asynchronous iteration for JavaScript
-- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - These patterns document how to apply open source principles and practices for software development within the confines of an organization - aka InnerSource.
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -1248,6 +1247,7 @@
 
 ## Others 
 
+- [adriananders/16-Levels-LPPMK3-M4L](https://github.com/adriananders/16-Levels-LPPMK3-M4L) - 16 Levels of Velocity - A Max For Live Patch For Novation Launchpad Pro MK3
 - [cobanov/awesome-fly](https://github.com/cobanov/awesome-fly) - A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.
 - [compufox/emacs-icons](https://github.com/compufox/emacs-icons) - replacement icon for the emacs text editor
 - [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
@@ -1402,6 +1402,7 @@
 
 ## Python 
 
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
@@ -2096,6 +2097,7 @@
 - [gitpod-io/gitpod-gke-guide](https://github.com/gitpod-io/gitpod-gke-guide) - Running Gitpod in Google Kubernetes Engine
 - [unegma/bash-functions](https://github.com/unegma/bash-functions) - Useful functions for performing routine tasks in projects
 - [m50dkp/trinitycore-docker](https://github.com/m50dkp/trinitycore-docker) - A Dockerized container for TrinityCore
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
 - [dylanaraps/wal](https://github.com/dylanaraps/wal) - 🎨 Generate and change colorschemes on the fly. Deprecated, use pywal instead. --&gt;
 - [ehough/docker-nfs-server](https://github.com/ehough/docker-nfs-server) - A lightweight, robust, flexible, and containerized NFS server.
 - [C0k3/go-serverless](https://github.com/C0k3/go-serverless) - Setup a Go.cd server for serverless application deployment in AWS
@@ -2406,7 +2408,7 @@
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [mtymek/opencode-obsidian](https://github.com/mtymek/opencode-obsidian) - Embed OpenCode AI assistant directly in Obsidian's sidebar.
 - [ghoulr/opencode-websearch-cited](https://github.com/ghoulr/opencode-websearch-cited) - An OpenCode plugin that provides LLM cited web search.
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+- [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [nick-vi/type-inject](https://github.com/nick-vi/type-inject) - TypeScript type context for AI coding assistants. Auto-injects type signatures on reads, reports type errors on writes, and provides type lookup tools.
 - [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
 - [player-ui/player](https://github.com/player-ui/player) - A Cross Platform Server Driven UI Framework
