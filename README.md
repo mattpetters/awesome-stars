@@ -106,6 +106,7 @@
 
 ## C 
 
+- [twstokes/DarwinDOOM](https://github.com/twstokes/DarwinDOOM) - Easy to run DOOM on Apple devices
 - [sm64-port/sm64-port](https://github.com/sm64-port/sm64-port) - A port of https://www.github.com/n64decomp/sm64 for modern devices.
 - [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
 - [Render96/Render96ex](https://github.com/Render96/Render96ex) - Fork of https://github.com/sm64-port/sm64-port with additional features.
@@ -675,6 +676,7 @@
 
 ## HTML 
 
+- [coros-hq/shadcn-table-library](https://github.com/coros-hq/shadcn-table-library) - 
 - [emacs-eaf/eaf-browser](https://github.com/emacs-eaf/eaf-browser) - A modern, customizable and extensible browser in Emacs
 - [b3ric/archiveproxy](https://github.com/b3ric/archiveproxy) - 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
@@ -767,6 +769,7 @@
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+- [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
@@ -827,7 +830,6 @@
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [winterbe/github-matrix-screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX
 - [eslint/css](https://github.com/eslint/css) - CSS language plugin for ESLint
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -1015,7 +1017,7 @@
 - [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
-- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
 - [rasbt/LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024) - A 4-hour coding workshop to understand how LLMs are implemented and used
@@ -1650,7 +1652,7 @@
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [wustho/epr](https://github.com/wustho/epr) - CLI Epub Reader
-- [feder-cr/aihawk_mcp_server](https://github.com/feder-cr/aihawk_mcp_server) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [sjl/t](https://github.com/sjl/t) - A command-line todo list manager for people that want to finish tasks, not organize them.  (git mirror)
@@ -2116,6 +2118,7 @@
 
 ## Svelte 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial) - A basic realtime chat app with Pocketbase and Svelte
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
@@ -2123,6 +2126,9 @@
 
 ## Swift 
 
+- [akashbangad/ccwatch](https://github.com/akashbangad/ccwatch) - Claude Code usage on your Apple Watch — Mac daemon + watchOS app + complications. Bonjour-discovered local sync, no iPhone or iCloud needed.
+- [JoshKappler/apple-watch-claude-code](https://github.com/JoshKappler/apple-watch-claude-code) - 
+- [Manic-EMU/ManicEMU](https://github.com/Manic-EMU/ManicEMU) - Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping a clean, sleek UI and delivering buttery-smooth gameplay.
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) - A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
@@ -2269,7 +2275,6 @@
 - [smammar100/Iconimate](https://github.com/smammar100/Iconimate) - Hand-built animated React icons, drawn on the Phosphor 256 grid and tuned to read at 24px.
 - [shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn) - Beautiful email components, built on React Email, MJML React and JSX Email. 100% Free, Zero config, one command setup.
 - [shadcndashboard/shadcndashboard](https://github.com/shadcndashboard/shadcndashboard) - Free, open source admin dashboard built with React + vite, shadcn/ui, Tailwind CSS, and TypeScript.
-- [coros-hq/shadcn-table-library](https://github.com/coros-hq/shadcn-table-library) - 
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [livekit-examples/meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
@@ -2286,7 +2291,6 @@
 - [remcohaszing/mermaid-isomorphic](https://github.com/remcohaszing/mermaid-isomorphic) - Transform mermaid diagrams in the browser or Node.js
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [CONNECT-platform/codedoc](https://github.com/CONNECT-platform/codedoc) - Create beautiful modern documentation websites.
-- [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
