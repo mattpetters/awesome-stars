@@ -222,7 +222,6 @@
 - [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [ddvk/gitahead](https://github.com/ddvk/gitahead) - Understand your Git history!
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) - Source code for SonoBus, a real-time network audio streaming collaboration tool.
 - [airwindows/ConsoleXPre](https://github.com/airwindows/ConsoleXPre) - This is for running ConsoleX as a standalone multieffects unit, for instance to condition the sound going into a ToTape instance
 - [airwindows/ConsoleXChannel](https://github.com/airwindows/ConsoleXChannel) - This is where you download the Channel plugin for the ConsoleX system
@@ -512,6 +511,7 @@
 
 ## Go 
 
+- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
@@ -756,6 +756,7 @@
 
 ## JavaScript 
 
+- [chelinho139/wow-ai](https://github.com/chelinho139/wow-ai) - Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [fireship-io/webrtc-firebase-demo](https://github.com/fireship-io/webrtc-firebase-demo) - Video Chat with WebRTC and Firebase
@@ -1413,6 +1414,7 @@
 - [daijro/browserforge](https://github.com/daijro/browserforge) - 🎭 Intelligent browser header & fingerprint generator
 - [diafebus/Antelope-Ctl](https://github.com/diafebus/Antelope-Ctl) - This is an Antelope Control App implementation on linux for Orion Studio Synergy Core, could add more devices in the future
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/minimax-h3-mlx) - MLX (Apple Silicon) port of MiniMax-H3 — 33B joint video+audio diffusion. Validated against the diffusers reference; AdaLN precompute drops 13B at inference.
 - [pawel-mazurkiewicz/ComfyUI-AppleSilicon-FP8](https://github.com/pawel-mazurkiewicz/ComfyUI-AppleSilicon-FP8) - Run FP8 models on Apple Silicon / MPS in ComfyUI. Compatibility layer for ComfyUI on Apple Silicon.
 - [BobJohnson24/ComfyUI-INT8-Fast](https://github.com/BobJohnson24/ComfyUI-INT8-Fast) - Custom node to load models in INT8 for 1.5~2X Speed gains on 30 series cards.
@@ -1911,7 +1913,7 @@
 - [itsbalamurali/gpui-mobile](https://github.com/itsbalamurali/gpui-mobile) - Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [mattpetters/zed](https://github.com/mattpetters/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
@@ -2070,7 +2072,7 @@
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
 - [eliheuer/caskaydia-cove](https://github.com/eliheuer/caskaydia-cove) - Caskaydia Cove is a fork of the Cascadia Code typeface with the RFN (Reserved Font Name) removed, plus small adjustments to conform to the Google Fonts spec.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
