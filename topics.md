@@ -404,7 +404,7 @@
 
 ## ai 
 
-- [chelinho139/wow-ai](https://github.com/chelinho139/wow-ai) - Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)
+- [chelinho139/wow-ai](https://github.com/chelinho139/wow-ai) - Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [pacifio/atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
@@ -1022,6 +1022,7 @@
 
 ## chatgpt 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
@@ -1077,6 +1078,7 @@
 
 ## claude 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1112,7 +1114,7 @@
 
 ## claude-code 
 
-- [chelinho139/wow-ai](https://github.com/chelinho139/wow-ai) - Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)
+- [chelinho139/wow-ai](https://github.com/chelinho139/wow-ai) - Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -2892,6 +2894,7 @@
 
 ## llm 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
@@ -3924,7 +3927,7 @@
 - [ultronozm/codel.el](https://github.com/ultronozm/codel.el) - some llm tools
 - [agzam/go-jira.el](https://github.com/agzam/go-jira.el) - Emacs Jira integration utilizing go-jira CLI
 - [radian-software/apheleia](https://github.com/radian-software/apheleia) - 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.
-- [jdtsmith/emacs-mac](https://github.com/jdtsmith/emacs-mac) - Experimental build of emacs-mac for v&gt;=30.1
+- [jdtsmith/emacs-mac](https://github.com/jdtsmith/emacs-mac) - Experimental build of emacs-mac for v31
 - [xenodium/winpulse](https://github.com/xenodium/winpulse) - Temporarily highlight focused Emacs windows
 - [xenodium/ytr](https://github.com/xenodium/ytr) - An Emacs package to stream YouTube audio (powered by yt-dlp and mpv)
 - [xenodium/ready-player](https://github.com/xenodium/ready-player) - 
