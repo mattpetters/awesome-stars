@@ -191,7 +191,6 @@
 - [vmg/redcarpet](https://github.com/vmg/redcarpet) - The safe Markdown parser, reloaded.
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [jimon/osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - A simple showcase how to create a simple OS X app in plain C without any Objective-C
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## C# # 
@@ -363,6 +362,7 @@
 - [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [JoeMatt/Provenance](https://github.com/JoeMatt/Provenance) - An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
 
 ## CMake 
@@ -1721,7 +1721,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
+- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [Gbox4/tstock](https://github.com/Gbox4/tstock) - 📈A command line tool to view stock charts in the terminal.
 - [jacksalici/notion-cli-list-manager](https://github.com/jacksalici/notion-cli-list-manager) - A simple command-line tool for managing Notion databases.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
@@ -1880,6 +1880,7 @@
 
 ## Rust 
 
+- [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 - [TuscanPL/SparkyMK2](https://github.com/TuscanPL/SparkyMK2) - Feature matched cross-platform app for the Roland SP404-MKII
 - [tauri-apps/tao](https://github.com/tauri-apps/tao) - The TAO of cross-platform windowing. A library in Rust built for Tauri.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
