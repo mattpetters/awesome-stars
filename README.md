@@ -2249,6 +2249,7 @@
 
 ## TypeScript 
 
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice) - 🔊 The Obsidian Voice plugin lets you listen to your written content being read aloud—mobile-friendly audiobook-like experience. 🎧
 - [the0807/git-graph-plus](https://github.com/the0807/git-graph-plus) - 💻 A modern Git visualization tool for VS Code. Understand your commit history, manage branches, and work with Git more intuitively.
 - [mswastik/siyuan-git-sync](https://github.com/mswastik/siyuan-git-sync) - 
