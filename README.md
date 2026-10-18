@@ -219,6 +219,7 @@
 
 ## C++ 
 
+- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [FelipePrado0/gow3_pc](https://github.com/FelipePrado0/gow3_pc) - God of War III Remastered (PS4) for Windows and Linux (experimental AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core and cuesta4
 - [OverkillLabs3/SoS-PS5](https://github.com/OverkillLabs3/SoS-PS5) - God of War Sons of Sparta Native on Windows
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
@@ -473,6 +474,7 @@
 
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
+- [ghuntley/overalls](https://github.com/ghuntley/overalls) - [experimental] An AI-first developer platform that you own. Overalls launches on 3 November 2026.
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 
@@ -1107,7 +1109,7 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) - neovim frontend for opencode - a terminal-based AI coding agent
 - [nvim-mini/mini.test](https://github.com/nvim-mini/mini.test) - Neovim Lua plugin to test Neovim plugins. Part of 'mini.nvim' library.
-- [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors.
+- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - 🌊 Remixed Kanagawa colourschemes with muted colors.
 - [ThePrimeagen/99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [AlexandrosAlexiou/kotlin.nvim](https://github.com/AlexandrosAlexiou/kotlin.nvim) - Extensions for JetBrains' Kotlin LSP support in Neovim
@@ -1122,7 +1124,6 @@
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of fzf fuzzy search for the neovim built in lsp
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
 - [casedami/neomodern.nvim](https://github.com/casedami/neomodern.nvim) - A collection of modern themes for Neovim
-- [metalelf0/black-metal-theme-neovim](https://github.com/metalelf0/black-metal-theme-neovim) - A collection of black-metal themed neovim colorschemes.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [tjdevries/config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
 - [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim
@@ -1901,6 +1902,8 @@
 
 ## Rust 
 
+- [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
@@ -1924,7 +1927,6 @@
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [mattpetters/omniget](https://github.com/mattpetters/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - corsa (typescript 7 "previously typescript-go") bindings (ffi & orchestration) for rust and js/ts, etc...
@@ -1956,7 +1958,6 @@
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [ghuntley/loom](https://github.com/ghuntley/loom) - if your name is not Geoffrey Huntley then do not use loom
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.
@@ -2070,6 +2071,7 @@
 
 ## Shell 
 
+- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [emmaworley/cdj3k-root](https://github.com/emmaworley/cdj3k-root) - Enable root SSH access on your CDJ-3000.
 - [SasoriXX/CipherHater](https://github.com/SasoriXX/CipherHater) - Cracking guides
@@ -2093,6 +2095,7 @@
 - [marcmonka/XDJ100SX](https://github.com/marcmonka/XDJ100SX) - Open Source Standalone DJ Deck using an old CDJ 100 S
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+- [metalelf0/black-metal-theme-neovim](https://github.com/metalelf0/black-metal-theme-neovim) - A collection of black-metal themed neovim colorschemes.
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [EndeavourOS-Community-Editions/sway](https://github.com/EndeavourOS-Community-Editions/sway) - EndeavourOS Community Edition setup for sway
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
@@ -2271,6 +2274,7 @@
 
 ## TypeScript 
 
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [stephendolan/omnifocus-cli](https://github.com/stephendolan/omnifocus-cli) - A command-line interface for OmniFocus on macOS
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
@@ -2287,7 +2291,7 @@
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
