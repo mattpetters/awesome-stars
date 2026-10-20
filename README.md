@@ -219,8 +219,10 @@
 
 ## C++ 
 
+- [xinghao-wu/epubworm](https://github.com/xinghao-wu/epubworm) - Image-capable TUI EPUB reader
+- [santiagorod92/foo_ui_panels](https://github.com/santiagorod92/foo_ui_panels) - Reviving the discontinued Panels UI (foo_ui_panels) for foobar2000 v2 — Linux cross-build
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [FelipePrado0/gow3_pc](https://github.com/FelipePrado0/gow3_pc) - God of War III Remastered (PS4) for Windows and Linux (experimental AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan video core and cuesta4
+- [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) - SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan 
 - [OverkillLabs3/SoS-PS5](https://github.com/OverkillLabs3/SoS-PS5) - God of War Sons of Sparta Native on Windows
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
 - [Swordpdf/PS5SX2](https://github.com/Swordpdf/PS5SX2) - A port of PCSX2 for PS5
@@ -841,7 +843,7 @@
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) - An MCP server that installs other MCP servers for you
 - [GongRzhe/JSON-MCP-Server](https://github.com/GongRzhe/JSON-MCP-Server) - JSON handling and processing mcp server
 - [GongRzhe/Gmail-MCP-Server](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and Monitor, from any MCP client.
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [ethanaobrien/EmulatorJS](https://github.com/ethanaobrien/EmulatorJS) - The official home of the EmulatorJS project
@@ -853,7 +855,6 @@
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [winterbe/github-matrix-screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for Mac OSX
 - [eslint/css](https://github.com/eslint/css) - CSS language plugin for ESLint
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte.
 - [nh-server/switch-guide](https://github.com/nh-server/switch-guide) - 
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -1424,6 +1425,7 @@
 
 ## Python 
 
+- [nikhilsahoo/shelfline](https://github.com/nikhilsahoo/shelfline) - Catalog-first terminal library for OPDS browsing, book downloads, and EPUB reading.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul
 - [climberhunt/PiPhone](https://github.com/climberhunt/PiPhone) - PiPhone - A DIY cellphone based on Raspberry Pi
 - [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph) - Log-based transactional graph engine
@@ -1692,7 +1694,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [coz-m/MPLUS_FONTS](https://github.com/coz-m/MPLUS_FONTS) - M+ FONTS
@@ -1901,6 +1903,9 @@
 
 ## Rust 
 
+- [hrhrng/readio](https://github.com/hrhrng/readio) - A terminal ebook reader with the interaction grammar of a coding agent — EPUB, PDF, Markdown, local-model read-aloud, images in the terminal. 3.9MB, no runtime deps.
+- [newptcai/repy](https://github.com/newptcai/repy) - repy is a terminal epub format ebook reader inspired by epy
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
@@ -2273,6 +2278,7 @@
 
 ## TypeScript 
 
+- [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows apps for creating, editing, and exporting Mermaid diagrams.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [stephendolan/omnifocus-cli](https://github.com/stephendolan/omnifocus-cli) - A command-line interface for OmniFocus on macOS
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
@@ -2535,6 +2541,7 @@
 - [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes.
 - [litdb/litdb](https://github.com/litdb/litdb) - Lightweight RDBMS agnostic TypeScript/JS abstraction for SQLite, PostgreSQL and MySQL
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
