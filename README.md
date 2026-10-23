@@ -219,6 +219,7 @@
 
 ## C++ 
 
+- [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Zelda Wind Waker HD Recomp
 - [xinghao-wu/epubworm](https://github.com/xinghao-wu/epubworm) - Image-capable TUI EPUB reader
 - [santiagorod92/foo_ui_panels](https://github.com/santiagorod92/foo_ui_panels) - Reviving the discontinued Panels UI (foo_ui_panels) for foobar2000 v2 — Linux cross-build
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -245,7 +246,6 @@
 - [tomderham/curve](https://github.com/tomderham/curve) - Menu bar macOS app that hosts audio plugins
 - [kushview/element](https://github.com/kushview/element) - Element Audio Plugin Host
 - [baconpaul/airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
-- [motherduckdb/public-duckdb-wasm](https://github.com/motherduckdb/public-duckdb-wasm) - WebAssembly version of DuckDB
 - [sudara/pamplejuce](https://github.com/sudara/pamplejuce) - A JUCE audio plugin template. JUCE 8, Catch2, Pluginval, macOS notarization, Azure Trusted Signing, Github Actions
 - [pndias/hott-master-vst](https://github.com/pndias/hott-master-vst) - Hott Master VST3 — Professional mastering plugin with Soothe-style resonance suppressor, linear phase EQ, SSL bus compressor, soft clipper, and true peak limiter
 - [stevemurr/axon](https://github.com/stevemurr/axon) - Adaptive neural mastering chain in a single CLAP plugin — adaptive EQ, SSL-style glue, bass-mono & a loudness maximizer (macOS).
@@ -1400,12 +1400,13 @@
 
 ## PHP 
 
+- [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [Leantime/php-mcp-server](https://github.com/Leantime/php-mcp-server) - Core PHP implementation for the Model Context Protocol (MCP) server
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
+- [leepeuker/movary](https://github.com/leepeuker/movary) - A self-hosted web app for tracking, rating, and exploring your movie watch history.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [philspil66/gatekeeper](https://github.com/philspil66/gatekeeper) - Gatekeeper is a package to manage Feature Flagging within a Laravel project.
@@ -1521,7 +1522,7 @@
 - [tejpalv/auto-harness](https://github.com/tejpalv/auto-harness) - self-improving agent in 169 lines. one tool (bash), one loop. grows by writing mods that hot-reload into its own runtime.
 - [tejpalv/cc-markup](https://github.com/tejpalv/cc-markup) - Tokenizer cost markup between Claude model versions, measured on your own Claude Code sessions.
 - [delta-hq/cc-canary](https://github.com/delta-hq/cc-canary) - 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -1568,7 +1569,7 @@
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [skarlekar/mcp_travelassistant](https://github.com/skarlekar/mcp_travelassistant) - A suite of MCP servers that enables an LLM to orchestrate specialized services to generate travel itineraries, find flights and accommodations, discover local events, analyze weather conditions and ma
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [disler/big-3-super-agent](https://github.com/disler/big-3-super-agent) - Gemini 2.5 Computer Use + OpenAI Realtime API + Claude Code Multi-Agent Experiment
 - [PagerDuty/pagerduty-mcp-server](https://github.com/PagerDuty/pagerduty-mcp-server) - PagerDuty's official local MCP (Model Context Protocol) server which provides tools to interact with your PagerDuty account directly from your MCP-enabled client.
@@ -1959,7 +1960,7 @@
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
-- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
@@ -2290,7 +2291,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [bielcarpi/hermes-live-voice](https://github.com/bielcarpi/hermes-live-voice) - Self-hosted realtime voice gateway for Hermes Agent. Keep talking while Hermes runs background tasks through local, Gemini Live, and OpenAI Realtime adapters.
-- [tabwrangler/tabwrangler](https://github.com/tabwrangler/tabwrangler) - A browser extension that automatically closes your unused tabs so you can focus on the tabs that matter
+- [tabwrangler/tabwrangler](https://github.com/tabwrangler/tabwrangler) - Automatically close unused browser tabs so you can focus on the tabs that matter
 - [mega-yfue/eufy-sdk](https://github.com/mega-yfue/eufy-sdk) - One typed client for the whole eufy ecosystem — devices, realtime events, and live media.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅
@@ -2334,6 +2335,7 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D) - Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications.
+- [motherduckdb/public-duckdb-wasm](https://github.com/motherduckdb/public-duckdb-wasm) - WebAssembly version of DuckDB
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 - [motherduckdb/obsidian-duckdb-motherduck](https://github.com/motherduckdb/obsidian-duckdb-motherduck) - Obsidian Plugin for DuckDB & MotherDuck
 - [arnaudrenaud/speccharts](https://github.com/arnaudrenaud/speccharts) - 
@@ -2665,7 +2667,7 @@
 - [wemaintain/auto-relay](https://github.com/wemaintain/auto-relay) - Relay made simple in code-first GraphQL typescript applications
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [nareshbhatia/graphql-bookstore](https://github.com/nareshbhatia/graphql-bookstore) - Example demonstrating the use of GraphQL to implement a rich domain with multiple entities and relationships
 - [Moumouls/next-atomic-gql](https://github.com/Moumouls/next-atomic-gql) - High end frontend app with: React, Typescript, NextJS, Storybook, GraphQL, Codegen, SonarQube, Kubernetes
@@ -2681,7 +2683,7 @@
 - [happykit/flags](https://github.com/happykit/flags) - ⛳️ Feature Flags for Next.js
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [wagtail/draftail](https://github.com/wagtail/draftail) - 📝🍸 A configurable rich text editor built with Draft.js
 - [creditkarma/thrift-typescript](https://github.com/creditkarma/thrift-typescript) - Generate TypeScript from Thrift IDL files
 - [benawad/lireddit](https://github.com/benawad/lireddit) - 
