@@ -1482,7 +1482,7 @@
 
 ## csharp 
 
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - corsa (typescript 7 "previously typescript-go") bindings (ffi & orchestration) for rust and js/ts, etc...
 - [valkey-io/valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey an
@@ -1884,7 +1884,7 @@
 
 ## emulator 
 
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation2 Emulator
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
@@ -2902,7 +2902,7 @@
 
 - [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) - SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan 
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) - Source code for SonoBus, a real-time network audio streaming collaboration tool.
@@ -3170,7 +3170,6 @@
 
 - [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows apps for creating, editing, and exporting Mermaid diagrams.
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
@@ -6618,7 +6617,7 @@
 
 - [FelipePrado0/SpartanPort](https://github.com/FelipePrado0/SpartanPort) - SpartanPort: unofficial PC port of God of War III Remastered (PS4) for Windows and Linux (AppImage). Original x86-64 code runs directly on the CPU with a custom runtime; graphics use shadPS4's Vulkan 
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
-- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3
 - [sonosaurus/sonobus](https://github.com/sonosaurus/sonobus) - Source code for SonoBus, a real-time network audio streaming collaboration tool.
