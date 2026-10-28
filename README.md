@@ -219,6 +219,8 @@
 
 ## C++ 
 
+- [mattpetters/0700-AAM](https://github.com/mattpetters/0700-AAM) - Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
+- [MusicTribeOpenSource/0700-AAM](https://github.com/MusicTribeOpenSource/0700-AAM) - Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
 - [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Zelda Wind Waker HD Recomp
 - [xinghao-wu/epubworm](https://github.com/xinghao-wu/epubworm) - Image-capable TUI EPUB reader
 - [santiagorod92/foo_ui_panels](https://github.com/santiagorod92/foo_ui_panels) - Reviving the discontinued Panels UI (foo_ui_panels) for foobar2000 v2 — Linux cross-build
@@ -1077,6 +1079,7 @@
 
 ## Lua 
 
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
@@ -1427,6 +1430,8 @@
 
 ## Python 
 
+- [appautomaton/mlx-speech](https://github.com/appautomaton/mlx-speech) - Pure-MLX speech synthesis, voice cloning, dialogue, sound-effects, and ASR for Apple Silicon: Fish S2 Pro, VibeVoice, LongCat, MOSS, Step-Audio, Cohere ASR.
+- [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) - Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.
 - [nikhilsahoo/shelfline](https://github.com/nikhilsahoo/shelfline) - Catalog-first terminal library for OPDS browsing, book downloads, and EPUB reading.
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [climberhunt/PiPhone](https://github.com/climberhunt/PiPhone) - PiPhone - A DIY cellphone based on Raspberry Pi
@@ -1497,7 +1502,7 @@
 - [RecursiveMAS/RecursiveMAS](https://github.com/RecursiveMAS/RecursiveMAS) - [NeurIPS 2026] Recursive Multi-Agent Systems
 - [SvenBrnn/runpod-worker-ollama](https://github.com/SvenBrnn/runpod-worker-ollama) - A serverless ollama worker for runpod.io
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
-- [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Asynchronous coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file leases over FastMCP + Git + SQLite
+- [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Deprecated: superseded by mcp_agent_mail_rust, the maintained Rust rewrite. Original Python FastMCP coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file 
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
 - [liftaris/bazaar-ghost](https://github.com/liftaris/bazaar-ghost) - 
@@ -1905,6 +1910,7 @@
 
 ## Rust 
 
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [hrhrng/readio](https://github.com/hrhrng/readio) - A terminal ebook reader with the interaction grammar of a coding agent — EPUB, PDF, Markdown, local-model read-aloud, images in the terminal. 3.9MB, no runtime deps.
 - [newptcai/repy](https://github.com/newptcai/repy) - repy is a terminal epub format ebook reader inspired by epy
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
@@ -1955,7 +1961,7 @@
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
-- [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
+- [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 30+ providers (Codex, Claude Code, Gemini, Cursor, Aider, Copilot, and more) into one searchable timeline. Hybrid
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
@@ -2400,7 +2406,7 @@
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [MaxBittker/rs-sdk](https://github.com/MaxBittker/rs-sdk) - Runescape automation library, optimized for use by coding agents.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [runpod-labs/a2go](https://github.com/runpod-labs/a2go) - run your open source agent with open weight models
