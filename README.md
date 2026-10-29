@@ -104,6 +104,8 @@
 
 ## C 
 
+- [mattpetters/castello](https://github.com/mattpetters/castello) - A small CLAP/VST reverb plugin based on Csound reverbsc
+- [lucianoiam/castello](https://github.com/lucianoiam/castello) - A small CLAP/VST reverb plugin based on Csound reverbsc
 - [drakmor/ShadowMountPlus](https://github.com/drakmor/ShadowMountPlus) - Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compre
 - [mihawk-99/PS5_Vulkan](https://github.com/mihawk-99/PS5_Vulkan) - A Vulkan 1.4+ PS5 native  driver, powered by Mesa/RADV and validated by CTS.
 - [izzyreal/vmpc-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
@@ -165,7 +167,7 @@
 - [tats/w3m](https://github.com/tats/w3m) - Debian's w3m: WWW browsable pager
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [fabianishere/pam_reattach](https://github.com/fabianishere/pam_reattach) - Reattach to the user's GUI session on macOS during authentication (for Touch ID support in tmux)
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [free-audio/clap](https://github.com/free-audio/clap) - Audio Plugin API
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
@@ -189,7 +191,7 @@
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [mtking2/32x32-LED-Array-Mortarboard](https://github.com/mtking2/32x32-LED-Array-Mortarboard) - Arduino project to display images/animations on an LED grid.
 - [mattrajca/sudo-touchid](https://github.com/mattrajca/sudo-touchid) - A fork of `sudo` with Touch ID support.
-- [facebook/fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
+- [meta/fishhook](https://github.com/meta/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [vmg/redcarpet](https://github.com/vmg/redcarpet) - The safe Markdown parser, reloaded.
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
@@ -219,6 +221,7 @@
 
 ## C++ 
 
+- [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
 - [mattpetters/0700-AAM](https://github.com/mattpetters/0700-AAM) - Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
 - [MusicTribeOpenSource/0700-AAM](https://github.com/MusicTribeOpenSource/0700-AAM) - Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
 - [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) - Zelda Wind Waker HD Recomp
@@ -525,6 +528,7 @@
 
 ## GLSL 
 
+- [KhronosGroup/SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
 - [hackrdotsh/ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
@@ -699,12 +703,13 @@
 
 ## HTML 
 
+- [mattpetters/dawproject](https://github.com/mattpetters/dawproject) - Open exchange format for DAWs
 - [coros-hq/shadcn-table-library](https://github.com/coros-hq/shadcn-table-library) - 
 - [emacs-eaf/eaf-browser](https://github.com/emacs-eaf/eaf-browser) - A modern, customizable and extensible browser in Emacs
 - [b3ric/archiveproxy](https://github.com/b3ric/archiveproxy) - 
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [caspianchan31/in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status (libghostty + SwiftUI/AppKit). Source-available.
-- [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - All-in-one steganography suite
+- [elder-plinius/ST3GG](https://github.com/elder-plinius/ST3GG) - all-in-one steganography suite
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -948,7 +953,7 @@
 - [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [sebmarkbage/art](https://github.com/sebmarkbage/art) - Retained mode vector drawing API designed for multiple output modes. There's also a built-in SVG parser.
 - [jhackshaw/tspvis](https://github.com/jhackshaw/tspvis) - 🗺️   Visualize and control algorithms for the traveling salesman problem
-- [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Meta JS projects.
+- [meta/fbjs](https://github.com/meta/fbjs) - A collection of utility libraries used by other Meta JS projects.
 - [dgraph-io/graphoverflow](https://github.com/dgraph-io/graphoverflow) - Run the entire StackOverflow on Dgraph. Work in progress.
 - [sysgears/apollo-universal-starter-kit](https://github.com/sysgears/apollo-universal-starter-kit) - Apollo Universal Starter Kit is a SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -1231,6 +1236,8 @@
 
 ## Objective-C 
 
+- [mattpetters/nxnative](https://github.com/mattpetters/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
+- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
@@ -1408,7 +1415,7 @@
 - [Leantime/php-mcp-server](https://github.com/Leantime/php-mcp-server) - Core PHP implementation for the Model Context Protocol (MCP) server
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
-- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+- [relaticle/relaticle](https://github.com/relaticle/relaticle) - Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks and notes. REST API, self-hosted or cloud.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [leepeuker/movary](https://github.com/leepeuker/movary) - A self-hosted web app for tracking, rating, and exploring your movie watch history.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -1430,6 +1437,12 @@
 
 ## Python 
 
+- [mattpetters/neuron-explorer](https://github.com/mattpetters/neuron-explorer) - Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results
+- [mattpetters/rpp](https://github.com/mattpetters/rpp) - Read and write Reaper RPP files with Python.
+- [Perlence/rpp](https://github.com/Perlence/rpp) - Read and write Reaper RPP files with Python.
+- [DawVert/DawVert](https://github.com/DawVert/DawVert) - DawVert - The DAW ConVERTer
+- [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
+- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 - [appautomaton/mlx-speech](https://github.com/appautomaton/mlx-speech) - Pure-MLX speech synthesis, voice cloning, dialogue, sound-effects, and ASR for Apple Silicon: Fish S2 Pro, VibeVoice, LongCat, MOSS, Step-Audio, Cohere ASR.
 - [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) - Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.
 - [nikhilsahoo/shelfline](https://github.com/nikhilsahoo/shelfline) - Catalog-first terminal library for OPDS browsing, book downloads, and EPUB reading.
@@ -1842,7 +1855,7 @@
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) - A simple terminal feed reader.
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
+- [meta/PathPicker](https://github.com/meta/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [mailgun/flanker](https://github.com/mailgun/flanker) - Python email address and Mime parsing library
 - [JoshData/python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python.
 - [KhaosT/tb3-enabler](https://github.com/KhaosT/tb3-enabler) - Enable Thunderbolt 3 for unsupported peripherals on macOS
@@ -1910,6 +1923,7 @@
 
 ## Rust 
 
+- [Silvertree2010/ApolloOffice](https://github.com/Silvertree2010/ApolloOffice) - AI workers that turn GitHub issues into verified bug-fix pull requests: reproduce, fix with a regression test, prove it, open the PR. Runs locally with Claude Code, Codex, OpenAI, Gemini or Ollama.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [hrhrng/readio](https://github.com/hrhrng/readio) - A terminal ebook reader with the interaction grammar of a coding agent — EPUB, PDF, Markdown, local-model read-aloud, images in the terminal. 3.9MB, no runtime deps.
 - [newptcai/repy](https://github.com/newptcai/repy) - repy is a terminal epub format ebook reader inspired by epy
@@ -1943,7 +1957,7 @@
 - [ubugeeei-prod/corsa-bind](https://github.com/ubugeeei-prod/corsa-bind) - corsa (typescript 7 "previously typescript-go") bindings (ffi & orchestration) for rust and js/ts, etc...
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
-- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment
+- [meta/dotslash](https://github.com/meta/dotslash) - Simplified executable deployment
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
 - [LinusCDE/plato](https://github.com/LinusCDE/plato) - Document reader
 - [yara-blue/Book-safe](https://github.com/yara-blue/Book-safe) - A tool for the Remarkable Table to hide books or documents between a given time period.
@@ -2070,7 +2084,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [jaybutera/mmo-rust-server](https://github.com/jaybutera/mmo-rust-server) - A simple example server in asynchronous Rust for MMO games
-- [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [meta/relay](https://github.com/meta/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
 ## Sass 
 
@@ -2196,7 +2210,6 @@
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [kitknox/rootshell](https://github.com/kitknox/rootshell) - rootshell - The terminal, reimagined for Apple platforms
 - [JuliusBrussee/revu-swift](https://github.com/JuliusBrussee/revu-swift) - Local-first macOS study app with FSRS review, decks, study guides, exams, import/export, and a polished SwiftUI desktop interface.
-- [nek0der/limpid-archive](https://github.com/nek0der/limpid-archive) - A macOS-native terminal for the AI coding agent era
 - [bradjenn/blink](https://github.com/bradjenn/blink) - A modern AI terminal
 - [aiyu-ai/AiyuTerm](https://github.com/aiyu-ai/AiyuTerm) - Native macOS terminal workspace — multi-repo sidebar, persistent split layouts, SSH, tmux, and real-time AI agent status. Powered by Ghostty.
 - [g960059/agtmux-term](https://github.com/g960059/agtmux-term) - AI-agent-aware terminal emulator — libghostty + SwiftUI sidebar
@@ -2284,6 +2297,7 @@
 
 ## TypeScript 
 
+- [mattpetters/shannon](https://github.com/mattpetters/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows apps for creating, editing, and exporting Mermaid diagrams.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
@@ -2414,7 +2428,6 @@
 - [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.
 - [langwatch/scenario](https://github.com/langwatch/scenario) - Agentic testing for agentic codebases
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [mattpetters/kalshi-mcp-fork](https://github.com/mattpetters/kalshi-mcp-fork) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
 - [newyorkcompute/kalshi](https://github.com/newyorkcompute/kalshi) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
@@ -2501,7 +2514,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Deterministic testing tools for MCP servers
 - [docker/mcp-inspector](https://github.com/docker/mcp-inspector) - Visual testing tool for MCP servers
 - [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server) - MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
@@ -2627,7 +2640,7 @@
 - [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 - [cypress-io/cypress-heroes-app](https://github.com/cypress-io/cypress-heroes-app) - Demo app for Cypress
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
@@ -2815,6 +2828,7 @@
 - [Snoupix/browstty](https://github.com/Snoupix/browstty) - A Zig WASM module that implements libghostty to emulate a terminal in the browser
 - [smithersai/zmux](https://github.com/smithersai/zmux) - tmux-style PTY session multiplexer as a Zig package. Long-lived daemon owns sessions and PTY child processes; clients attach over UNIX-domain JSON-RPC.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [SuperAuguste/zig-patterns](https://github.com/SuperAuguste/zig-patterns) - Common Zig patterns for you and your friends :)
 - [kristoff-it/kristRTX](https://github.com/kristoff-it/kristRTX) - "Raytracing on a weekend" done in Zig
 - [tammoippen/zig-plotille](https://github.com/tammoippen/zig-plotille) - Plot graphs and histograms in the terminal.
