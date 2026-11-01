@@ -203,7 +203,6 @@
 
 - [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 - [SirDiabo/GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
-- [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 - [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows and Linux
 - [futo-org/Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop) - Read-only mirror of Grayjay.Desktop repo for issue tracking
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
@@ -1290,6 +1289,7 @@
 
 ## Others 
 
+- [storytold/craft-contrib](https://github.com/storytold/craft-contrib) - 
 - [deaghean/omnifocus-perspective-icons](https://github.com/deaghean/omnifocus-perspective-icons) - Perspective icons designed specifically for OmniFocus 3 for Mac and iOS
 - [KoreTeknology/Free-Resources-for-MPC-Software](https://github.com/KoreTeknology/Free-Resources-for-MPC-Software) - A Collection of free resources for the Akai Music Production Center software and standalone units, including API Documentation, Startup Templates, User Presets and Custom Skins
 - [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
@@ -1445,7 +1445,6 @@
 ## Python 
 
 - [thane98/paragon](https://github.com/thane98/paragon) - Toolkit for editing various FE games.
-- [rennan101/nxnative_Launcher](https://github.com/rennan101/nxnative_Launcher) - Port and Launch Switch Games to run natively on iPhone, iPad and Mac with icloud Crossave, adjustable FPS, Render Scale, control mapper, DLC & Mod Support. This Launcher has Multiple language UI Suppo
 - [lyramakesmusic/sa3-inpainter-ui](https://github.com/lyramakesmusic/sa3-inpainter-ui) - SA3 medium audio inpainter — MLX SAME-L decoder + FastAPI + vanilla Svelte UI
 - [lyramakesmusic/mtgsim_for_agents](https://github.com/lyramakesmusic/mtgsim_for_agents) - mtg sim that lets claude or codex play against each other (or you)
 - [lyramakesmusic/neuralese-leaker](https://github.com/lyramakesmusic/neuralese-leaker) - web app for chatting with llms on openrouter with leaked unabridged reasoning
@@ -1453,7 +1452,6 @@
 - [mattpetters/rpp](https://github.com/mattpetters/rpp) - Read and write Reaper RPP files with Python.
 - [Perlence/rpp](https://github.com/Perlence/rpp) - Read and write Reaper RPP files with Python.
 - [DawVert/DawVert](https://github.com/DawVert/DawVert) - DawVert - The DAW ConVERTer
-- [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
 - [mattpetters/nxnative](https://github.com/mattpetters/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
@@ -1574,7 +1572,7 @@
 - [simonw/llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex) - Access OpenAI models via an existing Codex subscription
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [uisato/ableton-mcp-extended](https://github.com/uisato/ableton-mcp-extended) - Ableton Live MCP (Model Context Protocol) server that allows control directly through AI assistants.
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server. 6 fighters incl. Muse-Glimmer 30B (now multimodal — reads images, abliterated), Gemma 4 31B, Qwen 3.5 12
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit or ran out of credits? Keep working on a local model. Claude Code on your own Mac (MLX), Linux or Windows (llama.cpp) with no API key and no rate limits. Your code sta
 - [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [TrevorS/gemma-4-abliteration](https://github.com/TrevorS/gemma-4-abliteration) - Gemma 4 abliteration research: biprojection + EGA for E2B, E4B, 12B, 26B MoE, 31B
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -1937,13 +1935,14 @@
 
 ## Rust 
 
+- [transit-audio/transit](https://github.com/transit-audio/transit) - transit: an open-source DAW in Rust with native ASIO (no SDK), measured latency, and plug-ins that cannot freeze the window. Cubase bones, Ableton manners.
 - [fabox-os/Pro-Wave](https://github.com/fabox-os/Pro-Wave) - ProWave, a music production Daw in the style of Logic Pro, written in pure Rust with egui. Tracks, MIDI and audio regions, piano roll, mixer and built-in synth. Builds for Windows, macOS and Linux
 - [suhina-daw/suhina-daw](https://github.com/suhina-daw/suhina-daw) - Open-source clip-launching DAW in Rust (clean-room)
 - [mattpetters/MisterDiagram](https://github.com/mattpetters/MisterDiagram) - Your diagrams, as requested. A clean-room, headless Rust core for Visio's .vsdx files and ShapeSheet, with a CLI and an MCP server.
 - [AlienTechSoftware/notecraft](https://github.com/AlienTechSoftware/notecraft) - Note taking and organization; an open-source, clean-room reimplementation of Microsoft OneNote, rebuilt in pure Rust
 - [MisterDiagram/MisterDiagram](https://github.com/MisterDiagram/MisterDiagram) - Your diagrams, as requested. A clean-room, headless Rust core for Visio's .vsdx files and ShapeSheet, with a CLI and an MCP server.
 - [therichronicles/EarthCraft](https://github.com/therichronicles/EarthCraft) - An open-source 3D globe explorer built in Rust, with satellite imagery, live aircraft, ships, weather and traffic.
-- [igtoth/tracedraw](https://github.com/igtoth/tracedraw) - 
+- [tracedraw/tracedraw](https://github.com/tracedraw/tracedraw) - 
 - [surfrpt1/procraft](https://github.com/surfrpt1/procraft) - ProCraft: an open-source, clean-room raster painting studio in pure Rust (layered painting, brushes, canvas). Inspired by pro workflows; all code and assets original.
 - [mateusrdp/oxiguitar](https://github.com/mateusrdp/oxiguitar) - Guitar tablature and score viewer, editor and player, written in Rust.
 - [UCS-Care-Group/mailcraft](https://github.com/UCS-Care-Group/mailcraft) - MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.
@@ -2222,6 +2221,7 @@
 ## Swift 
 
 - [varyform/nx-native-wrapper](https://github.com/varyform/nx-native-wrapper) - NX Play: a Mac app to build, play, install and manage Switch games with nxnative, on the Mac and on iPhone/iPad
+- [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
 - [akashbangad/ccwatch](https://github.com/akashbangad/ccwatch) - Claude Code usage on your Apple Watch — Mac daemon + watchOS app + complications. Bonjour-discovered local sync, no iPhone or iCloud needed.
 - [JoshKappler/apple-watch-claude-code](https://github.com/JoshKappler/apple-watch-claude-code) - 
 - [Manic-EMU/ManicEMU](https://github.com/Manic-EMU/ManicEMU) - Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping a clean, sleek UI and delivering buttery-smooth gameplay.
@@ -2334,6 +2334,7 @@
 
 ## TypeScript 
 
+- [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
 - [DraftlineStudio/draftlinestudio](https://github.com/DraftlineStudio/draftlinestudio) - Draftline is a desktop writing environment for novelists. It combines a focused rich-text editor with offline spelling and grammar checks, character relationship indexing, story planning and outlining
 - [DiagramCraft/diagram-craft](https://github.com/DiagramCraft/diagram-craft) - 
 - [AlexParamonov/pi-subagents-lite](https://github.com/AlexParamonov/pi-subagents-lite) - 
@@ -2343,6 +2344,7 @@
 - [gotgenes/pi-anthropic-auth](https://github.com/gotgenes/pi-anthropic-auth) - Pi extension package for Anthropic OAuth compatibility
 - [JerryAZR/pi-subagent-lite](https://github.com/JerryAZR/pi-subagent-lite) - Minimal pi extension that delegates tasks to isolated subagent processes with optional skill loading
 - [opensec-git/Pi-Bolt](https://github.com/opensec-git/Pi-Bolt) - ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).
+- [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [mattpetters/shannon](https://github.com/mattpetters/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
@@ -2492,7 +2494,7 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
+- [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.
 - [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
