@@ -897,7 +897,7 @@
 - [tradovate/example-api-js](https://github.com/tradovate/example-api-js) - 
 - [tradovate/example-api-trading-strategy](https://github.com/tradovate/example-api-trading-strategy) - 
 - [aicombinator/bot](https://github.com/aicombinator/bot) - GPT-powered bot that can automate complex online tasks using both the web browser and API calls.
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against files staged in Git
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [bp4924/qr-code-component-react](https://github.com/bp4924/qr-code-component-react) - Refactor of a Frontend Mentor challenge using react
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -1453,7 +1453,7 @@
 - [Perlence/rpp](https://github.com/Perlence/rpp) - Read and write Reaper RPP files with Python.
 - [DawVert/DawVert](https://github.com/DawVert/DawVert) - DawVert - The DAW ConVERTer
 - [mattpetters/nxnative](https://github.com/mattpetters/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
-- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+- [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) - Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, i
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [appautomaton/mlx-speech](https://github.com/appautomaton/mlx-speech) - Pure-MLX speech synthesis, voice cloning, dialogue, sound-effects, and ASR for Apple Silicon: Fish S2 Pro, VibeVoice, LongCat, MOSS, Step-Audio, Cohere ASR.
 - [jss8649/quiet-tizen](https://github.com/jss8649/quiet-tizen) - Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.
@@ -1575,7 +1575,7 @@
 - [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit or ran out of credits? Keep working on a local model. Claude Code on your own Mac (MLX), Linux or Windows (llama.cpp) with no API key and no rate limits. Your code sta
 - [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [TrevorS/gemma-4-abliteration](https://github.com/TrevorS/gemma-4-abliteration) - Gemma 4 abliteration research: biprojection + EGA for E2B, E4B, 12B, 26B MoE, 31B
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 - [Pika-Labs/Pika-Skills](https://github.com/Pika-Labs/Pika-Skills) - 
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
@@ -1947,7 +1947,7 @@
 - [mateusrdp/oxiguitar](https://github.com/mateusrdp/oxiguitar) - Guitar tablature and score viewer, editor and player, written in Rust.
 - [UCS-Care-Group/mailcraft](https://github.com/UCS-Care-Group/mailcraft) - MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.
 - [mattpetters/mailcraft](https://github.com/mattpetters/mailcraft) - An open-source, clean-room reimplementation of Microsoft Outlook (classic) in pure Rust
-- [ifpintac/tequila](https://github.com/ifpintac/tequila) - Tequila: Product Rendering - free, open-source product rendering for Windows and Mac
+- [ifpintac/tequila](https://github.com/ifpintac/tequila) - Free, open-source product rendering for Windows, Mac and Linux: CAD in, real materials on, the final picture rendered live as you work.
 - [NoJuanNobody/scriptcraft](https://github.com/NoJuanNobody/scriptcraft) - Open-source, clean-room screenwriting app in pure Rust (Final Draft-style workflow): Fountain/FDX/PDF, industry pagination, SmartType, index cards, MCP
 - [Josephur/FreeCandy7](https://github.com/Josephur/FreeCandy7) - Procedural WebAssembly effects for PhotoCraft, with original presets and large-image controls.
 - [emmertex/chromaforge](https://github.com/emmertex/chromaforge) - An open-source, clean-room reimplementation of Adobe Lightroom Classic in pure Rust.
