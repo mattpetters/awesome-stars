@@ -224,6 +224,7 @@
 
 ## C++ 
 
+- [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) - VERY experimental Nintendo Switch 2 emulator
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [Flare-Animate/Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
 - [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
@@ -560,6 +561,7 @@
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [mattpetters/mactop](https://github.com/mattpetters/mactop) - mactop - Apple Silicon Monitor Top
 - [golang/go](https://github.com/golang/go) - The Go programming language
+- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [1broseidon/ketch](https://github.com/1broseidon/ketch) - Fast, stateless CLI for web search and scrape. Built for AI agents.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style
@@ -650,7 +652,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -672,7 +674,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [thefryscorer/schemer2](https://github.com/thefryscorer/schemer2) - Terminal Colorscheme Generator and Converter
 - [dayvonjersen/ableton-project-version-control-thing](https://github.com/dayvonjersen/ableton-project-version-control-thing) - :musical_score: :floppy_disk: Semi-automatic version control for Ableton Live™ projects
-- [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
+- [realworld-apps/golang-gin-realworld-example-app](https://github.com/realworld-apps/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
@@ -792,6 +794,7 @@
 
 ## JavaScript 
 
+- [cpypwn/mac2jb](https://github.com/cpypwn/mac2jb) - etawen untether
 - [Steake/shannon-uncontained](https://github.com/Steake/shannon-uncontained) - Shannon-Uncontained. A Docker-free, black‑box‑first fork that treats AI as a fallible witness rather than an oracle: treats uncertainty as a first class citizen via EQBSL epistemic bookkeeping, and ag
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [18F/uswds-jekyll](https://github.com/18F/uswds-jekyll) - A Jekyll theme showcasing the U.S. Web Design System
@@ -1289,6 +1292,7 @@
 
 ## Others 
 
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [storytold/craft-contrib](https://github.com/storytold/craft-contrib) - 
 - [deaghean/omnifocus-perspective-icons](https://github.com/deaghean/omnifocus-perspective-icons) - Perspective icons designed specifically for OmniFocus 3 for Mac and iOS
 - [KoreTeknology/Free-Resources-for-MPC-Software](https://github.com/KoreTeknology/Free-Resources-for-MPC-Software) - A Collection of free resources for the Akai Music Production Center software and standalone units, including API Documentation, Startup Templates, User Presets and Custom Skins
@@ -1572,7 +1576,7 @@
 - [simonw/llm-openai-via-codex](https://github.com/simonw/llm-openai-via-codex) - Access OpenAI models via an existing Codex subscription
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [uisato/ableton-mcp-extended](https://github.com/uisato/ableton-mcp-extended) - Ableton Live MCP (Model Context Protocol) server that allows control directly through AI assistants.
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit or ran out of credits? Keep working on a local model. Claude Code on your own Mac (MLX), Linux or Windows (llama.cpp) with no API key and no rate limits. Your code sta
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit? Keep going free and offline on a local model. Claude Code Local runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home.
 - [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [TrevorS/gemma-4-abliteration](https://github.com/TrevorS/gemma-4-abliteration) - Gemma 4 abliteration research: biprojection + EGA for E2B, E4B, 12B, 26B MoE, 31B
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
@@ -1619,7 +1623,7 @@
 - [chris-belcher/electrum-personal-server](https://github.com/chris-belcher/electrum-personal-server) - Maximally lightweight electrum server for a single user
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - LangChain's software factory
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -1767,6 +1771,7 @@
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [RedBearAK/Toshy](https://github.com/RedBearAK/Toshy) - Keymapper config to make Linux keyboard shortcuts work like a 'Tosh! And more. (A Kinto alternative.)
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [frappe/frappe_docker](https://github.com/frappe/frappe_docker) - Docker environment for developing, deploying, and running Frappe applications (ERPNext and custom apps) in production and development
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -1786,7 +1791,6 @@
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [ralfpopescu/ai-choir](https://github.com/ralfpopescu/ai-choir) - Script that turns any singing vocal into a choir.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [CarlGao4/Demucs-Gui](https://github.com/CarlGao4/Demucs-Gui) - A GUI for music separation AI demucs
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -1935,6 +1939,9 @@
 
 ## Rust 
 
+- [Endgame-Labs/understudy](https://github.com/Endgame-Labs/understudy) - A drop-in, CPU-only proxy for System One models (Jev, Rune, Clef). It learns each repeated question from the lead, then answers it itself.
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
+- [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
 - [transit-audio/transit](https://github.com/transit-audio/transit) - transit: an open-source DAW in Rust with native ASIO (no SDK), measured latency, and plug-ins that cannot freeze the window. Cubase bones, Ableton manners.
 - [fabox-os/Pro-Wave](https://github.com/fabox-os/Pro-Wave) - ProWave, a music production Daw in the style of Logic Pro, written in pure Rust with egui. Tracks, MIDI and audio regions, piano roll, mixer and built-in synth. Builds for Windows, macOS and Linux
 - [suhina-daw/suhina-daw](https://github.com/suhina-daw/suhina-daw) - Open-source clip-launching DAW in Rust (clean-room)
@@ -1943,7 +1950,7 @@
 - [MisterDiagram/MisterDiagram](https://github.com/MisterDiagram/MisterDiagram) - Your diagrams, as requested. A clean-room, headless Rust core for Visio's .vsdx files and ShapeSheet, with a CLI and an MCP server.
 - [therichronicles/EarthCraft](https://github.com/therichronicles/EarthCraft) - An open-source 3D globe explorer built in Rust, with satellite imagery, live aircraft, ships, weather and traffic.
 - [tracedraw/tracedraw](https://github.com/tracedraw/tracedraw) - 
-- [surfrpt1/procraft](https://github.com/surfrpt1/procraft) - ProCraft: an open-source, clean-room raster painting studio in pure Rust (layered painting, brushes, canvas). Inspired by pro workflows; all code and assets original.
+- [surfrpt1/procraft-old](https://github.com/surfrpt1/procraft-old) - Retired: ProCraft, a clean-room raster painting studio in pure Rust. v0.11.0 is the final release. The actively maintained ProCraft painting app is github.com/artcraft-android/procraft.
 - [mateusrdp/oxiguitar](https://github.com/mateusrdp/oxiguitar) - Guitar tablature and score viewer, editor and player, written in Rust.
 - [UCS-Care-Group/mailcraft](https://github.com/UCS-Care-Group/mailcraft) - MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.
 - [mattpetters/mailcraft](https://github.com/mattpetters/mailcraft) - An open-source, clean-room reimplementation of Microsoft Outlook (classic) in pure Rust
@@ -2011,7 +2018,7 @@
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust) - Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration
 - [Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 30+ providers (Codex, Claude Code, Gemini, Cursor, Aider, Copilot, and more) into one searchable timeline. Hybrid
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
@@ -2213,6 +2220,7 @@
 ## Svelte 
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial) - A basic realtime chat app with Pocketbase and Svelte
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
@@ -2239,7 +2247,7 @@
 - [edwardsanchez/Tinkerble](https://github.com/edwardsanchez/Tinkerble) - 
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [marriagav/taskchamp](https://github.com/marriagav/taskchamp) - Taskwarrior iOS interface app
-- [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift) - A modular Swift SDK for audio processing with MLX on Apple Silicon
+- [Neywa-Labs/mlx-audio-swift](https://github.com/Neywa-Labs/mlx-audio-swift) - A modular Swift SDK for audio processing with MLX on Apple Silicon
 - [mattpetters/codex-pet-watch-sprite](https://github.com/mattpetters/codex-pet-watch-sprite) - 
 - [irangareddy/petdex-swift](https://github.com/irangareddy/petdex-swift) - Swift Package and iOS example app for the public Petdex API
 - [shiroemons/codex-pet-watch-sprite](https://github.com/shiroemons/codex-pet-watch-sprite) - 
@@ -2435,7 +2443,6 @@
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [CopilotKit/open-research-ANA](https://github.com/CopilotKit/open-research-ANA) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
 - [CopilotKit/agentcore-cli](https://github.com/CopilotKit/agentcore-cli) - The new terminal experience for AgentCore!
-- [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) - 
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem) - Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman.
@@ -2662,10 +2669,9 @@
 - [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) - Bidirectional synchronization between Obsidian and TickTick. Mobile compatible.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital proj
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
