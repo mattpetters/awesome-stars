@@ -1207,7 +1207,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit or ran out of credits? Keep working on a local model. Claude Code on your own Mac (MLX), Linux or Windows (llama.cpp) with no API key and no rate limits. Your code sta
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit? Keep going free and offline on a local model. Claude Code Local runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [tanbiralam/claude-code](https://github.com/tanbiralam/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault.
@@ -3023,6 +3023,7 @@
 
 ## llm 
 
+- [Endgame-Labs/understudy](https://github.com/Endgame-Labs/understudy) - A drop-in, CPU-only proxy for System One models (Jev, Rune, Clef). It learns each repeated question from the lead, then answers it itself.
 - [opensec-git/Pi-Bolt](https://github.com/opensec-git/Pi-Bolt) - ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).
 - [Silvertree2010/ApolloOffice](https://github.com/Silvertree2010/ApolloOffice) - AI workers that turn GitHub issues into verified bug-fix pull requests: reproduce, fix with a regression test, prove it, open the PR. Runs locally with Claude Code, Codex, OpenAI, Gemini or Ollama.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
@@ -3278,7 +3279,7 @@
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
-- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit or ran out of credits? Keep working on a local model. Claude Code on your own Mac (MLX), Linux or Windows (llama.cpp) with no API key and no rate limits. Your code sta
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Hit your Claude Code usage limit? Keep going free and offline on a local model. Claude Code Local runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home.
 - [Yvesssn/DetectDee](https://github.com/Yvesssn/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 - [saadnvd1/aTerm](https://github.com/saadnvd1/aTerm) - Agentic terminal workspace for AI-assisted coding. Run Claude Code, Aider, or OpenCode alongside your shell in project-based layouts.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -4042,7 +4043,6 @@
 - [mattpetters/MisterDiagram](https://github.com/mattpetters/MisterDiagram) - Your diagrams, as requested. A clean-room, headless Rust core for Visio's .vsdx files and ShapeSheet, with a CLI and an MCP server.
 - [therichronicles/EarthCraft](https://github.com/therichronicles/EarthCraft) - An open-source 3D globe explorer built in Rust, with satellite imagery, live aircraft, ships, weather and traffic.
 - [tracedraw/tracedraw](https://github.com/tracedraw/tracedraw) - 
-- [surfrpt1/procraft](https://github.com/surfrpt1/procraft) - ProCraft: an open-source, clean-room raster painting studio in pure Rust (layered painting, brushes, canvas). Inspired by pro workflows; all code and assets original.
 - [mateusrdp/oxiguitar](https://github.com/mateusrdp/oxiguitar) - Guitar tablature and score viewer, editor and player, written in Rust.
 - [mattpetters/mailcraft](https://github.com/mattpetters/mailcraft) - An open-source, clean-room reimplementation of Microsoft Outlook (classic) in pure Rust
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -5780,8 +5780,10 @@
 
 ## rust 
 
+- [Endgame-Labs/understudy](https://github.com/Endgame-Labs/understudy) - A drop-in, CPU-only proxy for System One models (Jev, Rune, Clef). It learns each repeated question from the lead, then answers it itself.
 - [transit-audio/transit](https://github.com/transit-audio/transit) - transit: an open-source DAW in Rust with native ASIO (no SDK), measured latency, and plug-ins that cannot freeze the window. Cubase bones, Ableton manners.
 - [MisterDiagram/MisterDiagram](https://github.com/MisterDiagram/MisterDiagram) - Your diagrams, as requested. A clean-room, headless Rust core for Visio's .vsdx files and ShapeSheet, with a CLI and an MCP server.
+- [surfrpt1/procraft-old](https://github.com/surfrpt1/procraft-old) - Retired: ProCraft, a clean-room raster painting studio in pure Rust. v0.11.0 is the final release. The actively maintained ProCraft painting app is github.com/artcraft-android/procraft.
 - [UCS-Care-Group/mailcraft](https://github.com/UCS-Care-Group/mailcraft) - MailCraft: an open-source, clean-room mail, calendar and contacts program in pure Rust, for Microsoft 365, Outlook.com and IMAP. Early alpha.
 - [ifpintac/tequila](https://github.com/ifpintac/tequila) - Free, open-source product rendering for Windows, Mac and Linux: CAD in, real materials on, the final picture rendered live as you work.
 - [Flare-Animate/Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
@@ -6360,7 +6362,7 @@
 - [hrhrng/readio](https://github.com/hrhrng/readio) - A terminal ebook reader with the interaction grammar of a coding agent — EPUB, PDF, Markdown, local-model read-aloud, images in the terminal. 3.9MB, no runtime deps.
 - [chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice) - 🔊 The Obsidian Voice plugin lets you listen to your written content being read aloud—mobile-friendly audiobook-like experience. 🎧
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
-- [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift) - A modular Swift SDK for audio processing with MLX on Apple Silicon
+- [Neywa-Labs/mlx-audio-swift](https://github.com/Neywa-Labs/mlx-audio-swift) - A modular Swift SDK for audio processing with MLX on Apple Silicon
 - [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale te
 - [pguso/voice-agents-from-scratch](https://github.com/pguso/voice-agents-from-scratch) - From-scratch voice agents in Python: end-to-end speech pipelines, runnable chapters, and a small shared library. Local models, explicit streaming behavior.
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support.
