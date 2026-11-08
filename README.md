@@ -1303,6 +1303,7 @@
 
 ## Others 
 
+- [a2aproject/agent-plugins](https://github.com/a2aproject/agent-plugins) - Agent Plugins related to the A2A Ecosystem
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [storytold/craft-contrib](https://github.com/storytold/craft-contrib) - 
 - [deaghean/omnifocus-perspective-icons](https://github.com/deaghean/omnifocus-perspective-icons) - Perspective icons designed specifically for OmniFocus 3 for Mac and iOS
@@ -1545,7 +1546,6 @@
 - [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Deprecated: superseded by mcp_agent_mail_rust, the maintained Rust rewrite. Original Python FastMCP coordination layer for AI coding agents: identities, inboxes, searchable threads, and advisory file 
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.
-- [liftaris/bazaar-ghost](https://github.com/liftaris/bazaar-ghost) - 
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
@@ -1951,6 +1951,7 @@
 
 ## Rust 
 
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [mattpetters/voxl](https://github.com/mattpetters/voxl) - extremely fast web remote desktop streaming
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
@@ -2162,7 +2163,7 @@
 - [emacsfodder/Infinite-Yak-Icons](https://github.com/emacsfodder/Infinite-Yak-Icons) - Infinite Yaks for GNU/Emacs
 - [vivekhaldar/seed](https://github.com/vivekhaldar/seed) - A seed agent: the smallest starting point from which an agent can grow
 - [karlicoss/cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
@@ -2244,6 +2245,7 @@
 
 ## Swift 
 
+- [konieczkow/gridsnap](https://github.com/konieczkow/gridsnap) - An open source alternative to Divvy for macOS
 - [gtrg55/dlss5-macos-overlay](https://github.com/gtrg55/dlss5-macos-overlay) - DLSS 5 neural rendering overlay and video processing for Apple Silicon Macs.
 - [varyform/nx-native-wrapper](https://github.com/varyform/nx-native-wrapper) - NX Play: a Mac app to build, play, install and manage Switch games with nxnative, on the Mac and on iPhone/iPad
 - [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) - Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.
@@ -2489,6 +2491,7 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- [liftaris/bazaar-ghost](https://github.com/liftaris/bazaar-ghost) - 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [liftaris/herm](https://github.com/liftaris/herm) - The Hermes TUI built with OpenTUI
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
@@ -2811,7 +2814,7 @@
 - [ynab/ynab-sdk-js](https://github.com/ynab/ynab-sdk-js) - Official JavaScript client for the YNAB API
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
