@@ -48,6 +48,7 @@
 - [Mojo](#mojo)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -617,6 +618,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [Sho0pi/tickli](https://github.com/Sho0pi/tickli) - ✅ A modern command-line interface for TickTick task management.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -716,7 +718,6 @@
 
 ## HTML 
 
-- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [lyramakesmusic/latent-musicvis](https://github.com/lyramakesmusic/latent-musicvis) - music visualization via umap of stable audio latents
 - [mattpetters/dawproject](https://github.com/mattpetters/dawproject) - Open exchange format for DAWs
 - [emacs-eaf/eaf-browser](https://github.com/emacs-eaf/eaf-browser) - A modern, customizable and extensible browser in Emacs
@@ -1006,7 +1007,6 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [facebookarchive/fixed-data-table](https://github.com/facebookarchive/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
-- [ashfurrow/blog](https://github.com/ashfurrow/blog) - This is my website, a static site generated with Gatsby.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [augbog/slack-github-issue](https://github.com/augbog/slack-github-issue) - Code for Slack bot to auto comment the issue information for a specific repository when a user types the issue number.
 - [christophergregory/shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API
@@ -1254,6 +1254,10 @@
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [eddiezane/dotfiles](https://github.com/eddiezane/dotfiles) - doot doot
 
+## Nunjucks 
+
+- [ashfurrow/blog](https://github.com/ashfurrow/blog) - This is my website, a static site generated with Gatsby.
+
 ## Objective-C 
 
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
@@ -1350,7 +1354,6 @@
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [gosxrgxx/flexoki-dark.yazi](https://github.com/gosxrgxx/flexoki-dark.yazi) - Flexoki, an inky color scheme for Yazi. Based on https://stephango.com/flexoki
-- [ManUtopiK/awesome-stars](https://github.com/ManUtopiK/awesome-stars) - ⭑ A curated list of my GitHub stars! ⭑
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [zouyee/zig-learning](https://github.com/zouyee/zig-learning) - A bunch of links to blog posts, articles, videos, etc for learning Zig
@@ -1601,6 +1604,7 @@
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
+- [ManUtopiK/awesome-stars](https://github.com/ManUtopiK/awesome-stars) - ⭑ A curated list of my GitHub stars! ⭑
 - [agno-agi/dash](https://github.com/agno-agi/dash) - A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
 - [spak2005/smart-mcp](https://github.com/spak2005/smart-mcp) - A semantic tool routing proxy for AI agents. Indexes all MCP tools with FAISS embeddings, surfaces only what's relevant. 97% context reduction.
@@ -1955,7 +1959,7 @@
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [mattpetters/voxl](https://github.com/mattpetters/voxl) - extremely fast web remote desktop streaming
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
 - [Endgame-Labs/understudy](https://github.com/Endgame-Labs/understudy) - A drop-in, CPU-only proxy for System One models (Jev, Rune, Clef). It learns each repeated question from the lead, then answers it itself.
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [storytold/craft-launcher](https://github.com/storytold/craft-launcher) - The Craft App Launcher
@@ -1978,7 +1982,7 @@
 - [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) - SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 - [LudaLunizz/BananaSplit](https://github.com/LudaLunizz/BananaSplit) - Virtual Audio software for linux
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-- [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
+- [storytold/soundcraft](https://github.com/storytold/soundcraft) - SoundCraft: an open-source, clean-room digital audio workstation (DAW) in pure Rust
 - [vrtgs/rapid-arm-emu](https://github.com/vrtgs/rapid-arm-emu) - a cross platform armv9 emulator
 - [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi) - a proof-of-concept project for a possible Nintendo Switch 2 emulator.
 - [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) - Turn your coding agents into research agents
@@ -1990,8 +1994,8 @@
 - [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [SK8-ENGINE/skate-3-rust-engine](https://github.com/SK8-ENGINE/skate-3-rust-engine) - Rust and Bevy skating project based on Skate 3 reverse-engineering research. Game assets not included.
 - [chasmlol/iw4L](https://github.com/chasmlol/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
@@ -2188,7 +2192,7 @@
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
 - [eliheuer/caskaydia-cove](https://github.com/eliheuer/caskaydia-cove) - Caskaydia Cove is a fork of the Cascadia Code typeface with the RFN (Reserved Font Name) removed, plus small adjustments to conform to the Google Fonts spec.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -2368,6 +2372,7 @@
 - [alexanderchen/typebeat](https://github.com/alexanderchen/typebeat) - 
 - [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets) - Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
 - [DraftlineStudio/draftlinestudio](https://github.com/DraftlineStudio/draftlinestudio) - Draftline is a desktop writing environment for novelists. It combines a focused rich-text editor with offline spelling and grammar checks, character relationship indexing, story planning and outlining
+- [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [DiagramCraft/diagram-craft](https://github.com/DiagramCraft/diagram-craft) - 
 - [AlexParamonov/pi-subagents-lite](https://github.com/AlexParamonov/pi-subagents-lite) - 
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
@@ -2583,7 +2588,6 @@
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [themotionmachine/OmniFocus-MCP](https://github.com/themotionmachine/OmniFocus-MCP) - Let LLMs interface with your tasks and projects through the Model Context Protocol. Add, organize, and query your OmniFocus database with natural language commands.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [browserbase/playbook](https://github.com/browserbase/playbook) - Collection of templates, guides, and best practices to help you get the most out of Browserbase.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
