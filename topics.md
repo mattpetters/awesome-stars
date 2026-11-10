@@ -3204,7 +3204,6 @@
 ## mac 
 
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -4111,7 +4110,7 @@
 - [AlexParamonov/pi-subagents-lite](https://github.com/AlexParamonov/pi-subagents-lite) - 
 - [emmertex/chromaforge](https://github.com/emmertex/chromaforge) - An open-source, clean-room reimplementation of Adobe Lightroom Classic in pure Rust.
 - [LudaLunizz/BananaSplit](https://github.com/LudaLunizz/BananaSplit) - Virtual Audio software for linux
-- [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
+- [storytold/soundcraft](https://github.com/storytold/soundcraft) - SoundCraft: an open-source, clean-room digital audio workstation (DAW) in pure Rust
 - [ambyjkl/BetterCompaction](https://github.com/ambyjkl/BetterCompaction) - Better and faster compaction for PI Agent.
 - [gotgenes/pi-anthropic-auth](https://github.com/gotgenes/pi-anthropic-auth) - Pi extension package for Anthropic OAuth compatibility
 - [JerryAZR/pi-subagent-lite](https://github.com/JerryAZR/pi-subagent-lite) - Minimal pi extension that delegates tasks to isolated subagent processes with optional skill loading
@@ -4144,7 +4143,7 @@
 - [santiagorod92/foo_ui_panels](https://github.com/santiagorod92/foo_ui_panels) - Reviving the discontinued Panels UI (foo_ui_panels) for foobar2000 v2 — Linux cross-build
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
 - [stephendolan/omnifocus-cli](https://github.com/stephendolan/omnifocus-cli) - A command-line interface for OmniFocus on macOS
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [OverkillLabs3/SoS-PS5](https://github.com/OverkillLabs3/SoS-PS5) - God of War Sons of Sparta Native on Windows
@@ -5834,7 +5833,7 @@
 ## rust 
 
 - [tembo/voxl](https://github.com/tembo/voxl) - extremely fast web remote desktop streaming
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
 - [Endgame-Labs/understudy](https://github.com/Endgame-Labs/understudy) - A drop-in, CPU-only proxy for System One models (Jev, Rune, Clef). It learns each repeated question from the lead, then answers it itself.
 - [transit-audio/transit](https://github.com/transit-audio/transit) - transit: an open-source DAW in Rust with native ASIO (no SDK), measured latency, and plug-ins that cannot freeze the window. Cubase bones, Ableton manners.
 - [MisterDiagram/MisterDiagram](https://github.com/MisterDiagram/MisterDiagram) - Your diagrams, as requested. A clean-room, headless Rust core for Visio's .vsdx files and ShapeSheet, with a CLI and an MCP server.
@@ -5847,7 +5846,7 @@
 - [hrhrng/readio](https://github.com/hrhrng/readio) - A terminal ebook reader with the interaction grammar of a coding agent — EPUB, PDF, Markdown, local-model read-aloud, images in the terminal. 3.9MB, no runtime deps.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [storytold/figcraft](https://github.com/storytold/figcraft) - FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
@@ -6355,7 +6354,7 @@
 - [catppuccin/zellij](https://github.com/catppuccin/zellij) - 🐙 Soothing pastel theme for Zellij
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI. (https://tty.fail/mrus/read
 - [alexpovel/ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display
@@ -6673,7 +6672,7 @@
 
 ## video 
 
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
 - [steveseguin/vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
