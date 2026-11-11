@@ -226,6 +226,7 @@
 
 ## C++ 
 
+- [paperniuk/splash](https://github.com/paperniuk/splash) - Unofficial M1/M2 port of Inco's Splash (upstream is M3+ only): Metal kernels written for Apple7/8 GPUs, prebuilt releases.
 - [zortos293/Lichii](https://github.com/zortos293/Lichii) - VERY experimental Nintendo Switch 2 emulator
 - [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine) - VERY experimental Nintendo Switch 2 emulator
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
@@ -285,7 +286,7 @@
 - [kallewoof/gguf-eval](https://github.com/kallewoof/gguf-eval) - Evaluation framework for GGUF
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -618,7 +619,6 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [Sho0pi/tickli](https://github.com/Sho0pi/tickli) - ✅ A modern command-line interface for TickTick task management.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -799,6 +799,7 @@
 
 ## JavaScript 
 
+- [daijro/openplayground](https://github.com/daijro/openplayground) - Use Adobe, Microsoft Office, Autodesk, FL Studio, Figma & other alternatives for free in your browser.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [cpypwn/mac2jb](https://github.com/cpypwn/mac2jb) - etawen untether
 - [Steake/shannon-uncontained](https://github.com/Steake/shannon-uncontained) - Shannon-Uncontained. A Docker-free, black‑box‑first fork that treats AI as a fallible witness rather than an oracle: treats uncertainty as a first class citizen via EQBSL epistemic bookkeeping, and ag
@@ -1256,7 +1257,7 @@
 
 ## Nunjucks 
 
-- [ashfurrow/blog](https://github.com/ashfurrow/blog) - This is my website, a static site generated with Gatsby.
+- [ashfurrow/blog](https://github.com/ashfurrow/blog) - This is my website, a static site generated with 11ty.
 
 ## Objective-C 
 
@@ -1463,6 +1464,8 @@
 
 ## Python 
 
+- [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains
+- [xlang-ai/OSWorld-V2](https://github.com/xlang-ai/OSWorld-V2) - OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
 - [thane98/paragon](https://github.com/thane98/paragon) - Toolkit for editing various FE games.
 - [lyramakesmusic/sa3-inpainter-ui](https://github.com/lyramakesmusic/sa3-inpainter-ui) - SA3 medium audio inpainter — MLX SAME-L decoder + FastAPI + vanilla Svelte UI
 - [lyramakesmusic/mtgsim_for_agents](https://github.com/lyramakesmusic/mtgsim_for_agents) - mtg sim that lets claude or codex play against each other (or you)
@@ -1955,6 +1958,8 @@
 
 ## Rust 
 
+- [storytold/craft-libs](https://github.com/storytold/craft-libs) - Rust libraries for the Craft Apps
+- [truekiwwy/LLM-Surgeon](https://github.com/truekiwwy/LLM-Surgeon) - Surgical LLM weight editing & representation engineering for AI agents
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [rune-rs/rune](https://github.com/rune-rs/rune) - An embeddable dynamic programming language for Rust.
 - [mattpetters/voxl](https://github.com/mattpetters/voxl) - extremely fast web remote desktop streaming
@@ -2588,6 +2593,7 @@
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [themotionmachine/OmniFocus-MCP](https://github.com/themotionmachine/OmniFocus-MCP) - Let LLMs interface with your tasks and projects through the Model Context Protocol. Add, organize, and query your OmniFocus database with natural language commands.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [browserbase/playbook](https://github.com/browserbase/playbook) - Collection of templates, guides, and best practices to help you get the most out of Browserbase.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
