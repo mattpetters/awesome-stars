@@ -106,13 +106,13 @@
 
 ## C 
 
-- [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) - Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+- [peiikai/LASRecomp](https://github.com/peiikai/LASRecomp) - Static recompilation of Link's Awakening (Switch) to native macOS, Windows, Linux, iOS and Android.
 - [mattpetters/castello](https://github.com/mattpetters/castello) - A small CLAP/VST reverb plugin based on Csound reverbsc
 - [lucianoiam/castello](https://github.com/lucianoiam/castello) - A small CLAP/VST reverb plugin based on Csound reverbsc
 - [drakmor/ShadowMountPlus](https://github.com/drakmor/ShadowMountPlus) - Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compre
 - [mihawk-99/PS5_Vulkan](https://github.com/mihawk-99/PS5_Vulkan) - A Vulkan 1.4+ PS5 native  driver, powered by Mesa/RADV and validated by CTS.
 - [izzyreal/vmpc-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
-- [sd88me/mpc-vst-cratedigger](https://github.com/sd88me/mpc-vst-cratedigger) - Crate Digger is a plugin instrument for Akai MPC standalone devices that digs for records and plays them into an MPC track. Pick a genre, style, decade, region and country, and it finds random release
 - [sd88me/mpc-vst-maze](https://github.com/sd88me/mpc-vst-maze) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [willfaust/Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
@@ -133,7 +133,6 @@
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector) - SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabilities to your embedded database.
-- [ETCLabs/sACN](https://github.com/ETCLabs/sACN) - Implementation of ANSI E1.31 (sACN)
 - [Wyatt915/fireplace](https://github.com/Wyatt915/fireplace) - A cozy fireplace in your terminal
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
@@ -227,6 +226,8 @@
 
 ## C++ 
 
+- [daurosk/oot-remake-multiplayer](https://github.com/daurosk/oot-remake-multiplayer) - Squadala! - online co-op for the Ocarina of Time remake on PC (Longshot). Players, testers and contributors: join the Squadala! Discord.
+- [Solstice-Labs/anvil](https://github.com/Solstice-Labs/anvil) - 
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [paperniuk/splash](https://github.com/paperniuk/splash) - Unofficial M1/M2 port of Inco's Splash (upstream is M3+ only): Metal kernels written for Apple7/8 GPUs, prebuilt releases.
 - [zortos293/Lichii](https://github.com/zortos293/Lichii) - VERY experimental Nintendo Switch 2 emulator
@@ -290,6 +291,7 @@
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
+- [ETCLabs/sACN](https://github.com/ETCLabs/sACN) - Implementation of ANSI E1.31 (sACN)
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -548,13 +550,15 @@
 
 ## Go 
 
+- [mattpetters/ClawFleet](https://github.com/mattpetters/ClawFleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes — use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard.
+- [clawfleet/ClawFleet](https://github.com/clawfleet/ClawFleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes — use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [reliant-labs/reliant](https://github.com/reliant-labs/reliant) - A complete agentic environment with remote connections, workflow-based chats, and more
 - [reliant-labs/forge](https://github.com/reliant-labs/forge) - Go + React framework and CLI that builds, runs and ships static sites, SPAs, web/mobile apps and Go APIs (Connect RPC, protobuf, SQL migrations, generated ORM/handlers/hooks/tests), with linters for a
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
-- [subgentic/coral](https://github.com/subgentic/coral) - Agentic IDE for Claude Code, Codex CLI, Antigravity CLI, and Pi.dev
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [a2aproject/a2a-cli](https://github.com/a2aproject/a2a-cli) - The official command-line interface for interacting with A2A (Agent2Agent) compatible agents.
@@ -580,7 +584,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [rmitchellscott/reManager](https://github.com/rmitchellscott/reManager) - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets
 - [1broseidon/ketch](https://github.com/1broseidon/ketch) - Fast, stateless CLI for web search and scrape. Built for AI agents.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [rcarmo/webterm](https://github.com/rcarmo/webterm) - Yet another web terminal, but with style
 - [jmadore-payfacto/claude-p-go](https://github.com/jmadore-payfacto/claude-p-go) - Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process tmux PTY session. Go version.
 - [metaspartan/gotui](https://github.com/metaspartan/gotui) - Go TUI - Golang terminal dashboard library, advanced modern fork of termui, GOTUI?
@@ -730,6 +734,7 @@
 
 ## HTML 
 
+- [harshaneel/humanize](https://github.com/harshaneel/humanize) - Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [JordanDalton/clef-playground](https://github.com/JordanDalton/clef-playground) - Playground for Cloudflare's Clef decision models: typed questions, images, latency and cost
 - [lyramakesmusic/latent-musicvis](https://github.com/lyramakesmusic/latent-musicvis) - music visualization via umap of stable audio latents
@@ -781,8 +786,9 @@
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
-- [CDataSoftware/instagram-mcp-server-by-cdata](https://github.com/CDataSoftware/instagram-mcp-server-by-cdata) - This read-only MCP Server allows you to connect to Instagram data from Claude Desktop through CData JDBC Drivers. For full CRUD support, check out the first managed MCP platform: CData Connect AI (htt
+- [CDataSoftware/instagram-mcp-server-by-cdata](https://github.com/CDataSoftware/instagram-mcp-server-by-cdata) - Deprecated and archived. For agentic coding, use CData CLI (cdata.com/solutions/cli). For enterprise AI/MCP, use CData Connect AI (cdata.com/ai).
 - [bisq-network/bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [valkey-io/valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey an
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [habuma/spring-ai-examples](https://github.com/habuma/spring-ai-examples) - Examples of using Spring AI.
@@ -813,9 +819,10 @@
 
 ## JavaScript 
 
+- [Fooftilly/kokoro-extension](https://github.com/Fooftilly/kokoro-extension) - Send text from browser to Kokoro-FastAPI for TTS generation
 - [deepsteve/deepsteve](https://github.com/deepsteve/deepsteve) - A UI around your Claude Code and Codex terminals that your agents build, so the only model in your head is yours.
-- [daijro/openplayground](https://github.com/daijro/openplayground) - Use Adobe, Microsoft Office, Autodesk, FL Studio, Figma & other alternatives for free in your browser.
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [daijro/openplayground](https://github.com/daijro/openplayground) - Multiplayer Adobe, Microsoft Office, Autodesk, FL Studio, & much more for free in your browser. Updated every 15 minutes.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [cpypwn/mac2jb](https://github.com/cpypwn/mac2jb) - etawen untether
 - [Steake/shannon-uncontained](https://github.com/Steake/shannon-uncontained) - Shannon-Uncontained. A Docker-free, black‑box‑first fork that treats AI as a fallible witness rather than an oracle: treats uncertainty as a first class citizen via EQBSL epistemic bookkeeping, and ag
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
@@ -905,7 +912,6 @@
 - [jsonresume/jsonresume-theme-class](https://github.com/jsonresume/jsonresume-theme-class) - A modern theme for JSON Resume which is self-contained. The content of the resume will work offline and can be hosted without depending on or making requests to third-party servers.
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org) - The mono repo that builds the homepage, utils, ui components, registry and anything else
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Floorp-Projects/Floorp-private-components](https://github.com/Floorp-Projects/Floorp-private-components) - Official components code of Floorp Browser. Used for Floorp Official Build
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -1347,6 +1353,7 @@
 - [giba0/awesome-zed](https://github.com/giba0/awesome-zed) - Here we share all the coolest things about https://zed.dev
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [lawrencecchen/awesome-libghostty](https://github.com/lawrencecchen/awesome-libghostty) - Curated list of projects and resources built with libghostty and libghostty-vt
+- [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
 - [edr3x/tmux-sessionizer](https://github.com/edr3x/tmux-sessionizer) - instructions on using tmux-sessionizer to make project workflow blazingly fast
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
 - [The-Osint-Toolbox/Telegram-OSINT](https://github.com/The-Osint-Toolbox/Telegram-OSINT) - In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
@@ -1479,12 +1486,15 @@
 
 ## Python 
 
+- [kombosorg/shofel2_linux](https://github.com/kombosorg/shofel2_linux) - 
+- [Fooftilly/PRKS](https://github.com/Fooftilly/PRKS) - Personal Research Knowledge System (WIP)
 - [unitreerobotics/unifolm-wla](https://github.com/unitreerobotics/unifolm-wla) - 
 - [Altimis/Scweet](https://github.com/Altimis/Scweet) - Twitter scraper for X: tweets, profiles, followers and following, no API key needed. Python library with multi-account pooling, proxy support and async, or a hosted version on Apify.
 - [HVNT/buddymon](https://github.com/HVNT/buddymon) - Pixel-art pokemon buddy for Claude Code
 - [49-Agents/qorqbot](https://github.com/49-Agents/qorqbot) - Proactive agent for business work, powered by the AI subscriptions you already pay for.
 - [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashb
 - [nihalgunu/Shard](https://github.com/nihalgunu/Shard) - Enabling AI parallelization
+- [sagarmainkar/hermes-genui](https://github.com/sagarmainkar/hermes-genui) - Generative UI for Hermes Agent: charts, tables, plans, calculators and explainers drawn right in Hermes Desktop chat replies
 - [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - "Effective Whole-body Pose Estimation with Two-stages Distillation" (ICCV 2023, CV4Metaverse Workshop)
 - [harbor-framework/terminal-bench-science](https://github.com/harbor-framework/terminal-bench-science) - Terminal-Bench-Science: Evaluating AI agents on research workflows across scientific domains
 - [xlang-ai/OSWorld-V2](https://github.com/xlang-ai/OSWorld-V2) - OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
@@ -1505,6 +1515,7 @@
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
 - [climberhunt/PiPhone](https://github.com/climberhunt/PiPhone) - PiPhone - A DIY cellphone based on Raspberry Pi
 - [NationalSecurityAgency/lemongraph](https://github.com/NationalSecurityAgency/lemongraph) - Log-based transactional graph engine
+- [sd88me/mpc-vst-cratedigger](https://github.com/sd88me/mpc-vst-cratedigger) - Crate Digger is a plugin instrument for Akai MPC standalone devices that digs for records and plays them into an MPC track. Pick a genre, style, decade, region and country, and it finds random release
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
@@ -1539,7 +1550,7 @@
 - [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG) - [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 - [TenStrip/10S-Comfy-nodes](https://github.com/TenStrip/10S-Comfy-nodes) - Vibe coded nodes for LTX2.3
 - [bytedance/Lance](https://github.com/bytedance/Lance) - A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.
-- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messagi
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) - Row-Bot: a local-first AI assistant that gets real work done. It remembers what matters, works in your files, code, designs, browser and apps, runs workflows and agents, and tells you when something n
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale te
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models
@@ -1597,7 +1608,6 @@
 - [delta-hq/cc-canary](https://github.com/delta-hq/cc-canary) - 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [9crusher/mcp-server-kalshi](https://github.com/9crusher/mcp-server-kalshi) - A MCP server to interact with Kalshi prediction markets
@@ -1661,7 +1671,6 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [chris-belcher/electrum-personal-server](https://github.com/chris-belcher/electrum-personal-server) - Maximally lightweight electrum server for a single user
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -1979,6 +1988,8 @@
 
 ## Rust 
 
+- [Circuit-Biscuit/firecraft](https://github.com/Circuit-Biscuit/firecraft) - Real-time fire, smoke and explosion simulator with a node graph. Rust + wgpu.
+- [cemcatik/rexurrect](https://github.com/cemcatik/rexurrect) - 
 - [reyamira/models](https://github.com/reyamira/models) - TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) - herdr desktop app
@@ -2157,7 +2168,7 @@
 - [UnkwUsr/ticked](https://github.com/UnkwUsr/ticked) - Edit your ticktick.com tasks from any text editor you want (like vim/neovim)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
@@ -2195,6 +2206,7 @@
 
 ## Shell 
 
+- [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, composable zsh prompt
 - [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
@@ -2411,7 +2423,6 @@
 - [Frayo44/agent-view](https://github.com/Frayo44/agent-view) - 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
-- [sagarmainkar/hermes-genui](https://github.com/sagarmainkar/hermes-genui) - Generative UI for Hermes Agent: charts, tables, plans, calculators and explainers drawn right in Hermes Desktop chat replies
 - [replicraft/remade](https://github.com/replicraft/remade) - A community-curated directory for exploring, requesting, and supporting independently recreated software
 - [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal) - A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions.
 - [allnodes/FxTwitter](https://github.com/allnodes/FxTwitter) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
@@ -2534,7 +2545,7 @@
 - [ashwingopalsamy/claude-code-theme](https://github.com/ashwingopalsamy/claude-code-theme) - Claude-aligned VS Code theme system with dark/light + high-contrast variants, semantic token tuning, and WCAG-validated contrast for coding sessions.
 - [Explosion-Scratch/whisper-mac](https://github.com/Explosion-Scratch/whisper-mac) - Local first, powerful transcription app for macOS
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
-- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions
+- [narumiruna/pi-extensions](https://github.com/narumiruna/pi-extensions) - A monorepo of Pi Coding Agent extensions (AI Slops)
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
 - [dream-num/univer](https://github.com/dream-num/univer) - Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.
 - [Cheng-Zi-Qing/stepvox](https://github.com/Cheng-Zi-Qing/stepvox) - Voice-controlled AI assistant for Obsidian — speak to search, edit and create notes (ASR → LLM → TTS, streaming, barge-in)
@@ -2585,7 +2596,7 @@
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
-- [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
+- [johannesjo/parallel-code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, Copilot and other agent CLIs in parallel worktrees, then check what each one did before you merge.
 - [nghyane/lazyctl](https://github.com/nghyane/lazyctl) - ⚙️ A lazy terminal UI for managing system services — macOS (launchd) & Linux (systemd)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [vicoa-ai/opencode-vicoa](https://github.com/vicoa-ai/opencode-vicoa) - 
@@ -2667,7 +2678,7 @@
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) - Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
@@ -2689,7 +2700,7 @@
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [vercel-labs/ai-facts](https://github.com/vercel-labs/ai-facts) - Real-time fact checking on spoken statements with the AI SDK, Perplexity and DeepGram
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
@@ -2723,6 +2734,7 @@
 - [denoland/fresh_charts](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger) - Hledger Notes: Create and manage hledger entries directly in Obsidian Daily notes
+- [jsonresume/jsonresume.org](https://github.com/jsonresume/jsonresume.org) - The mono repo that builds the homepage, utils, ui components, registry and anything else
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -2770,7 +2782,7 @@
 - [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte(kit) apps
 - [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 - [cypress-io/cypress-heroes-app](https://github.com/cypress-io/cypress-heroes-app) - Demo app for Cypress
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
