@@ -124,7 +124,6 @@
 - [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua) - A Lua API for SketchyBar
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [reMarkable/linux](https://github.com/reMarkable/linux) - Linux kernel for reMarkable 1 & 2. zero-sugar is rM2 and zero-gravitas is rM1.
@@ -550,6 +549,7 @@
 
 ## Go 
 
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
 - [mattpetters/ClawFleet](https://github.com/mattpetters/ClawFleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes — use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard.
 - [clawfleet/ClawFleet](https://github.com/clawfleet/ClawFleet) - Deploy a fleet of AI agents (OpenClaw, Hermes) on your machine in 10 minutes — use your ChatGPT subscription, no cloud bills. Open-source fleet manager with browser dashboard.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -821,7 +821,6 @@
 
 - [Fooftilly/kokoro-extension](https://github.com/Fooftilly/kokoro-extension) - Send text from browser to Kokoro-FastAPI for TTS generation
 - [deepsteve/deepsteve](https://github.com/deepsteve/deepsteve) - A UI around your Claude Code and Codex terminals that your agents build, so the only model in your head is yours.
-- [daijro/openplayground](https://github.com/daijro/openplayground) - Multiplayer Adobe, Microsoft Office, Autodesk, FL Studio, & much more for free in your browser. Updated every 15 minutes.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [cpypwn/mac2jb](https://github.com/cpypwn/mac2jb) - etawen untether
 - [Steake/shannon-uncontained](https://github.com/Steake/shannon-uncontained) - Shannon-Uncontained. A Docker-free, black‑box‑first fork that treats AI as a fallible witness rather than an oracle: treats uncertainty as a first class citizen via EQBSL epistemic bookkeeping, and ag
@@ -1489,7 +1488,7 @@
 - [kombosorg/shofel2_linux](https://github.com/kombosorg/shofel2_linux) - 
 - [Fooftilly/PRKS](https://github.com/Fooftilly/PRKS) - Personal Research Knowledge System (WIP)
 - [unitreerobotics/unifolm-wla](https://github.com/unitreerobotics/unifolm-wla) - 
-- [Altimis/Scweet](https://github.com/Altimis/Scweet) - Twitter scraper for X: tweets, profiles, followers and following, no API key needed. Python library with multi-account pooling, proxy support and async, or a hosted version on Apify.
+- [Altimis/Scweet](https://github.com/Altimis/Scweet) - Twitter scraper and X scraper for Python: scrape tweets, profiles, followers, following and trends without the official API. Twitter scraping library with multi-account pooling, proxy support and asyn
 - [HVNT/buddymon](https://github.com/HVNT/buddymon) - Pixel-art pokemon buddy for Claude Code
 - [49-Agents/qorqbot](https://github.com/49-Agents/qorqbot) - Proactive agent for business work, powered by the AI subscriptions you already pay for.
 - [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashb
@@ -1526,7 +1525,6 @@
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-- [daijro/browserforge](https://github.com/daijro/browserforge) - 🎭 Intelligent browser header & fingerprint generator
 - [diafebus/Antelope-Ctl](https://github.com/diafebus/Antelope-Ctl) - This is an Antelope Control App implementation on linux for Orion Studio Synergy Core, could add more devices in the future
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/minimax-h3-mlx) - MLX (Apple Silicon) port of MiniMax-H3 — 33B joint video+audio diffusion. Validated against the diffusers reference; AdaLN precompute drops 13B at inference.
@@ -2108,7 +2106,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [sectore/timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Tabata, Countdown, Timer, Event, Local time.
@@ -2415,6 +2413,7 @@
 
 ## TypeScript 
 
+- [Michaelliv/runline](https://github.com/Michaelliv/runline) - ⚡ Code mode for agents
 - [openai/mcp-extensions](https://github.com/openai/mcp-extensions) - Build plugins that feel like native, first-class features of ChatGPT.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -2560,7 +2559,7 @@
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp) - ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration.
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
