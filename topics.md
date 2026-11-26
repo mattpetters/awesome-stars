@@ -604,7 +604,7 @@
 - [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashb
 - [reliant-labs/forge](https://github.com/reliant-labs/forge) - Forge is an open-source framework and CLI that puts guardrails on any app and deploys it with no account: npx -y @reliantlabs/forge@latest env deploy prod --claimable
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
-- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral is Built for Agentic Engineering. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work. Anything they need comes to your Inbox.
 - [standardagents/dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
@@ -1056,7 +1056,7 @@
 
 ## bugbounty 
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [netlas-io/netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 
@@ -1194,7 +1194,7 @@
 ## claude 
 
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashb
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
@@ -1237,7 +1237,7 @@
 ## claude-code 
 
 - [mcc0x/milo](https://github.com/mcc0x/milo) - Small additions for the Rex terminal: a Git-aware file tree, commit history, diffs, agent usage, and pane layouts that remember your preferences.
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [harshaneel/humanize](https://github.com/harshaneel/humanize) - Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature.
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) - Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashb
@@ -1246,7 +1246,7 @@
 - [reliant-labs/forge](https://github.com/reliant-labs/forge) - Forge is an open-source framework and CLI that puts guardrails on any app and deploys it with no account: npx -y @reliantlabs/forge@latest env deploy prod --claimable
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
 - [greenfield-inc/Pane](https://github.com/greenfield-inc/Pane) - Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in par
-- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral is Built for Agentic Engineering. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work. Anything they need comes to your Inbox.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
@@ -1310,7 +1310,7 @@
 
 ## claude-skills 
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [harshaneel/humanize](https://github.com/harshaneel/humanize) - Best static AI text humanizer. Two research-grounded LLM-agnostic skills that make AI writing sound human and relatable. Nine levers, 50+ peer-reviewed sources, 2024-2026 detection literature.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
@@ -1665,7 +1665,7 @@
 
 - [chulwoo-park/timelines](https://github.com/chulwoo-park/timelines) - A powerful & easy to use timeline package for Flutter! 🚀
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [xvrh/lottie-flutter](https://github.com/xvrh/lottie-flutter) - Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.
 - [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark) - TutorialCoachMark
 - [zeshuaro/appainter](https://github.com/zeshuaro/appainter) - A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app.
@@ -1791,7 +1791,7 @@
 - [illegalstudio/lazyagent](https://github.com/illegalstudio/lazyagent) - Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more
 - [deepsteve/deepsteve](https://github.com/deepsteve/deepsteve) - A UI around your Claude Code and Codex terminals that your agents build, so the only model in your head is yours.
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
-- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral is Built for Agentic Engineering. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work. Anything they need comes to your Inbox.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [epilande/ccmux](https://github.com/epilande/ccmux) - 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them
 - [opensec-git/Pi-Bolt](https://github.com/opensec-git/Pi-Bolt) - ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).
@@ -2150,7 +2150,7 @@
 - [chulwoo-park/timelines](https://github.com/chulwoo-park/timelines) - A powerful & easy to use timeline package for Flutter! 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [xvrh/lottie-flutter](https://github.com/xvrh/lottie-flutter) - Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.
 - [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark) - TutorialCoachMark
 - [zeshuaro/appainter](https://github.com/zeshuaro/appainter) - A material theme editor and generator for Flutter to configure and preview the overall visual theme of your material app.
@@ -3098,7 +3098,7 @@
 - [libimobiledevice/usbmuxd](https://github.com/libimobiledevice/usbmuxd) - A socket daemon to multiplex connections from and to iOS devices
 - [bdwgc/bdwgc](https://github.com/bdwgc/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 - [mpusz/mp-units](https://github.com/mpusz/mp-units) - The Domain-Correct Quantities and Units Library for C++ — full quantity kind safety, ISO 80000 compliant, C++29 standardization candidate.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
@@ -3395,6 +3395,7 @@
 
 ## macos 
 
+- [aykhanium/MacBox](https://github.com/aykhanium/MacBox) - Experimental Apple Silicon (ARM macOS) compatibility layer for XCL using CrossOver, Rosetta 2 and D3DMetal. Native ARM64 runtime is not implemented; retail gameplay is unverified.
 - [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.
 - [xeind/rex-fingers](https://github.com/xeind/rex-fingers) - Letter hints over paths, URLs, and hashes on a Rex pane. A tmux-fingers port.
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
@@ -3407,7 +3408,7 @@
 - [ifpintac/tequila](https://github.com/ifpintac/tequila) - Free, open-source product rendering for Windows, Mac and Linux: CAD in, real materials on, the final picture rendered live as you work.
 - [opensec-git/Pi-Bolt](https://github.com/opensec-git/Pi-Bolt) - ⚡ Pi, the coding agent, compiled ahead of time to one native executable. 10× faster to start, 7× less CPU and 4.5× less memory than Pi on Node. Linux, macOS, Windows, ARM64 and Android (Termux).
 - [varyform/nx-native-wrapper](https://github.com/varyform/nx-native-wrapper) - NX Play: a Mac app to build, play, install and manage Switch games with nxnative, on the Mac and on iPhone/iPad
-- [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows apps for creating, editing, and exporting Mermaid diagrams.
+- [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows app for creating, editing, and exporting Mermaid diagrams.
 - [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
@@ -4251,6 +4252,7 @@
 
 ## others 
 
+- [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 - [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [Redomic/PS5-1422-REHOST](https://github.com/Redomic/PS5-1422-REHOST) - The first publicly documented rehost of a current-gen console kernel: a genuine PS5 14.22 kernel booted under QEMU with no Sony hypervisor, to its own 'Device configuration finished.' Ships no firmwar
@@ -4593,7 +4595,6 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [jasonkneen/mcpz](https://github.com/jasonkneen/mcpz) - 
-- [liftaris/bazaar-ghost](https://github.com/liftaris/bazaar-ghost) - 
 - [vercel/hyperpower](https://github.com/vercel/hyperpower) - Hyper particle effects extension
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
 - [dlech/KeePass2.x](https://github.com/dlech/KeePass2.x) - unofficial mirror of KeePass2.x source code
@@ -4640,7 +4641,7 @@
 - [bmad-code-org/bmad-builder](https://github.com/bmad-code-org/bmad-builder) - The BMad Builder and Validator
 - [bmad-code-org/bmad-method-test-architecture-enterprise](https://github.com/bmad-code-org/bmad-method-test-architecture-enterprise) - Test Architect Full BMad Method Enhancement
 - [edr3x/tmux-sessionizer](https://github.com/edr3x/tmux-sessionizer) - instructions on using tmux-sessionizer to make project workflow blazingly fast
-- [ghuntley/overalls](https://github.com/ghuntley/overalls) - [experimental] An AI-first developer platform that you own. Overalls launches on 12 November 2026.
+- [ghuntley/overalls](https://github.com/ghuntley/overalls) - [experimental] An AI-first developer platform that you own.
 - [mattpetters/kalshi-mcp-fork](https://github.com/mattpetters/kalshi-mcp-fork) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
 - [newyorkcompute/kalshi](https://github.com/newyorkcompute/kalshi) - AI tools for Kalshi prediction markets — MCP server, CLI, and more.
 - [9crusher/mcp-server-kalshi](https://github.com/9crusher/mcp-server-kalshi) - A MCP server to interact with Kalshi prediction markets
@@ -4649,7 +4650,7 @@
 - [mattpetters/multica](https://github.com/mattpetters/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [mattpetters/hermes-agent](https://github.com/mattpetters/hermes-agent) - The agent that grows with you
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 - [neuphonic/neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
@@ -5471,7 +5472,7 @@
 
 ## pentesting 
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -5599,7 +5600,7 @@
 
 ## project-management 
 
-- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral is Built for Agentic Engineering. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work. Anything they need comes to your Inbox.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [hasanyilmaz/operon](https://github.com/hasanyilmaz/operon) - Task management system for humans and agents in Obsidian.
@@ -6052,6 +6053,7 @@
 
 ## rust 
 
+- [aykhanium/MacBox](https://github.com/aykhanium/MacBox) - Experimental Apple Silicon (ARM macOS) compatibility layer for XCL using CrossOver, Rosetta 2 and D3DMetal. Native ARM64 runtime is not implemented; retail gameplay is unverified.
 - [mcc0x/milo](https://github.com/mcc0x/milo) - Small additions for the Rex terminal: a Git-aware file tree, commit history, diffs, agent usage, and pane layouts that remember your preferences.
 - [reyamira/models](https://github.com/reyamira/models) - TUI and CLI for browsing models.dev, benchmarks, coding agents, and statuses for AI providers.
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
@@ -6204,7 +6206,7 @@
 
 ## security-tools 
 
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
