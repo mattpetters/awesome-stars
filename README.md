@@ -126,7 +126,6 @@
 - [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua) - A Lua API for SketchyBar
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd files
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [reMarkable/linux](https://github.com/reMarkable/linux) - Linux kernel for reMarkable 1 & 2. zero-sugar is rM2 and zero-gravitas is rM1.
@@ -462,7 +461,7 @@
 - [felixblaschke/simple_animations](https://github.com/felixblaschke/simple_animations) - Flutter package for creating awesome animations.
 - [JHBitencourt/timeline_tile](https://github.com/JHBitencourt/timeline_tile) - A package to help build customisable timelines in Flutter.
 - [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) - A reactive caching and data-binding framework.   Riverpod makes working with asynchronous code a breeze.
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
+- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library for Dart
 - [gskinner/flutter_animate](https://github.com/gskinner/flutter_animate) - Add beautiful animated effects & builders in Flutter, via an easy, highly customizable unified API.
 - [mhadaily/flutter_designing_layouts_animations_course](https://github.com/mhadaily/flutter_designing_layouts_animations_course) - This is sample codes for "Designing Layouts and Animations with Flutter" Course on pluralsight.com
 - [xvrh/lottie-flutter](https://github.com/xvrh/lottie-flutter) - Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.
@@ -501,7 +500,7 @@
 - [loopyard/loopyard](https://github.com/loopyard/loopyard) - A multiplayer software factory where humans and AI ship code together
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
-- [ghuntley/overalls](https://github.com/ghuntley/overalls) - [experimental] An AI-first developer platform that you own. Overalls launches on 12 November 2026.
+- [ghuntley/overalls](https://github.com/ghuntley/overalls) - [experimental] An AI-first developer platform that you own.
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 
@@ -566,7 +565,7 @@
 - [reliant-labs/reliant](https://github.com/reliant-labs/reliant) - A complete agentic environment with remote connections, workflow-based chats, and more
 - [reliant-labs/forge](https://github.com/reliant-labs/forge) - Forge is an open-source framework and CLI that puts guardrails on any app and deploys it with no account: npx -y @reliantlabs/forge@latest env deploy prod --claimable
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
-- [subgentic/coral](https://github.com/subgentic/coral) - Coral: The Inbox for Your Coding Agents. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work.
+- [subgentic/coral](https://github.com/subgentic/coral) - Coral is Built for Agentic Engineering. You create goals, the Orchestrator creates the tasks, a team of agents picks up the work. Anything they need comes to your Inbox.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [k1LoW/tcmux](https://github.com/k1LoW/tcmux) - tcmux is a terminal and coding agent mux viewer.
 - [a2aproject/a2a-cli](https://github.com/a2aproject/a2a-cli) - The official command-line interface for interacting with A2A (Agent2Agent) compatible agents.
@@ -610,7 +609,7 @@
 - [drolosoft/cmux-resurrect](https://github.com/drolosoft/cmux-resurrect) - 🔄✨🖥️ Session persistence for cmux and Ghostty — save, restore, and manage your terminal workspaces. Never lose your layout again.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [metaspartan/mactop](https://github.com/metaspartan/mactop) - mactop - Apple Silicon Monitor Top
@@ -643,7 +642,6 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 - [Sho0pi/tickli](https://github.com/Sho0pi/tickli) - ✅ A modern command-line interface for TickTick task management.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -1503,11 +1501,12 @@
 
 ## Python 
 
+- [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 - [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) - Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.
 - [weechat/weechat.org](https://github.com/weechat/weechat.org) - Source code of weechat.org.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi
 - [kombosorg/shofel2_linux](https://github.com/kombosorg/shofel2_linux) - 
 - [Fooftilly/PRKS](https://github.com/Fooftilly/PRKS) - Personal Research Knowledge System (WIP)
 - [unitreerobotics/unifolm-wla](https://github.com/unitreerobotics/unifolm-wla) - 
@@ -1549,6 +1548,7 @@
 - [daijro/browserforge](https://github.com/daijro/browserforge) - 🎭 Intelligent browser header & fingerprint generator
 - [diafebus/Antelope-Ctl](https://github.com/diafebus/Antelope-Ctl) - This is an Antelope Control App implementation on linux for Orion Studio Synergy Core, could add more devices in the future
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/minimax-h3-mlx) - MLX (Apple Silicon) port of MiniMax-H3 — 33B joint video+audio diffusion. Validated against the diffusers reference; AdaLN precompute drops 13B at inference.
 - [pawel-mazurkiewicz/ComfyUI-AppleSilicon-FP8](https://github.com/pawel-mazurkiewicz/ComfyUI-AppleSilicon-FP8) - Run FP8 models on Apple Silicon / MPS in ComfyUI. Compatibility layer for ComfyUI on Apple Silicon.
 - [BobJohnson24/ComfyUI-INT8-Fast](https://github.com/BobJohnson24/ComfyUI-INT8-Fast) - Custom node to load models in INT8 for 1.5~2X Speed gains on 30 series cards.
@@ -2007,6 +2007,7 @@
 
 ## Rust 
 
+- [aykhanium/MacBox](https://github.com/aykhanium/MacBox) - Experimental Apple Silicon (ARM macOS) compatibility layer for XCL using CrossOver, Rosetta 2 and D3DMetal. Native ARM64 runtime is not implemented; retail gameplay is unverified.
 - [massimodeluisa/socli](https://github.com/massimodeluisa/socli) - A thread-first terminal client for X, Bluesky, dev/null, Threads and Mastodon.
 - [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) - Read PDFs, markdown files and web articles in the terminal.
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
@@ -2469,7 +2470,7 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [mattpetters/shannon](https://github.com/mattpetters/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows apps for creating, editing, and exporting Mermaid diagrams.
+- [highvoltag3/mermalaid](https://github.com/highvoltag3/mermalaid) - A lightweight native macOS & Windows app for creating, editing, and exporting Mermaid diagrams.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [stephendolan/omnifocus-cli](https://github.com/stephendolan/omnifocus-cli) - A command-line interface for OmniFocus on macOS
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
@@ -2582,7 +2583,6 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [liftaris/bazaar-ghost](https://github.com/liftaris/bazaar-ghost) - 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [liftaris/herm](https://github.com/liftaris/herm) - The Hermes TUI built with OpenTUI
 - [openai/openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
@@ -2673,6 +2673,7 @@
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [themotionmachine/OmniFocus-MCP](https://github.com/themotionmachine/OmniFocus-MCP) - Let LLMs interface with your tasks and projects through the Model Context Protocol. Add, organize, and query your OmniFocus database with natural language commands.
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [browserbase/playbook](https://github.com/browserbase/playbook) - Collection of templates, guides, and best practices to help you get the most out of Browserbase.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
